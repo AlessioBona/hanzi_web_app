@@ -1,6 +1,3230 @@
-id,character,keyword,description
-1,爱,love,"To love, affection, to be fond of"
-2,学,learn,"To learn, to study, science, knowledge"
-3,水,water,"Water, liquid, fluid, ripple"
-4,人,person,"Person, people, human, mankind"
-5,大,big,"Big, large, great, major"
+id,character,keyword,pinyin,description
+1,一,One,yī,一流 (yī liú) First-class -- 万一 (wàn yī) In case -- 唯一 (wéi yī) Only -- 奄奄一息 (yǎnyǎn yī xī) On the verge of death -- 一辈子 (yī bèi zi) all one's life -- 一举一动 (yī jǔ yī dòng) Every move -- 一决高下 (yì jué gāo xià) Decide (on) who is superior -- 合二为一 (hé èr wéi yī) Merge into one -- 一步之遥 (yī bù zhī yáo) A step away -- 一切 (yī qiè) Everything -- 一致 (yī zhì) unanimous/consistent
+2,二,Two,èr,合二为一 (hé èr wéi yī) Merge into one
+3,三,Three,sān,朝三暮四 (zhāo sān mù sì) Fickle
+4,四,Four,sì,朝三暮四 (zhāo sān mù sì) Fickle
+5,五,Five,wǔ,
+6,六,Six,liù,
+7,七,Seven,qī,
+8,八,Eight,bā,
+9,九,Nine,jiǔ,
+10,十,Ten,shí,十分精彩 (shí fēn jīng cǎi) Very exciting
+11,口,Mouth,kǒu,口气 (kǒu qì) Tone -- 口出狂言 (kǒu chū kuáng yán) Boastful words
+12,日,Day,rì,时日 (shí rì) Time -- 末日 (mò rì) Doomsday
+13,月,Month,yuè,
+14,田,Rice Field,tián,田径 (tián jìng) Track and field
+15,目,Eye,mù,目标 (mù biāo) Target -- 死不瞑目 (sǐ bù míng mù) Die with regret
+16,古,Ancient,gǔ,古怪 (gǔ guài) eccentric
+17,胡,Recklessly,hú,"胡闹 (hú nào) Fool around, act recklessly"
+18,叶,Leaf,yè,
+19,吾,I (literary),wú,
+20,朋,Companion,péng,
+21,明,Bright,míng,"明智 (míng zhì) Wise -- 高明 (gāo míng) skilled; wise; brilliant (often describing methods/people) -- 明显 (míngxiǎn) obvious, clear"
+22,品,Goods,pǐn,作品 (zuò pǐn) artwork/literary work
+23,晶,Sparkling,jīng,
+24,昌,Prosperous,chāng,
+25,唱,Sing,chàng,
+26,早,Early,zǎo,早就 (zǎojiù) Already happened earlier
+27,旭,Rising Sun,xù,
+28,世,Generation,shì,尘世 (chén shì) Mundane world -- 救世主 (jiù shì zhǔ) savior; Messiah (宗教语境)
+29,胃,Stomach,wèi,
+30,旦,Daybreak,dàn,
+31,凹,Concave,āo,
+32,凸,Convex,tū,
+v1p31,p.,p.A drop of,,
+v1p32,p.丨,p.Walking stick,,
+33,自,Oneself,zì,自幼 (zìyòu) Since Childhood -- 镇定自若 (zhèn dìng zì ruò) Calm and composed -- 自豪 (zìháo) Proud -- 自如 (zì rú) with ease/fluently -- 骄傲自大 (jiāo ào zì dà) arrogant; conceited -- 自卑 (zìbēi) low self-esteem; feel inferior
+34,白,White,bái,白痴 (báichī) idiot
+35,百,Hundred,bǎi,漏洞百出 (lòudòng bǎichū) Full of loopholes
+36,皂,Soap,zào,
+37,旧,Old,jiù,
+38,中,Middle,zhōng,无意中 (wú yì zhōng) Unintentionally
+39,千,Thousand,qiān,千载难逢 (qiān zǎi nán féng) Once in a lifetime
+40,舌,Tongue,shé,
+41,升,Liter,shēng,
+42,丸,Pill,wán,
+43,卜,Divination,bǔ,占卜 (zhān bǔ) Divination
+44,占,Tell Fortunes,zhān,占便宜 (zhàn piányi) Take Advantage -- 占卜 (zhān bǔ) Divination -- 占优势 (zhàn yōu shì) Dominate -- 占用 (zhàn yòng) Occupy
+45,上,Above,shàng,上阵 (shàngzhèn) Go into battle -- 实际上 (shí jì shàng) Actually
+46,下,Below,xià,"下面 (xià miàn) Below -- 一决高下 (yì jué gāo xià) Decide (on) who is superior -- 蜕下 (tuì xià) Shed -- 地下室 (dì xià shì) Basement -- 下载 (xiàzài) to download -- 私下 (sīxià) privately, in private -- 接下来 (jiē xiàlái) next, following -- 腋下 (yèxià) armpit"
+47,卡,Card,kǎ,
+48,卓,Eminent,zhuó,艰苦卓绝 (jiān kǔ zhuó jué) extremely hard and bitter/arduous
+v1p37,p.,p.Mist,,
+49,朝,Dynasty,cháo,朝三暮四 (zhāo sān mù sì) Fickle
+50,嘲,Ridicule (v.),cháo,
+v1p39-1,p.,p.Animal legs,,
+v1p39-2,p.勹,p.Bound up,,
+v1p40,p.丷,p.Horns,,
+51,只,Only,zhǐ,只好 (zhǐhǎo) have no choice but to
+52,贝,Shellfish,bèi,
+53,贴,Paste (v.),tiē,
+54,贞,Chaste,zhēn,
+55,员,Employee,yuán,
+56,儿,Youngster,ér,
+57,几,How many?,jǐ,几乎 (jī hū) Almost -- 所剩无几 (suǒ shèng wú jǐ) Very little left
+58,见,See,jiàn,见识 (jiàn shí) enrich one's experience -- 少见 (shǎo jiàn) Rare
+59,元,Beginning,yuán,异次元 (yì cì yuán) alternate dimension; different plane of existence
+60,页,Page,yè,
+61,顽,Stubborn,wán,顽强 (wán qiáng) Tenacious/tough -- 顽固 (wán gù) Stubborn
+62,凡,Ordinary,fán,
+63,肌,Muscle,jī,
+64,负,Defeated,fù,胜负难料 (shèng fù nán liào) outcome hard to predict -- 肩负 (jiān fù) Shoulder (a responsibility) -- 欺负 (qīfu) to bully
+65,万,Ten Thousand,wàn,万一 (wàn yī) In case
+66,匀,Uniform (adj.),yún,
+67,句,Sentence,jù,换句话说 (huàn jù huà shuō) in other words
+68,旬,Decameron,xún,
+69,勺,Ladle,sháo,
+70,的,Bull’s Eye,de,的确 (díquè) Indeed -- 有的是 (yǒu de shì) Plenty of -- 托你的福 (tuō nǐ de fú) thanks to you (polite)
+71,首,Heads,shǒu,首先 (shǒu xiān) First
+72,直,Straight,zhí,直接 (zhí jiē) Direct -- 直奔 (zhí bèn) Direct to
+73,置,Set Up,zhì,装置 (zhuāng zhì) Device -- 不敢置信 (bù gǎn zhì xìn) Unbelievable
+v1p49,p.,p.Tool,,
+74,具,Tool,jù,家具 (jiā jù) Furniture -- 具体 (jù tǐ) Specific
+75,真,true (adj),zhēn,写真集 (xiě zhēn jí) photo album -- 逼真 (bī zhēn) Lifelike/Realistic -- 天真 (tiān zhēn) Innocent/naive -- 真相 (zhēn xiàng) truth; actual facts
+v1p50,p.,p.By one's side,,
+76,工,Work (n.),gōng,工资 (gōng zī) Salary -- 人工 (réngōng) Artificial -- 清洁工 (qīng jié gōng) Cleaner
+77,左,Left,zuǒ,
+78,右,Right,yòu,
+79,有,Possess,yǒu,"有意 (yǒu yì) intentional, deliberate -- 含有 (hán yǒu) Contain -- 有勇无谋 (yǒu yǒng wú móu) Brave but not smart -- 有的是 (yǒu de shì) Plenty of -- 拥有 (yōng yǒu) Own -- 有机物质 (yǒu jī wù zhì) Organic matter -- 空有 (kōng yǒu) Have in vain -- 有效 (yǒuxiào) effective"
+80,贿,Bribe (n.),huì,
+v1p54,p.畐,p.Wealth,,
+81,贡,Tribute,gòng,
+82,项,Item,xiàng,
+83,刀,Sword,dāo,
+84,刃,Blade,rèn,
+85,切,Cut (v.),qiē,一切 (yī qiè) Everything
+86,召,Summon,zhào,召唤 (zhào huàn) summon/conjure
+87,昭,Evident,zhāo,
+88,则,Rule (n.),zé,规则 (guī zé) Rule
+89,副,Vice-,fù,
+90,丁,Fourth,dīng,
+91,叮,Sting (v.),dīng,
+92,可,Can,kě,可怜 (kělián) Pitiful -- 无可挽回 (wú kě wǎn huí) Irretrievable -- 宁可 (nìng kě) Preferably/Would rather -- 可疑 (kě yí) suspicious -- 可靠 (kě kào) reliable
+93,哥,Older Brother,gē,
+94,顶,Crest,dǐng,顶着 (dǐng zhe) Endure/Hold up
+95,乙,Second,yǐ,
+96,飞,Fly (v.),fēi,飞毛腿 (fēi máo tuǐ) Fast runner
+97,子,Child,zǐ,胆子大 (dǎnzi dà) Brave/courageous -- 兔崽子 (tù zǎi zi) Brat -- 一辈子 (yī bèi zi) all one's life -- 幌子 (huǎng zi) Pretext/cover -- 兜圈子 (dōu quān zi) Go in circles -- 爪子 (zhuǎ zi) claw; talon -- 靶子 (bǎ zi) target (for shooting practice) -- 例子 (lìzi) example -- 放鸽子 (fàng gēzi) to stand someone up
+98,孔,Cavity,kǒng,
+99,吼,Roar (v.),hǒu,
+100,乱,Chaos / Riot,luàn,捣乱 (dǎo luàn) Disrupt
+101,了,(-ed),le,差远了 (chà yuǎn le) Far from it -- 饶不了 (ráo bù liǎo) won't forgive
+102,女,Woman,nǚ,
+103,好,Good,hǎo,幸好 (xìng hǎo) Fortunately -- 友好 (yǒuhǎo) friendly -- 只好 (zhǐhǎo) have no choice but to
+104,如,Be like,rú,不如 (bù rú) Not as good as -- 技不如人 (jì bù rú rén) Inferior skills -- 假如 (jiǎ rú) If -- 自如 (zì rú) with ease/fluently -- 长痛不如短痛 (cháng tòng bù rú duǎn tòng) a short pain is better than a long one
+105,母,Mother,mǔ,贤妻良母 (xián qī liáng mǔ) Virtuous wife and good mother
+106,贯,Pierce,guàn,
+107,兄,Elder Brother,xiōng,
+108,克,Overcome,kè,克服 (kè fú) Overcome
+109,小,Small,xiǎo,缩小 (suōxiǎo) shrink -- 胆小鬼 (dǎn xiǎo guǐ) coward -- 胆小 (dǎnxiǎo) timid
+110,少,Few,shǎo,少年 (shào nián) Youth -- 少见 (shǎo jiàn) Rare -- 少爷 (shào ye) young master; son of wealthy family -- 至少 (zhìshǎo) at least
+111,吵,Noisy,chǎo,
+112,孙,Grandchild,sūn,
+113,大,Large,dà,胆子大 (dǎnzi dà) Brave/courageous -- 奇大无比 (qí dà wú bǐ) Extremely large -- 老大 (lǎo dà) Boss/Leader/Head -- 大言不惭 (dàyán bù cán) Boast shamelessly -- 车轮大战 (chē lún dà zhàn) Marathon battle -- 大富翁 (dà fù wēng) Tycoon/rich man -- 骄傲自大 (jiāo ào zì dà) arrogant; conceited -- 大展拳脚 (dà zhǎn quán jiǎo) showcase one's abilities; put skills into full play
+114,尖,Tip (n.),jiān,
+115,夕,Evening,xī,
+116,多,Many,duō,多亏 (duōkuī) Thanks to
+117,够,Enough,gòu,足够 (zú gòu) Enough
+118,外,Outside,wài,外行 (wài háng) layperson; amateur
+119,名,Name (n.),míng,名册 (míng cè) Roster
+120,罗,Silk Gauze,luó,
+121,厂,Factory,chǎng,
+122,厅,Hall,tīng,
+123,厉,"Stern （severe, strict)",lì,凌厉 (líng lì) swift and fierce
+124,厚,Thick,hòu,
+125,石,Stone,shí,陨石 (yǔn shí) Meteorite -- 岩石 (yán shí) Rock
+126,砂,Gravel,shā,
+127,妙,Wonderful,miào,
+128,肖,Resemble,xiào,
+129,削,Peel (v.),xuē,
+130,光,Ray,guāng,"光秃秃 (guāng tū tū) bare, bald -- 杀光 (shā guāng) Kill all -- 眼光 (yǎn guāng) Vision, insight -- 光线 (guāng xiàn) light ray -- 光圈 (guāng quān) aperture (photography)"
+131,太,Overly,tài,欺人太甚 (qī rén tài shèn) Bully excessively
+132,省,Economize,shěng,"省去 (shěng qù) omit, save -- 反省 (fǎn xǐng) Reflect"
+133,奇,Strange,qí,奇大无比 (qí dà wú bǐ) Extremely large -- 稀奇 (xī qí) Rare -- 奇迹 (qí jì) Miracle
+134,川,Stream,chuān,
+135,州,State,zhōu,
+136,顺,Obey,shùn,"顺眼 (shùn yǎn) Pleasing to the eye -- 顺利 (shùn lì) smoothly; successfully -- 顺便 (shùnbiàn) conveniently, in passing"
+137,水,Water,shuǐ,薪水 (xīnshuǐ) salary
+138,永,Eternity,yǒng,
+139,脉,Blood Vessels,mài,脉搏 (mài bó) Pulse
+140,求,Request (v.),qiú,要求 (yāoqiú) Request
+141,泉,(water)Spring,quán,泉涌 (quányǒng) Spring out
+142,原,Flatlands,yuán,还原 (huányuán) return to the original condition or shape -- 原谅 (yuán liàng) Forgive
+143,泳,Swim,yǒng,
+144,洲,Continent,zhōu,
+145,沼,Marsh,zhǎo,
+146,沙,Sand,shā,
+147,江,Yangtze,jiāng,
+148,汁,Juice,zhī,
+149,潮,Tide,cháo,
+150,源,Source,yuán,
+151,活,Lively,huó,复活 (fù huó) Resurrection -- 不知死活 (bù zhī sǐ huó) Reckless -- 灵活 (líng huó) Flexible/Agile
+152,消,Extinguish,xiāo,消耗 (xiāo hào) Consume/Expend -- 消灭 (xiāo miè) Eliminate -- 消遣 (xiāo qiǎn) Amusement/pastime -- 取消 (qǔ xiāo) Cancel -- 消极 (xiāojí) passive; negative
+153,河,River,hé,银河系 (yín hé xì) Milky Way Galaxy
+154,鱼,Fish,yú,
+155,渔,Fishing,yú,
+156,湖,Lake,hú,
+157,测,Fathom (v.),cè,测量 (cèliáng) Measure -- 推测 (tuī cè) Speculate
+158,土,Soil,tǔ,"土气 (tǔ qì) Unfashionable, rustic"
+159,均,Equal,jūn,
+160,肚,Belly,dù,
+161,尘,Dust,chén,灰尘 (huī chén) Dust -- 尘世 (chén shì) Mundane world
+162,填,Fill in,tián,
+163,吐,Spit (v.),tǔ,
+164,压,Pressure (n.),yā,
+v1p80,p.圭,p.Bricks,,
+165,哇,Waaah!,wa,
+166,寸,Chinese inch,cùn,
+167,封,Seal (v.),fēng,封印 (fēng yìn) seal (magical)
+168,时,Time,shí,"时代 (shí dài) era, age -- 暂时 (zàn shí) Temporary -- 时机 (shí jī) Opportunity/Timing -- 时日 (shí rì) Time"
+169,寺,Buddhist temple,sì,
+170,火,Fire,huǒ,火暴 (huǒ bào) Fiery
+171,灭,Destroy,miè,消灭 (xiāo miè) Eliminate -- 毁灭 (huǐ miè) Destroy
+172,灰,Ashes,huī,灰尘 (huī chén) Dust -- 吹灰之力 (chuī huī zhī lì) Effortless -- 灰暗 (huī àn) Gloomy
+173,烦,Vexed,fán,添麻烦 (tiān máfan) Add Trouble
+174,炎,Inflammation,yán,
+175,淡,"Thin, (light, weak) (adj.)",dàn,
+176,灯,Lamp,dēng,
+177,点,Spot (n.),diǎn,"给点颜色看看 (gěi diǎn yán sè kàn) ""teach someone a lesson""; show one's power"
+178,照,"Illuminate, take a picture",zhào,照看 (zhào kàn) Take care of -- 按照 (àn zhào) According to
+179,里,Li,lǐ,
+180,量,"Quantity, amount",liàng,测量 (cèliáng) Measure -- 饭量 (fàn liàng) Appetite -- 音量 (yīn liàng) Volume -- 商量 (shāng liáng) Discuss -- 较量 (jiào liàng) to compete; to measure strength against
+181,埋,Bury,mái,
+182,黑,Black,hēi,漆黑 (qī hēi) pitch-dark; complete darkness
+183,墨,Black Ink,mò,墨镜 (mò jìng) sunglasses
+v1p88,p.冂,p.Hood,,
+184,冒,Risk (v.),mào,
+185,同,Same,tóng,"同流合污 (tóng liú hé wū) to collude with evil -- 截然不同 (jiérán bùtóng) Completely different -- 同胞 (tóngbāo) Compatriots -- 同归于尽 (tóng guī yú jìn) Mutual destruction -- 相同 (xiāngtóng) same -- 共同 (gòngtóng) common, shared"
+186,洞,Cave,dòng,漏洞百出 (lòudòng bǎichū) Full of loopholes
+187,丽,Lovely,lì,
+188,向,Orientation,xiàng,
+189,响,Echo (n.),xiǎng,"影响 (yǐngxiǎng) to influence, impact"
+190,尚,Esteem (v.),shàng,
+v1p90,p.宀,p.House,,
+191,字,Character,zì,
+192,守,Guard (v.),shǒu,
+193,完,Finish (v.),wán,完美 (wánměi) perfect
+194,灾,Disaster,zāi,
+195,宣,Proclaim,xuān,
+196,宵,Nighttime,xiāo,
+197,安,Peaceful,ān,"安装 (ān zhuāng) install, set up -- 安然无恙 (ān rán wú yàng) Safe and sound -- 安逸 (ān yì) Comfortable -- 安全 (ānquán) safety, safe"
+198,宴,Banquet,yàn,
+199,寄,Mail (v.),jì,寄 (jì) Send
+200,富,Wealthy,fù,丰富 (fēng fù) Rich/enrich -- 大富翁 (dà fù wēng) Tycoon/rich man
+201,贮,Store up,zhù,
+202,木,Tree,mù,木偶 (mù ǒu) Puppet
+203,林,Woods,lín,
+204,森,Forest,sēn,
+205,梦,Dream (n.),mèng,
+206,机,Machine,jī,机械 (jī xiè) Machinery/Mechanical -- 时机 (shí jī) Opportunity/Timing -- 趁机 (chènjī) Take the opportunity -- 有机物质 (yǒu jī wù zhì) Organic matter
+207,植,Plant (v.),zhí,
+208,杏,Apricot,xìng,
+209,呆,Dim-witted,dāi,
+210,枯,Withered,kū,
+211,村,Village,cūn,
+212,相,One another,xiāng,相处 (xiāngchǔ) Get Along -- 相扑 (xiàng pū) Sumo -- 识相 (shíxiàng) Sensible -- 真相 (zhēn xiàng) truth; actual facts -- 相比 (xiāngbǐ) compare with -- 相同 (xiāngtóng) same
+213,本,Notebook,běn,基本 (jīběn) basically -- 本领 (běnlǐng) Skill -- 本性 (běn xìng) nature; inherent character
+214,案,Case,àn,
+215,未,Not yet,wèi,未必 (wèibì) Not necessarily -- 未免 (wèi miǎn) Somewhat -- 乳臭未干 (rǔ xiù wèi gān) Wet behind the ears
+216,末,Last,mò,末日 (mò rì) Doomsday -- 粉末 (fěn mò) powder
+217,沫,Foam,mò,
+218,味,Flavor,wèi,意味 (yìwèi) Mean -- 索然无味 (suǒ rán wú wèi) Tasteless
+219,妹,Younger sister,mèi,
+220,查,Investigate,chá,
+221,渣,Sediment,zhā,人渣 (rén zhā) scum
+222,染,Dye,rǎn,传染 (chuán rǎn) Infect/Contagious -- 染头发 (rǎn tóu fà) Dye hair
+223,李,Plum,lǐ,
+224,桌,Table,zhuō,
+225,杂,Miscellaneous,zá,复杂 (fùzá) complicated
+v1p100,p.艹,p.Flower,,
+226,若,As if,ruò,镇定自若 (zhèn dìng zì ruò) Calm and composed
+227,草,Grass,cǎo,
+228,艺,Technique,yì,武艺 (wǔ yì) martial arts
+229,苦,Suffering,kǔ,艰苦卓绝 (jiān kǔ zhuó jué) extremely hard and bitter/arduous -- 刻苦 (kè kǔ) Hardworking/assiduous -- 艰苦 (jiān kǔ) Hardship
+230,宽,Wide,kuān,
+231,莫,Nobody,mò,非你莫属 (fēi nǐ mò shǔ) It must be you
+232,模,Imitate,mó,模糊 (móhu) unclear; vague
+233,漠,Desert,mò,
+234,墓,Grave,mù,
+235,苗,Seedling,miáo,
+236,瞄,Aim,miáo,
+237,兆,Portent,zhào,
+238,桃,Peach,táo,
+239,犬,Pooch,quǎn,
+240,尤,Remarkable,yóu,尤其 (yóu qí) Especially
+241,厌,Detest,yàn,
+242,状,State of affairs,zhuàng,
+243,妆,Put on makeup,zhuāng,
+244,将,General (military rank),jiàng,将军 (jiāngjūn) General -- 兵来将挡 (bīng lái jiàng dǎng) meet force with force; respond appropriately to changes
+245,获,Seize,huò,
+246,默,Silent,mò,幽默感 (yōu mò gǎn) Sense of humor
+247,然,Sort of thing,rán,果然 (guǒ rán) as expected -- 安然无恙 (ān rán wú yàng) Safe and sound -- 截然不同 (jiérán bùtóng) Completely different -- 索然无味 (suǒ rán wú wèi) Tasteless -- 居然 (jū rán) unexpectedly; to one's surprise
+v1p111,p.,p.Chatterbox,,
+248,哭,Cry (v.),kū,
+249,器,Utensil,qì,遥控器 (yáo kòng qì) remote control
+250,臭,Stinking,chòu,乳臭未干 (rǔ xiù wèi gān) Wet behind the ears
+251,狗,Dog,gǒu,狗粮 (gǒu liáng) dog food
+252,牛,Cow,niú,吹牛 (chuī niú) brag
+253,特,Special,tè,特别 (tè bié) Special -- 特训 (tè xùn) Special training
+254,告,Declare,gào,转告 (zhuǎn gào) Pass on (a message) -- 忠告 (zhōnggào) Advice -- 祷告 (dǎo gào) pray (v.) / prayer (n.)
+255,浩,Vast,hào,
+256,先,Before,xiān,先进 (xiān jìn) Advanced -- 首先 (shǒu xiān) First
+257,洗,Wash (v.),xǐ,
+v1p115-1,p.,p.Umbrella,,
+258,个,Individual,gè,某个 (mǒu gè) A Certain -- 个性 (gèxìng) personality
+v1p115-2,p.,p.Crutches,,
+259,介,Introduce,jiè,介绍 (jiè shào) Introduce
+260,界,World,jiè,出界 (chū jiè) Out of bounds
+261,茶,Tea,chá,
+v1p117,p.亼,p.Meeting,,
+262,合,Fit (v.),hé,"同流合污 (tóng liú hé wū) to collude with evil -- 会合 (huì hé) Meet/Gather -- 合二为一 (hé èr wéi yī) Merge into one -- 凑合 (còu he) Make do/mediocre -- 合适 (héshì) suitable, appropriate"
+263,哈,Ha!,hā,
+264,塔,Pagoda,tǎ,
+265,王,King,wáng,
+266,玉,Jade,yù,
+267,宝,Treasure (n.),bǎo,
+268,球,Ball,qiú,垒球 (lěiqiú) Softball
+269,现,Present (adj.),xiàn,展现 (zhǎn xiàn) Display
+270,玩,Play (v.),wán,
+271,狂,Crazy,kuáng,狂奔 (kuáng bēn) Run wildly -- 口出狂言 (kǒu chū kuáng yán) Boastful words
+272,皇,Emperor,huáng,
+273,煌,Resplendent,huáng,
+274,呈,Submit,chéng,
+275,全,Whole,quán,"周全 (zhōu quán) thorough; thoughtful -- 安全 (ānquán) safety, safe"
+276,理,Logic,lǐ,"经理 (jīng lǐ) Manager -- 理想 (lǐxiǎng) ideal, dream -- 讲理 (jiǎnglǐ) reasonable, to be reasonable"
+277,主,Lord,zhǔ,班主任 (bānzhǔrèn) head teacher -- 主角 (zhǔ jué) Main character -- 主意 (zhǔ yì) Idea -- 救世主 (jiù shì zhǔ) savior; Messiah (宗教语境)
+278,注,Pour,zhù,
+279,金,Gold,jīn,奖金 (jiǎng jīn) Prize
+280,钟,Bell,zhōng,
+281,铜,Copper,tóng,
+282,钓,Go fishin’,diào,
+283,针,Needle,zhēn,
+284,钉,Nail (n.),dīng,
+285,铭,Inscription,míng,
+286,镇,At ease,zhèn,镇定自若 (zhèn dìng zì ruò) Calm and composed -- 镇 (zhèn) Town
+v1p128,p.⻌,p.Road,,
+287,道,Way,dào,频道 (pín dào) Channel -- 道服 (dào fú) Martial Arts Uniform -- 头头是道 (tóu tóu shì dào) (explain) logically and systematically; sound convincing
+288,达,Reach (v.),dá,
+289,远,Distant,yuǎn,差远了 (chà yuǎn le) Far from it
+290,适,Suitable,shì,"适宜 (shì yí) Suitable -- 合适 (héshì) suitable, appropriate"
+291,过,Cross (v.),guò,放马过来 (fàng mǎ guò lái) Bring it on -- 过瘾 (guòyǐn) Satisfy a craving -- 过程 (guòchéng) process
+292,迈,Stride,mài,
+293,迅,Speedy,xùn,迅速 (xùn sù) Rapid
+294,造,Create,zào,"制造出 (zhìzào chū) Manufacture, create -- 编造 (biān zào) fabricate; make up (a story/lie)"
+295,逃,Escape (v.),táo,
+296,巡,Patrol (v.),xún,
+297,选,Choose,xuǎn,选拔 (xuǎn bá) selection -- 选择 (xuǎn zé) Choose
+298,逊,Modest,xùn,
+299,逛,Stroll,guàng,
+300,车,Car,chē,车轮大战 (chē lún dà zhàn) Marathon battle
+301,连,One after another,lián,
+302,莲,Lotus,lián,
+v1p131,p.刖,p.Butcher,,
+303,前,In front,qián,前提 (qián tí) precondition -- 前途 (qián tú) Future
+304,剪,Shears,jiǎn,
+v1p132,p.俞,p.Slaughterhouse,,
+305,输,Transport,shū,认输 (rèn shū) Admit defeat
+306,逾,Exceed,yú,
+v1p133,p.夂,p.Walking legs,,
+307,条,Strip (n.),tiáo,
+308,处,Location,chù,相处 (xiāngchǔ) Get Along
+309,各,Each,gè,"各式各样 (gè shì gè yàng) various, all kinds"
+310,格,Pattern,gé,"资格 (zī gé) Qualification -- 性格 (xìnggé) personality, character"
+311,略,Abbreviation,lüè,忽略 (hū lüè) Ignore
+312,客,Guest,kè,
+313,额,Forehead,é,
+314,夏,Summer,xià,
+315,洛,L.A.,luò,
+316,落,Fall (v.),luò,
+317,备,Prepare,bèi,
+v1p136,p.,p.Crown,,
+318,冗,Superfluous,rǒng,
+319,沉,Profound (in water or in thoughts),chén,
+320,军,Army,jūn,将军 (jiāngjūn) General -- 冠军 (guàn jūn) Champion -- 亚军 (yà jūn) Runner-up
+321,辉,Radiance,huī,
+v1p137-1,p.亠,p.Top hat,,
+v1p137-2,p.亢,p.Whirlwind,,
+322,冠,Crown,guān,冠军 (guàn jūn) Champion
+323,坑,Pit (n.),kēng,
+324,亩,Chinese acre,mǔ,
+325,高,Tall,gāo,一决高下 (yì jué gāo xià) Decide (on) who is superior -- 清高 (qīng gāo) Noble and aloof -- 高明 (gāo míng) skilled; wise; brilliant (often describing methods/people)
+326,享,Enjoy,xiǎng,
+327,熟,Ripe,shú,熟悉 (shú xī) Familiar
+328,亭,Pavilion,tíng,
+329,亮,Shiny,liàng,
+330,京,Capital,jīng,
+331,景,Scenery,jǐng,
+332,就,At once (and then... jiù),jiù,早就 (zǎojiù) Already happened earlier
+v1p140,p.,p.Lidded crock,,
+333,周,Circumference,zhōu,周全 (zhōu quán) thorough; thoughtful
+334,士,Soldier,shì,勇士 (yǒng shì) Warrior/Brave person
+335,吉,Lucky,jí,
+336,壮,Robust,zhuàng,
+v1p142,p.,p.Schoolhouse,,
+337,学,Study (v.),xué,学者 (xué zhě) Scholar -- 哲学 (zhéxué) philosophy
+338,觉,Senses,jué,察觉 (chá jué) Perceive
+v1p143,p.,p.Taskmaster,,
+339,攻,attack (v.),gōng,进攻 (jìn gōng) Attack
+340,敌,Enemy,dí,轻敌 (qīng dí) Underestimate the enemy -- 不敌 (bù dí) Unable to match -- 敌对 (díduì) hostile
+341,败,fail (v.),bài,败类 (bài lèi) scoundrel -- 失败 (shībài) to fail / failure
+342,故,Deliberately,gù,故障 (gù zhàng) Malfunction
+343,救,Rescue (v.),jiù,拯救 (zhěng jiù) Rescue -- 救世主 (jiù shì zhǔ) savior; Messiah (宗教语境)
+344,敬,Revere,jìng,
+345,敞,Spacious,chǎng,
+346,言,Say,yán,大言不惭 (dàyán bù cán) Boast shamelessly -- 口出狂言 (kǒu chū kuáng yán) Boastful words
+347,警,Police,jǐng,警惕 (jǐng tì) Vigilant/Alert
+348,计,Plan (n.),jì,估计 (gū jì) estimate -- 设计 (shè jì) Design -- 诡计 (guǐ jì) trick/scheme
+349,让,"Yield, allow, let (ràng)",ràng,
+350,狱,Prison,yù,
+351,讨,Condemn,tǎo,
+352,训,Instructions,xùn,教训 (jiào xùn) give a lesson，moral -- 训练 (xùn liàn) Training -- 特训 (tè xùn) Special training
+353,识,Knowledge,shí,见识 (jiàn shí) enrich one's experience -- 识相 (shíxiàng) Sensible -- 识破 (shí pò) See through
+354,话,Talk (n.),huà,"换句话说 (huàn jù huà shuō) in other words -- 对话 (duì huà) Dialogue/conversation -- 丑话 (chǒuhuà) unpleasant words, harsh truth"
+355,诗,Poem,shī,
+356,语,Language,yǔ,咒语 (zhòu yǔ) incantation/spell -- 救世主 (jiù shì zhǔ) savior; Messiah (宗教语境)
+357,调,Tune (n.),diào,"调教 (tiáo jiào) Train -- 协调 (xiétiáo) to coordinate, harmonious"
+358,谈,Discuss,tán,无稽之谈 (wújī zhī tán) Nonsense
+v1p148,p.弋,p.Arrow,,
+359,式,Style,shì,"各式各样 (gè shì gè yàng) various, all kinds"
+360,试,Test,shì,面试 (miàn shì) Interview
+361,戈,Halberd,gē,
+362,战,War,zhàn,车轮大战 (chē lún dà zhàn) Marathon battle -- 挑战 (tiǎo zhàn) challenge; to challenge
+363,划,Scratch (v.),huà,指手划脚 (zhǐ shǒu huà jiǎo) Gesticulate/to criticize
+364,或,Or,huò,
+365,贼,Burglar,zéi,
+v1p150-1,p.,p.Thanksgiving,,
+366,载,Laden,zài,千载难逢 (qiān zǎi nán féng) Once in a lifetime -- 下载 (xiàzài) to download
+v1p150-2,p.戊,p.Parade,,
+367,茂,Lush,mào,
+368,成,Turn into,chéng,当成 (dàng chéng) to be considered as
+369,城,City,chéng,
+370,诚,Sincere,chéng,诚实 (chéng shí) Honest
+v1p151,p.戌,p.March,,
+371,威,Might (n.),wēi,威力 (wēi lì) power/might
+372,咸,Salty,xián,
+v1p152,p.戋,p.Float,,
+373,钱,Coin,qián,赚钱 (zhuàn qián) Make money
+374,浅,Shallow,qiǎn,受益匪浅 (shòu yì fěi qiǎn) Benefited greatly
+375,贱,Cheap,jiàn,
+376,尧,Yao,yáo,
+377,烧,Fever,shāo,
+378,晓,Dawn,xiǎo,
+379,止,Stop (v.) or cease,zhǐ,阻止 (zǔ zhǐ) Prevent -- 静止 (jìng zhǐ) Still/Motionless
+380,步,Footstep,bù,一步之遥 (yī bù zhī yáo) A step away
+381,涉,Ford,shè,
+382,频,Repeatedly,pín,频道 (pín dào) Channel
+383,肯,Agree,kěn,
+384,企,Look forward to,qǐ,
+385,武,Military,wǔ,武艺 (wǔ yì) martial arts -- 比武台 (bǐ wǔ tái) Martial Arts Stage/ tourney platform
+386,赋,Levy (n.) - Land tax,fù,
+387,正,Correct,zhèng,纯正 (chún zhèng) Pure/ Genuine -- 正义 (zhèng yì) justice; righteousness
+388,证,Evidence,zhèng,"保证 (bǎozhèng) to guarantee, assurance"
+389,政,Politics,zhèng,
+v1p157,p.,p.Mending,,
+390,定,Settle on,dìng,约定 (yuē dìng) Agreement -- 镇定自若 (zhèn dìng zì ruò) Calm and composed -- 预定 (yù dìng) Reserve/Predetermine -- 规定 (guī dìng) Regulation
+391,走,Walk,zǒu,走错 (zǒu cuò) Go the wrong way -- 走运 (zǒu yùn) Lucky
+392,超,Transcend,chāo,超越 (chāo yuè) surpass
+393,越,Surpass,yuè,超越 (chāo yuè) surpass
+394,是,Be,shì,"有的是 (yǒu de shì) Plenty of -- 头头是道 (tóu tóu shì dào) (explain) logically and systematically; sound convincing -- 要不是 (yàobùshì) if it weren’t for, but for"
+395,题,Topic,tí,
+v1p159,p.廴,p.Stretch,,
+396,延,Prolong,yán,拖延 (tuō yán) delay
+397,诞,Nativity,dàn,
+v1p160-1,p.聿,p.brush,,
+398,建,Build,jiàn,"建议 (jiànyì) suggestion, to suggest"
+v1p160-2,p.疋,p.Zoo,,
+399,楚,Clear (adj.),chǔ,
+400,衣,Clothing,yī,
+401,裁,Tailor (v.),cái,总裁 (zǒng cái) President (CEO)
+402,装,Attire / costume,zhuāng,"安装 (ān zhuāng) install, set up -- 装置 (zhuāng zhì) Device -- 装束 (zhuāng shù) Attire -- 假装 (jiǎ zhuāng) Pretend"
+403,哀,Grief,āi,
+404,袁,Yuan,yuán,
+405,初,"Elementary, basic",chū,"当初 (dāngchū) at that time, originally"
+406,补,Patch (v.),bǔ,"补充 (bǔ chōng) Supplement、Recharge -- 补偿 (bǔcháng) to compensate, make up for"
+407,衬,Inner Garments,chèn,
+408,农,Agriculture,nóng,
+409,浓,Concentrated,nóng,
+410,巾,Towel,jīn,
+411,帅,Commander,shuài,
+412,师,Teacher,shī,厨师 (chú shī) Chef
+413,狮,Lion,shī,
+414,布,Cloth,bù,尿布 (niàobù) diaper
+415,帜,Streamer,zhì,
+416,帽,Hat,mào,
+417,幕,Curtain,mù,
+v1p166,p.帛,p.White towel,,
+418,棉,Cotton,mián,
+419,市,Market,shì,
+420,肺,Lungs,fèi,
+v1p167,p.,p.Apron,,
+421,带,Sash,dài,
+422,滞,Stagnant,zhì,
+V1p168-1,p.,p.Belt,,
+V1p168-2,p.朿,p.Thorn,,
+423,刺,Thorn,cì,"刺眼 (cì yǎn) dazzling, glaring -- 刺激 (cì jī) Stimulate"
+424,制,System,zhì,"制造出 (zhìzào chū) Manufacture, create -- 制伏 (zhì fú) Subdue"
+425,雨,Rain,yǔ,
+426,雷,Thunder,léi,
+427,霜,Frost,shuāng,
+428,云,Cloud,yún,
+429,运,Carry,yùn,走运 (zǒu yùn) Lucky -- 厄运 (è yùn) Misfortune
+v1p170,p.,p.Ice,,
+430,冰,Ice,bīng,
+431,况,Situation,kuàng,
+432,冲,Collide,chōng,
+433,减,Reduce,jiǎn,
+434,凉,Cool,liáng,
+435,冬,Winter,dōng,冬眠 (dōng mián) Hibernate
+436,天,Heavens,tiān,天堂 (tiān táng) Heaven -- 天分 (tiān fèn) Talent -- 天真 (tiān zhēn) Innocent/naive
+437,吴,Wu (cake),wú,
+438,娱,Amusement,yú,
+439,误,Error,wù,"耽误 (dān wu) to delay; to hold up (often due to negligence) -- 误会 (wùhuì) misunderstanding, to misunderstand"
+440,夭,Die young,yāo,
+441,乔,Pretend,qiáo,
+442,桥,Bridge,qiáo,
+443,娇,Attractive,jiāo,娇生惯养 (jiāo shēng guàn yǎng) Pampered/Spoiled -- 撒娇 (sā jiāo) Act spoiled/pretend to be cute
+444,立,Standing up,lì,"立场 (lì chǎng) standpoint, position -- 立即 (lì jí) immediately; at once"
+445,泣,Weep,qì,
+446,站,Station,zhàn,
+447,章,Chapter,zhāng,
+448,竞,Compete,jìng,
+449,帝,Sovereign,dì,
+450,童,Juvenile (n.),tóng,
+451,商,Salesman,shāng,商量 (shāng liáng) Discuss
+v1p175,p.啇,p.Antique,,
+452,滴,Drip (v.),dī,
+453,匕,Ancient Spoon,bǐ,
+454,北,North,běi,
+455,背,Back (n.),bèi,
+456,比,Compare,bǐ,奇大无比 (qí dà wú bǐ) Extremely large -- 比武台 (bǐ wǔ tái) Martial Arts Stage/ tourney platform -- 比方 (bǐ fāng) Example -- 相比 (xiāngbǐ) compare with
+457,昆,Descendants,kūn,
+458,混,Mix (v.),hùn,
+459,皆,All,jiē,
+460,此,This (literary),cǐ,彼此彼此 (bǐ cǐ bǐ cǐ) Same to you
+461,些,Somewhat (counter plural),xiē,
+462,它,It,tā,
+463,旨,Purpose,zhǐ,
+464,脂,Grease,zhī,
+v1p178,p.仑,p.Lifeguard,,
+465,论,Theory,lùn,
+466,轮,Wheel,lún,车轮大战 (chē lún dà zhàn) Marathon battle
+v1p179,p.,p.Reclining,,
+467,每,Every,měi,
+468,梅,Small Plum,méi,
+469,海,Sea,hǎi,海盗 (hǎidào) Pirate
+470,乞,Beg,qǐ,
+471,吃,Eat,chī,
+472,复,"Duplicate (v.), return, repeat, compound, turn round",fù,恢复 (huī fù) Recover -- 复活 (fù huó) Resurrection -- 复仇 (fù chóu) Revenge -- 复杂 (fùzá) complicated -- 反复 (fǎnfù) repeatedly
+473,腹,Abdomen,fù,
+474,欠,Lack (v.),qiàn,
+475,吹,Blow (v.),chuī,吹灰之力 (chuī huī zhī lì) Effortless -- 吹牛 (chuī niú) brag
+476,歌,Song,gē,
+477,软,Soft,ruǎn,软弱 (ruǎn ruò) Weak -- 心慈手软 (xīn cí shǒu ruǎn) Soft-hearted
+478,次,Next,cì,异次元 (yì cì yuán) alternate dimension; different plane of existence
+479,资,Assets,zī,工资 (gōng zī) Salary -- 资料 (zīliào) Data -- 资格 (zī gé) Qualification
+480,姿,Looks,zī,
+481,咨,Consult with,zī,
+v1p183,p.咅,p.Muzzle,,
+482,赔,Compensate,péi,
+483,培,Cultivate,péi,
+484,音,Sound,yīn,音量 (yīn liàng) Volume -- 发音 (fāyīn) pronunciation
+485,暗,Dark,àn,灰暗 (huī àn) Gloomy
+486,韵,Rhyme (n.),yùn,
+487,竟,Unexpectedly,jìng,究竟 (jiū jìng) on earth
+488,镜,Mirror,jìng,墨镜 (mò jìng) sunglasses
+489,境,Boundary,jìng,环境 (huán jìng) Environment -- 救世主 (jiù shì zhǔ) savior; Messiah (宗教语境)
+490,亡,Deceased,wáng,
+491,盲,Blind,máng,盲肠 (mángcháng) Appendix
+492,妄,Absurd,wàng,妄想 (wàng xiǎng) Delusion
+493,望,Expect,wàng,绝望 (jué wàng) Despair -- 失望 (shīwàng) disappointed
+494,方,Direction,fāng,"比方 (bǐ fāng) Example -- 想方设法 (xiǎng fāng shè fǎ) Try every means -- 方法 (fāngfǎ) method, way"
+495,妨,Hinder,fáng,妨碍 (fáng'ài) Obstruct
+496,放,Release,fàng,放马过来 (fàng mǎ guò lái) Bring it on -- 放鸽子 (fàng gēzi) to stand someone up
+497,激,Excite,jī,激发 (jī fā) Inspire/Stimulate -- 激动 (jī dòng) Excited -- 刺激 (cì jī) Stimulate -- 激怒 (jī nù) Infuriate
+498,旁,Side,páng,袖手旁观 (xiù shǒu páng guān) Sit by and watch
+499,兑,Convert,duì,
+500,脱,Undress,tuō,
+501,说,Speak,shuō,换句话说 (huàn jù huà shuō) in other words -- 传说 (chuán shuō) legend/folklore -- 说服 (shuō fú) persuade
+502,曾,Formerly,céng,
+503,增,Increase (v.),zēng,
+504,赠,Make a present of,zèng,
+505,也,Also,yě,
+506,她,She,tā,
+507,地,Ground,dì,基地 (jīdì) Base -- 地震 (dì zhèn) earthquake -- 地下室 (dì xià shì) Basement -- 质地 (zhì dì) Texture
+508,池,Pond,chí,
+509,虫,Insect,chóng,
+510,虾,Shrimp,xiā,
+511,独,Alone,dú,孤独 (gū dú) Lonely
+512,虽,Although,suī,
+513,蛇,Serpent,shé,
+514,蛋,Egg,dàn,
+515,己,Self,jǐ,
+516,起,Get up (from bed) or being together,qǐ,最起码 (zuì qǐ mǎ) at the very least -- 起码 (qǐ mǎ) Minimum
+517,改,Alter,gǎi,不知悔改 (bù zhī huǐ gǎi) Unrepentant -- 改观 (gǎi guān) change in perception (positive shift)
+518,记,Remember,jì,
+519,已,Already,yǐ,
+520,包,Wrap (v.),bāo,买包烟 (mǎi bāo yān) Buy a pack of cigarettes
+521,泡,Bubbles,pào,
+522,导,Guide (v.),dǎo,导弹 (dǎodàn) missile -- 引导 (yǐn dǎo) Guide
+523,顾,Look Back,gù,
+V1p198-1,p.豕,p.Sow,,
+524,逐,Pursue,zhú,
+525,家,House,jiā,家具 (jiā jù) Furniture -- 卖家 (mài jiā) Seller
+V1p198-2,p.,p.Piglets,,
+526,场,Site,chǎng,"立场 (lì chǎng) standpoint, position -- 登场 (dēng chǎng) to appear on stage; make an entrance"
+527,汤,Soup,tāng,
+528,羊,Sheep,yáng,
+529,美,Beautiful,měi,完美 (wánměi) perfect -- 美容院 (měi róng yuàn) Beauty salon -- 优美 (yōuměi) graceful; elegant
+530,洋,Ocean,yáng,
+531,鲜,Fresh,xiān,
+532,样,Appearance,yàng,"各式各样 (gè shì gè yàng) various, all kinds"
+533,兰,Orchid,lán,
+534,烂,Spoiled,làn,
+v1p200,p.⺶,p.Wool,,
+535,差,Fall short of,chà,"差错 (chā cuò) error, mistake -- 差劲 (chà jìn) Poor/badly -- 差远了 (chà yuǎn le) Far from it"
+536,着,-ing,zhe,沿着 (yán zhe) Along -- 着陆 (zhuó lù) Land -- 顶着 (dǐng zhe) Endure/Hold up
+537,养,Raise (v.) (like children or pets),yǎng,娇生惯养 (jiāo shēng guàn yǎng) Pampered/Spoiled
+v1p201,p.隹,p.Turkey,,
+538,集,Gather,jí,写真集 (xiě zhēn jí) photo album -- 采集 (cǎi jí) Collect
+539,准,Standard (n.),zhǔn,不准 (bù zhǔn) Not allowed -- 没准 (méi zhǔn) Maybe/not sure -- 准许 (zhǔn xǔ) Permit
+540,谁,Who?,shéi,
+541,售,"Vend (formal for ""to sell"")",shòu,
+542,午,Noon,wǔ,
+543,许,Permit (v.),xǔ,准许 (zhǔn xǔ) Permit -- 许愿 (xǔ yuàn) make a wish
+544,羽,Feathers,yǔ,
+545,习,Learn,xí,
+546,翔,Soar / over / circle in the air,xiáng,
+v1p205,p.囗,p.Pent in,,
+547,困,Trapped,kùn,
+548,固,Solid,gù,顽固 (wán gù) Stubborn
+549,国,Country,guó,
+550,圆,Round,yuán,圆圈 (yuán quān) Circle
+551,因,Cause (n.),yīn,
+552,烟,Smoke (n.),yān,买包烟 (mǎi bāo yān) Buy a pack of cigarettes
+553,园,Park (n.),yuán,
+554,回,Return (v.),huí,无可挽回 (wú kě wǎn huí) Irretrievable
+555,图,Picture (n.),tú,图像 (tú xiàng) image/picture
+556,广,Extensive,guǎng,广阔 (guǎng kuò) Vast
+557,店,Store (n.),diàn,酒店 (jiǔdiàn) hotel
+558,库,Warehouse,kù,
+559,裤,Trousers,kù,
+560,床,Bed,chuáng,
+561,麻,Hemp,má,添麻烦 (tiān máfan) Add Trouble
+562,庄,"Hamlet, manor",zhuāng,
+563,心,Heart,xīn,甘心 (gān xīn) Willingly -- 心领 (xīn lǐng) appreciate sb.'s kindness -- 责任心 (zé rèn xīn) Sense of responsibility -- 野心勃勃 (yě xīn bó bó) Ambitious -- 信心 (xìn xīn) Confidence -- 贪心 (tān xīn) Greedy -- 心慈手软 (xīn cí shǒu ruǎn) Soft-hearted -- 掉以轻心 (diào yǐ qīng xīn) underestimate carelessly -- 手心 (shǒu xīn) palm of the hand -- 关心 (guānxīn) care about
+564,忘,Forget,wàng,
+565,忍,Endure,rěn,
+566,总,General (adj.),zǒng,总裁 (zǒng cái) President (CEO)
+567,态,Attitude,tài,变态 (biàntài) pervert
+568,志,Aspiration,zhì,
+569,思,Consider,sī,思维 (sīwéi) Thinking
+570,恩,Kindness,ēn,
+571,愿,Wish (n.),yuàn,宁愿 (nìng yuàn) Would rather -- 许愿 (xǔ yuàn) make a wish
+572,意,Idea,yì,"有意 (yǒu yì) intentional, deliberate -- 意味 (yìwèi) Mean -- 主意 (zhǔ yì) Idea -- 意想不到 (yì xiǎng bù dào) Unexpected -- 出人意料 (chū rén yì liào) Unexpected -- 无意中 (wú yì zhōng) Unintentionally -- 刻意 (kè yì) Deliberately"
+573,想,Think,xiǎng,"意想不到 (yì xiǎng bù dào) Unexpected -- 不堪设想 (bù kān shè xiǎng) Unimaginable -- 妄想 (wàng xiǎng) Delusion -- 休想 (xiūxiǎng) Don't even think about it -- 猜想 (cāi xiǎng) Speculate -- 想方设法 (xiǎng fāng shè fǎ) Try every means -- 理想 (lǐxiǎng) ideal, dream"
+574,息,Breath,xī,喘息 (chuǎn xī) Breathe/breathing spell -- 奄奄一息 (yǎnyǎn yī xī) On the verge of death
+575,恐,Fear (v.),kǒng,恐怖 (kǒngbù) Terror/scary/horrible -- 恐慌 (kǒng huāng) Panic
+576,感,Feel,gǎn,幽默感 (yōu mò gǎn) Sense of humor -- 对……感兴趣 (duì... gǎn xìngqù) to be interested in...
+577,憾,Regret (n.),hàn,遗憾 (yí hàn) Regret
+578,忧,Worried,yōu,
+579,惊,Startled,jīng,惊喜 (jīngxǐ) pleasant surprise
+580,怕,Dread (v.),pà,惧怕 (jù pà) Fear
+581,忙,Busy,máng,急急忙忙 (jíjímángmáng) In a hurry -- 忙碌 (máng lù) busy
+582,惯,Accustomed to,guàn,娇生惯养 (jiāo shēng guàn yǎng) Pampered/Spoiled
+583,必,Certainly,bì,"必要 (bì yào) Necessary -- 未必 (wèibì) Not necessarily -- 务必 (wùbì) must, be sure to"
+584,手,Hand,shǒu,还手 (huánshǒu) Fight back -- 插手 (chā shǒu) Intervene -- 指手划脚 (zhǐ shǒu huà jiǎo) Gesticulate/to criticize -- 心慈手软 (xīn cí shǒu ruǎn) Soft-hearted -- 袖手旁观 (xiù shǒu páng guān) Sit by and watch -- 手心 (shǒu xīn) palm of the hand
+585,看,Look at,kàn,"照看 (zhào kàn) Take care of -- 细看 (xì kàn) Examine carefully -- 给点颜色看看 (gěi diǎn yán sè kàn) ""teach someone a lesson""; show one's power -- 看扁 (kàn biǎn) look down upon"
+586,摩,Rub,mó,
+587,拿,Hold (v.),ná,
+588,我,I,wǒ,
+v1p212,p.,p.Fingers,,
+589,抱,Embrace (v.),bào,
+590,抗,Combat (v),kàng,反抗 (fǎn kàng) Resist -- 抵抗 (dǐ kàng) resist/oppose
+591,批,Criticize,pī,
+592,招,Beckon,zhāo,"招架 (zhāo jià) to ward off, to hold off -- 招数 (zhāo shù) Trick，movement in Wushu -- 绝招 (jué zhāo) Special skill"
+593,打,Strike (v.),dǎ,打喷嚏 (dǎ pēntì) Sneeze -- 打搅 (dǎjiǎo) Disturb -- 打扰 (dǎ rǎo) Disturb
+594,指,Finger,zhǐ,指教 (zhǐjiào) Advise -- 指手划脚 (zhǐ shǒu huà jiǎo) Gesticulate/to criticize
+595,持,"Support, maintain",chí,"坚持 (jiānchí) Persist -- 维持 (wéi chí) Maintain -- 持续 (chíxù) to continue, to last"
+596,担,Assume,dàn,
+597,括,Include,kuò,
+598,提,Bring up,tí,前提 (qián tí) precondition -- 提防 (dī fang) be cautious of; beware of
+599,挥,"Brandish, wave",huī,
+600,推,Push,tuī,推测 (tuī cè) Speculate
+601,搅,Stir,jiǎo,打搅 (dǎjiǎo) Disturb
+602,执,Clench,zhí,
+603,热,Heat (n./v.),rè,
+604,接,Welcome (v.),jiē,"直接 (zhí jiē) Direct -- 接下来 (jiē xiàlái) next, following"
+605,挂,Hang,guà,
+606,按,Press down on,àn,按钮 (ànniǔ) Button -- 按照 (àn zhào) According to
+607,掉,Drop (v.),diào,掉以轻心 (diào yǐ qīng xīn) underestimate carelessly
+608,拉,Pull,lā,
+609,啦,!!,la,
+610,找,Look for,zhǎo,
+611,无,Nothing,wú,"无疑 (wúyí) no doubt -- 无关紧要 (wú guān jǐn yào) irrelevant, insignificant -- 奇大无比 (qí dà wú bǐ) Extremely large -- 无能为力 (wú néng wéi lì) Powerless -- 有勇无谋 (yǒu yǒng wú móu) Brave but not smart -- 无耻 (wú chǐ) Shameless -- 所剩无几 (suǒ shèng wú jǐ) Very little left -- 安然无恙 (ān rán wú yàng) Safe and sound -- 无稽之谈 (wújī zhī tán) Nonsense -- 无意中 (wú yì zhōng) Unintentionally -- 滥杀无辜 (làn shā wú gū) Kill innocent people indiscriminately -- 无可挽回 (wú kě wǎn huí) Irretrievable -- 索然无味 (suǒ rán wú wèi) Tasteless -- 毫无 (háo wú) Not at all -- 无趣 (wúqù) boring, dull"
+612,抚,Comfort (v.),fǔ,
+613,开,Open (v.),kāi,"开朗 (kāi lǎng) cheerful, optimistic"
+614,研,Grind away,yán,研究 (yán jiū) Research
+615,弄,Play with,nòng,
+616,异,Different,yì,异常 (yì cháng) Unusual -- 异次元 (yì cì yuán) alternate dimension; different plane of existence
+617,鼻,Nose,bí,
+618,刑,Punishment,xíng,
+619,型,Mold (v.),xíng,
+620,才,Genius,cái,才能 (cáinéng) talent -- 才华 (cáihuá) talent
+621,财,Riches,cái,
+622,团,Troupe,tuán,团队 (tuán duì) Team
+623,存,Deposit (v.),cún,幸存 (xìng cún) Survive
+624,在,At,zài,潜在 (qián zài) Potential
+625,乃,Only then,nǎi,
+626,奶,Milk,nǎi,
+627,及,Catch up with,jí,来不及 (lái bù jí) Too late/no time -- 触及 (chù jí) Touch
+628,吸,Inhale,xī,吸引 (xī yǐn) Attract
+629,极,Extreme (n.),jí,消极 (xiāojí) passive; negative -- 积极 (jījí) active; positive
+v1p217,p.,p.Tucked under the arm / NASA rocket launch,,
+630,史,History,shǐ,
+631,更,Even more,gèng,
+632,硬,Hard,yìng,
+633,又,Again,yòu,
+634,圣,Holy,shèng,
+635,友,Friend,yǒu,友好 (yǒuhǎo) friendly
+636,双,Pair,shuāng,
+637,汉,Han,hàn,
+638,戏,Frolic,xì,
+639,观,Observe,guān,乐观 (lè guān) Optimistic -- 悲观 (bēi guān) Pessimistic -- 袖手旁观 (xiù shǒu páng guān) Sit by and watch -- 改观 (gǎi guān) change in perception (positive shift)
+640,欢,Joyous (collective happiness),huān,
+641,怪,Peculiar,guài,怪不得 (guài bù dé) No wonder -- 古怪 (gǔ guài) eccentric -- 责怪 (zéguài) to blame
+642,对,That's right,duì,"应对 (yìngduì) to cope, to deal with -- 对话 (duì huà) Dialogue/conversation -- 不对劲 (bú duì jìn) something's wrong; strange; off -- 对……感兴趣 (duì... gǎn xìngqù) to be interested in... -- 敌对 (díduì) hostile -- 绝对 (juéduì) absolutely, definitely"
+643,树,Timber,shù,
+644,难,Difficult,nán,"胜负难料 (shèng fù nán liào) outcome hard to predict -- 难缠 (nán chán) Difficult to deal with/Annoying -- 千载难逢 (qiān zǎi nán féng) Once in a lifetime -- 艰难 (jiānnán) difficult, hard"
+645,摊,Vendor’s stand,tān,
+v1p220,p.殳,p.Missile,,
+646,投,Throw (v.),tóu,投掷 (tóuzhì) Throw -- 投降 (tóu xiáng) Surrender -- 投诉 (tóusù) to complain
+647,没,Not have,méi,没准 (méi zhǔn) Maybe/not sure
+648,设,Establish,shè,不堪设想 (bù kān shè xiǎng) Unimaginable -- 设计 (shè jì) Design -- 想方设法 (xiǎng fāng shè fǎ) Try every means
+649,股,Thigh (Oberschenkel),gǔ,
+650,支,"Offshoot (branch, like branch store)",zhī,
+651,技,Skill,jì,技不如人 (jì bù rú rén) Inferior skills
+652,枝,Tree Branch,zhī,
+653,叔,Uncle,shū,
+654,督,Superintend (active guidance),dū,
+655,寂,Lonely,jì,"寂寞 (jìmò) lonely, loneliness"
+v1p221,p.,p.Drag,,
+656,反,Against,fǎn,反应 (fǎn yìng) Reaction/Feedback -- 反抗 (fǎn kàng) Resist -- 反省 (fǎn xǐng) Reflect -- 反复 (fǎnfù) repeatedly
+657,板,Plank,bǎn,
+658,返,Go back (reversal or opposition in direction),fǎn,
+659,后,Behind,hòu,后果 (hòu guǒ) Consequence
+660,质,Quality,zhì,有机物质 (yǒu jī wù zhì) Organic matter -- 质地 (zhì dì) Texture
+661,派,Faction,pài,派 (pài) dispatch; send someone (to do something)
+662,乐,Music,yuè,俱乐部 (jù lè bù) Club -- 乐观 (lè guān) Optimistic
+663,爪,Claw (n.),zhǎo,爪子 (zhuǎ zi) claw; talon
+664,抓,Grab,zhuā,
+665,采,Pick (v.),cǎi,采集 (cǎi jí) Collect
+666,菜,Vegetable,cài,
+V1p223-1,p.,p.Birdhouse,,
+667,受,Accept (passively),shòu,受益匪浅 (shòu yì fěi qiǎn) Benefited greatly
+668,授,Confer (give),shòu,传授 (chuán shòu) Impart
+669,爱,Love (n./v.),ài,
+V1p223-2,p.厶,p.Elbow,,
+670,么,"me (suffix in ""shen me"")",me,
+671,雄,Grand,xióng,英雄 (yīng xióng) hero
+672,台,Platform,tái,比武台 (bǐ wǔ tái) Martial Arts Stage/ tourney platform -- 擂台 (léi tái) Arena
+673,治,Govern,zhì,统治 (tǒng zhì) Rule
+674,始,Commence (an action),shǐ,
+675,去,Go,qù,"省去 (shěng qù) omit, save"
+676,法,Method,fǎ,"想方设法 (xiǎng fāng shè fǎ) Try every means -- 方法 (fāngfǎ) method, way"
+v1p224,p.,p.Wall,,
+677,会,Meeting,huì,"聚会 (jù huì) Gathering -- 会合 (huì hé) Meet/Gather -- 约会 (yuē huì) Date, appointment -- 误会 (wùhuì) misunderstanding, to misunderstand"
+678,至,Until,zhì,截至 (jié zhì) Up to -- 甚至 (shèn zhì) Even -- 至少 (zhìshǎo) at least
+679,室,Room,shì,地下室 (dì xià shì) Basement
+680,到,Arrive,dào,"意想不到 (yì xiǎng bù dào) Unexpected -- 沾到 (zhān dào) get stained; come into contact with -- 撞到 (zhuàngdào) to bump into, to hit"
+681,互,Mutual,hù,
+v1p225,p.,p.Infant,,
+682,充,Sufficient,chōng,补充 (bǔ chōng) Supplement、Recharge
+683,育,Education,yù,发育 (fā yù) Develop
+V1p226-1,p.㐬,p.Baby Moses,,
+684,流,Flow (v.),liú,同流合污 (tóng liú hé wū) to collude with evil -- 一流 (yī liú) First-class -- 交流 (jiāo liú) Communicate -- 流行 (liú xíng) Popular -- 流利 (liúlì) fluent
+685,梳,Comb (n.),shū,
+V1p226-2,p.勾,p.Cast,,
+686,购,Purchase (v.),gòu,
+687,构,Frame (v.),gòu,
+688,山,Mountain,shān,
+689,出,Exit (v.),chū,"制造出 (zhìzào chū) Manufacture, create -- 出风头 (chū fēngtóu) Show Off -- 出界 (chū jiè) Out of bounds -- 出人意料 (chū rén yì liào) Unexpected -- 漏洞百出 (lòudòng bǎichū) Full of loopholes -- 孵出来 (fū chū lái) Hatch -- 口出狂言 (kǒu chū kuáng yán) Boastful words"
+690,础,Foundation,chǔ,
+691,岁,Years of age,suì,
+692,密,Secret (adj.),mì,精密 (jīngmì) Precision -- 密码 (mìmǎ) password
+693,入,Enter,rù,
+694,分,Part (n./v.),fēn,十分精彩 (shí fēn jīng cǎi) Very exciting -- 分散 (fēn sàn) Dispersed -- 天分 (tiān fèn) Talent
+695,贫,Impoverished,pín,
+696,公,Public,gōng,公认 (gōng rèn) Generally recognized
+697,松,Pine Tree,sōng,
+698,谷,Valley,gǔ,
+699,浴,Bathe,yù,
+700,欲,Desire (n./v.),yù,
+701,容,Contain,róng,内容 (nèi róng) content -- 美容院 (měi róng yuàn) Beauty salon
+702,溶,Dissolve,róng,
+v1p230,p.,p.Outhouse,,
+703,赏,Prize (n.),shǎng,"欣赏 (xīnshǎng) Appreciate, enjoy"
+704,党,Political Party,dǎng,
+705,常,Often,cháng,异常 (yì cháng) Unusual
+706,堂,Main Room,táng,天堂 (tiān táng) Heaven
+707,皮,Covering,pí,
+708,波,Waves,bō,
+709,婆,Old woman,pó,婆婆妈妈 (pó po mā mā) overly fussy; long-winded (describing someone nitpicky or indecisive)
+710,破,Break (v.),pò,破 (pò) Broken/damaged -- 破绽 (pò zhàn) Flaw -- 识破 (shí pò) See through
+711,被,Quilt (n.),bèi,
+712,歹,"Malicious, vicious",dǎi,
+713,列,Line up,liè,列表 (lièbiǎo) list
+714,烈,Intense,liè,"强烈 (qiáng liè) intense, strong"
+715,死,Death,sǐ,猝死 (cù sǐ) Sudden death -- 死不瞑目 (sǐ bù míng mù) Die with regret -- 不知死活 (bù zhī sǐ huó) Reckless
+716,葬,"Inter (v.) (like to bury, but for humans)",zàng,
+717,耳,Ear,ěr,耳环 (ěr huán) Earring
+718,取,Take,qǔ,"取消 (qǔ xiāo) Cancel -- 取胜 (qǔ shèng) Win -- 取得 (qǔdé) to achieve, to gain"
+719,趣,Interest,qù,"对……感兴趣 (duì... gǎn xìngqù) to be interested in... -- 无趣 (wúqù) boring, dull"
+720,最,Most,zuì,最起码 (zuì qǐ mǎ) at the very least
+721,职,Job,zhí,
+722,敢,Brave,gǎn,不敢置信 (bù gǎn zhì xìn) Unbelievable
+723,曼,Drawn out (tediously protracted both for space and time),màn,
+724,慢,Slow,màn,
+725,漫,Overflow (v.),màn,
+726,夫,Husband,fū,功夫 (gōng fu) Effort
+727,规,Regulations,guī,规则 (guī zé) Rule -- 规定 (guī dìng) Regulation
+728,替,Replace,tì,替代 (tì dài) Replace
+729,失,Lose,shī,丧失 (sàng shī) Lose -- 失败 (shībài) to fail / failure -- 失望 (shīwàng) disappointed
+730,铁,Iron,tiě,
+731,臣,Feudal Official,chén,
+732,力,Power,lì,筋疲力尽 (jīn pí lì jìn) Exhausted -- 无能为力 (wú néng wéi lì) Powerless -- 重力 (zhònglì) Gravity -- 吹灰之力 (chuī huī zhī lì) Effortless -- 防御力 (fáng yù lì) Defense -- 威力 (wēi lì) power/might
+733,边,Border,biān,
+734,势,Force (n.),shì,形势 (xíngshì) Situation -- 占优势 (zhàn yōu shì) Dominate
+735,动,Move,dòng,移动 (yí dòng) Move -- 激动 (jī dòng) Excited -- 启动键 (qǐdòngjiàn) Start button -- 动弹 (dòng tán) Move -- 动画 (dòng huà) animation -- 一举一动 (yī jǔ yī dòng) Every move -- 动听 (dòng tīng) melodious; pleasant-sounding
+736,励,Encourage,lì,
+737,历,Experience (n./v.),lì,"经历 (jīnglì) experience, to go through"
+738,另,Another,lìng,
+739,别,Don’t,bié,特别 (tè bié) Special
+740,拐,Turn (v.),guǎi,
+741,男,Male,nán,
+742,功,Achievement (contribution of a soldier),gōng,功夫 (gōng fu) Effort
+743,办,Manage,bàn,
+744,协,Cooperate,xié,"协助 (xié zhù) assist -- 协调 (xiétiáo) to coordinate, harmonious"
+745,苏,Revive,sū,苏醒 (sū xǐng) regain consciousness
+746,为,Act (v.),wèi,行为 (xíngwéi) Behavior -- 无能为力 (wú néng wéi lì) Powerless -- 合二为一 (hé èr wéi yī) Merge into one
+747,奴,Slave,nú,
+748,努,Toil (v.),nǔ,
+749,加,Add,jiā,稍加 (shāo jiā) Slightly
+750,贺,Congratulate,hè,
+751,架,Shelf,jià,"招架 (zhāo jià) to ward off, to hold off"
+752,务,Tasks,wù,"任务 (rèn wù) Task -- 务必 (wùbì) must, be sure to"
+753,雾,Fog,wù,
+754,行,Line of business,háng,行为 (xíngwéi) Behavior -- 流行 (liú xíng) Popular -- 举行 (jǔ xíng) Hold (an event) -- 外行 (wài háng) layperson; amateur
+755,律,Law,lǜ,
+756,得,Must,děi,"得逞 (dé chěng) Succeed (in a negative sense) -- 怪不得 (guài bù dé) No wonder -- 值得 (zhí dé) be worth; deserve -- 取得 (qǔdé) to achieve, to gain"
+757,待,Treat (v.),dài,待 (dài) Wait/stay -- 期待 (qī dài) Expect/look forward
+758,往,Toward,wǎng,
+759,微,Tiny,wēi,
+760,街,Street,jiē,
+v1p238,p.,p.10 commandments,,
+761,德,Morality,dé,
+762,禾,Standing grain,hé,
+763,程,Journey (n.),chéng,程度 (chéng dù) Degree -- 过程 (guòchéng) process
+764,和,Harmony,hé,
+765,积,Accumulate,jī,积累 (jī lěi) Accumulate -- 积极 (jījí) active; positive
+766,种,Species,zhǒng,种族 (zhǒng zú) Race
+767,移,Shift (v.),yí,移动 (yí dòng) Move
+768,秋,Autumn,qiū,
+769,愁,"Gloomy (sad, soorow)",chóu,
+770,揪,Hold tight,jiū,
+771,利,Profit (n.),lì,利用 (lìyòng) Utilize -- 锋利 (fēng lì) Sharp -- 权利 (quán lì) Right -- 顺利 (shùn lì) smoothly; successfully -- 流利 (liúlì) fluent
+772,香,Perfume,xiāng,
+773,季,Seasons,jì,
+774,委,Committee,wěi,
+775,秀,Elegant,xiù,
+776,透,Penetrate,tòu,湿透 (shītòu) drenched -- 剧透 (jùtòu) Spoiler -- 穿透 (chuāntòu) Penetrate
+777,诱,"Entice (persuade, induce)",yòu,
+778,米,Rice,mǐ,
+779,粉,Powder,fěn,粉身碎骨 (fěn shēn suì gǔ) Shattered to pieces -- 粉碎 (fěn suì) Smash -- 粉末 (fěn mò) powder
+780,迷,Lost,mí,"迷惑 (mí huò) to confuse, to perplex -- 昏迷 (hūn mí) unconscious/coma"
+781,谜,Riddle,mí,
+782,类,Kind (n.),lèi,败类 (bài lèi) scoundrel
+783,来,Come,lái,"放马过来 (fàng mǎ guò lái) Bring it on -- 来不及 (lái bù jí) Too late/no time -- 孵出来 (fū chū lái) Hatch -- 接下来 (jiē xiàlái) next, following -- 兵来将挡 (bīng lái jiàng dǎng) meet force with force; respond appropriately to changes"
+v1p241,p.娄,p.Bride,,
+784,数,Number,shù,招数 (zhāo shù) Trick，movement in Wushu
+785,楼,Multistory building,lóu,
+786,竹,Bamboo,zhú,
+787,笑,Laugh (v.),xiào,
+788,箱,Box,xiāng,
+789,等,Etc.,děng,等闲之辈 (děng xián zhī bèi) ordinary people -- 稍等 (shāo děng) Wait a moment
+790,算,Calculate,suàn,
+791,答,Answer (v.),dá,答应 (dā yìng) Promise
+792,策,Strategy,cè,
+793,人,Person,rén,丢人 (diū rén) Disgraceful、embarrassing -- 人工 (réngōng) Artificial -- 欺人太甚 (qī rén tài shèn) Bully excessively -- 技不如人 (jì bù rú rén) Inferior skills -- 出人意料 (chū rén yì liào) Unexpected -- 仆人 (pú rén) servant -- 唬人 (hǔ rén) bluff/intimidate -- 人渣 (rén zhā) scum
+794,认,Recognize,rèn,"认输 (rèn shū) Admit defeat -- 公认 (gōng rèn) Generally recognized -- 承认 (chéngrèn) to admit, to acknowledge"
+795,价,Price,jià,代价 (dài jià) Cost -- 价值 (jià zhí) value; worth
+796,份,Portion,fèn,"身份 (shēn fèn) identity, status"
+797,伪,Bogus,wěi,
+798,尔,You (literary) - primitive: HICCUP,ěr,偶尔 (ǒu’ěr) occasionally
+799,你,You,nǐ,非你莫属 (fēi nǐ mò shǔ) It must be you -- 托你的福 (tuō nǐ de fú) thanks to you (polite)
+800,您,You (respectful),nín,
+801,称,to weigh,chēng,
+802,什,What?,shén,
+803,值,Value (n.),zhí,价值 (jià zhí) value; worth -- 值得 (zhí dé) be worth; deserve
+804,做,Make,zuò,
+805,但,(but) However,dàn,
+806,住,"Dwell, live",zhù,住院 (zhùyuàn) Hospitalization -- 屏住 (bǐng zhù) Hold (one's breath) -- 住宅 (zhù zhái) residence -- 不住 (bù zhù) can’t help (doing something)
+807,位,Position (n.),wèi,
+808,件,Piece (of clothes),jiàn,零件 (líng jiàn) spare parts/components
+809,仍,Still,réng,
+810,他,He,tā,
+811,仅,Merely,jǐn,
+812,休,Rest (v.),xiū,罢休 (bà xiū) Give up -- 不眠不休 (bù mián bù xiū) Sleepless -- 休想 (xiūxiǎng) Don't even think about it
+813,体,Body,tǐ,体恤 (tǐ xù) to show sympathy -- 体谅 (tǐliàng) Understand -- 具体 (jù tǐ) Specific
+814,信,Faith,xìn,不敢置信 (bù gǎn zhì xìn) Unbelievable -- 信心 (xìn xīn) Confidence -- 信号 (xìn hào) Signal
+815,依,"Depend on (according to, in the light of, judging by)",yī,不依不饶 (bù yī bù ráo) Relentless
+816,例,Example,lì,例子 (lìzi) example
+817,健,Healthy (Physical strength and fitness),jiàn,
+818,停,Halt (a car e.g.),tíng,
+819,倒,Upside down,dǎo,倒霉 (dǎo méi) Unlucky
+820,仁,Benevolence,rén,
+821,优,Excellent,yōu,占优势 (zhàn yōu shì) Dominate -- 优美 (yōuměi) graceful; elegant
+822,伤,Wound (n.),shāng,悲伤 (bēi shāng) Sad
+823,保,Safeguard,bǎo,"保管 (bǎo guǎn) Safekeeping -- 保证 (bǎozhèng) to guarantee, assurance"
+824,堡,Fort,bǎo,
+825,付,Pay (v.),fù,
+826,府,Government office,fǔ,
+827,俯,Bow one’s head,fǔ,
+828,代,Substitute for,dài,"时代 (shí dài) era, age -- 代价 (dài jià) Cost -- 替代 (tì dài) Replace"
+829,袋,Bag,dài,
+830,化,Transform,huà,化身 (huà shēn) incarnation; embodiment (of an idea/character)
+831,华,Splendor,huá,精华 (jīng huá) Essence -- 才华 (cáihuá) talent
+832,哗,Clamor (n.),huá,
+833,花,Flower (n.),huā,
+834,货,Commodities,huò,蠢货 (chǔn huò) Fool
+835,何,Whatwhichwhowherewhy?,hé,
+836,便,Convenient,biàn,"占便宜 (zhàn piányi) Take Advantage -- 即便 (jí biàn) even if, even though -- 顺便 (shùnbiàn) conveniently, in passing"
+837,丈,100 Chinese inches,zhàng,
+838,使,Use,shǐ,使命 (shǐ mìng) Mission/duty
+839,久,Long time,jiǔ,
+840,内,Internal,nèi,内容 (nèi róng) content
+841,呐,Holler,nà,
+842,丙,Third,bǐng,
+843,柄,Handle (n.),bǐng,
+844,肉,Meat,ròu,
+845,腐,Rotten,fǔ,
+846,从,Follow,cóng,
+847,众,Multitude,zhòng,
+848,坐,Sit,zuò,
+849,座,Seat,zuò,
+850,巫,Witch,wū,
+v1p251,p.曷,p.Siesta,,
+851,喝,Drink (v.),hē,
+852,渴,Thirsty,kě,
+v1p252,p.壬,p.Porter,,
+853,任,Appoint,rèn,班主任 (bānzhǔrèn) head teacher -- 责任心 (zé rèn xīn) Sense of responsibility -- 任务 (rèn wù) Task
+854,廷,Royal court,tíng,
+855,庭,Court of law,tíng,
+856,头,Head,tóu,出风头 (chū fēngtóu) Show Off -- 丫头 (yā tóu) Girl -- 染头发 (rǎn tóu fà) Dye hair -- 头头是道 (tóu tóu shì dào) (explain) logically and systematically; sound convincing
+857,实,Reality,shí,实验 (shíyàn) Experiment -- 诚实 (chéng shí) Honest -- 实际上 (shí jì shàng) Actually
+V1p253-1,p.乛,p.Beret (french cap hat),,
+858,买,Buy,mǎi,买包烟 (mǎi bāo yān) Buy a pack of cigarettes
+859,卖,Sell,mài,卖家 (mài jiā) Seller
+860,读,Read,dú,
+V1p253-2,p.,"p.Plow (a large farming implement with one or more blades fixed in a frame, drawn over soil to turn it over and cut furrows in preparation for the planting of seeds.)",,
+861,以,By means of,yǐ,掉以轻心 (diào yǐ qīng xīn) underestimate carelessly
+862,似,Similar,sì,似乎 (sì hū) it seems
+863,并,Combine,bìng,
+864,拼,Piece together,pīn,拼命 (pīn mìng) Desperately
+865,吕,Spine,lǚ,
+866,侣,Associate (n.),lǚ,
+v1p254,p.,p.Greenhouse??? or FLOWER CROWN...,,
+867,荣,Glory,róng,
+868,劳,Labor (n.),láo,
+869,营,Camp (n.),yíng,
+870,善,Virtuous,shàn,善良 (shàn liáng) Kindness
+871,年,Year,nián,少年 (shào nián) Youth -- 年龄 (nián líng) Age
+872,夜,Night,yè,熬夜 (áoyè) to stay up late
+873,液,Liquid,yè,
+v1p256,p.,p.Banner,,
+874,旅,Travel (v.),lǚ,
+875,施,"Execute (carry out, apply...)",shī,"措施 (cuòshī) measure, step (for dealing with something)"
+876,游,Go swimming,yóu,
+877,勿,"Not / ""Knot"" as primitive",wù,
+878,忽,Suddenly,hū,忽略 (hū lüè) Ignore
+879,物,Thing,wù,有机物质 (yǒu jī wù zhì) Organic matter -- 废物 (fèi wù) waste; trash; good-for-nothing (person)
+880,易,Easy,yì,轻而易举 (qīng ér yì jǔ) Easy
+881,赐,Grant (v.),cì,
+882,尸,Corpse,shī,
+883,尼,Nun,ní,
+884,呢,Woolen cloth,ní,
+885,泥,Mud,ní,
+886,屋,Habitation,wū,
+887,握,"Grip, Grasp (v.)",wò,掌握 (zhǎng wò) Master -- 把握 (bǎ wò) Grasp
+888,居,Reside,jū,居然 (jū rán) unexpectedly; to one's surprise
+889,锯,Saw (n.),jù,
+890,剧,Drama,jù,剧透 (jùtòu) Spoiler
+891,据,Certificate,jù,
+892,层,Story (floor of a building),céng,层层 (céng céng) Layer upon layer
+893,局,Bureau,jú,"结局 (jiéjú) ending, conclusion"
+894,尺,Ruler,chǐ,
+895,尽,Exhausted,jìn,筋疲力尽 (jīn pí lì jìn) Exhausted -- 倾尽 (qīngjìn) Pour out -- 同归于尽 (tóng guī yú jìn) Mutual destruction
+896,户,Door,hù,
+897,房,Domicile,fáng,
+898,雇,Hire,gù,"雇 (gù) Employ, hire"
+899,护,Protect (general shielding),hù,防护罩 (fáng hù zhào) protective shield
+900,示,"Show (v.) radical: ALTAR - pay attention when on the left, similar to cloak",shì,"展示 (zhǎn shì) Display -- 表示 (biǎoshì) to express, to indicate"
+901,社,Society,shè,
+902,礼,Ceremony,lǐ,
+903,视,Inspect,shì,监视 (jiān shì) Monitor -- 窥视 (kuī shì) Peep
+904,福,Happiness (and prosperity),fú,托你的福 (tuō nǐ de fú) thanks to you (polite)
+905,标,Mark (n.),biāo,目标 (mù biāo) Target
+906,禁,Prohibit,jìn,
+907,襟,Front of a garment,jīn,
+908,宗,Religion,zōng,救世主 (jiù shì zhǔ) savior; Messiah (宗教语境) -- 宗教 (zōngjiào) religion
+909,崇,Worship (v.),chóng,
+910,祭,Offer sacrifice,jì,
+911,察,"Scrutinize (examine, inquire)",chá,"侦察 (zhēnchá) Reconnaissance, scout -- 察觉 (chá jué) Perceive"
+912,擦,Scrub (how to keep it apart from rubbing?),cā,
+913,由,"Wherefore (for which reason, deswegen, the reason for something). Primitive: soya SPROUT",yóu,
+914,抽,Take out (from in between),chōu,
+915,油,Oil,yóu,
+916,甲,"First (primitive: radish, radix)",jiǎ,
+917,押,"Pawn (v.) (like in a pawn shop, to give as security)",yā,
+918,申,"to express (in words as opposed to gestures, actions, or art), primitive: monkey",shēn,申请 (shēn qǐng) Apply
+919,伸,Extend,shēn,
+920,神,Gods,shén,神经 (shén jīng) Neuron -- 神殿 (shén diàn) Temple -- 神经病 (shénjīngbìng) crazy person (colloquial)
+921,果,Fruit,guǒ,果然 (guǒ rán) as expected -- 后果 (hòu guǒ) Consequence -- 糖果 (táng guǒ) candy; sweets
+922,课,Lesson,kè,
+923,颗,"Granule (grain, kernel measure word)",kē,
+924,斤,"Catty (one-half kilogram), primitive: tomahawk (indian axe)",jīn,
+925,听,Listen,tīng,动听 (dòng tīng) melodious; pleasant-sounding
+926,所,Place (n.),suǒ,所剩无几 (suǒ shèng wú jǐ) Very little left
+927,近,Near,jìn,
+928,斩,"to hew (chop or cut (something, especially wood or coal) with an axe, pick, or other tool.)",zhǎn,斩 (zhǎn) Cut/chop
+929,暂,Temporary,zàn,暂时 (zàn shí) Temporary
+930,渐,Gradually,jiàn,
+931,断,"to sever (snap, break off)",duàn,
+932,折,Discount,zhé,
+933,哲,Philosopher,zhé,哲学 (zhéxué) philosophy
+934,逝,Pass away,shì,
+935,斥,Reprimand,chì,
+936,诉,Accuse,sù,投诉 (tóusù) to complain
+937,乍,For the first time ( a SAW as primitive),zhà,
+938,怎,How?,zěn,
+939,昨,Yesterday,zuó,
+940,作,to Do (the work),zuò,作品 (zuò pǐn) artwork/literary work
+v1p267,p.彐,p.Broom,,
+941,雪,Snow (n.),xuě,
+942,灵,Spirit,líng,灵活 (líng huó) Flexible/Agile -- 灵魂 (línghún) soul
+943,妇,Married woman,fù,
+944,扫,Sweep (v.),sǎo,
+945,寻,Seek,xún,搜寻 (sōu xún) Search
+946,急,Anxious,jí,急急忙忙 (jíjímángmáng) In a hurry -- 急事 (jíshì) Urgent matter -- 急促 (jí cù) Rapid
+947,当,Work as,dāng,"当成 (dàng chéng) to be considered as -- 当初 (dāngchū) at that time, originally"
+948,档,Files,dàng,
+949,录,Record (v.),lù,
+950,碌,"Commonplace (cliché, mediocre)",lù,忙碌 (máng lù) busy
+v1p268,p.,p.Rake,,
+951,争,Contend,zhēng,
+952,净,Clean (adj.),jìng,
+953,事,Matter,shì,急事 (jíshì) Urgent matter
+954,唐,Tang,táng,
+955,糖,Sugar,táng,糖果 (táng guǒ) candy; sweets
+956,康,Hale (in good health),kāng,
+957,尹,Overseer (eine person),yǐn,
+958,伊,Queen Elizabeth,yī,
+959,君,Monarch,jūn,
+960,裙,Skirt,qún,
+961,群,Crowd (n.),qún,
+962,而,And (primitive: a comb),ér,轻而易举 (qīng ér yì jǔ) Easy
+963,需,Need (v.),xū,
+964,儒,Confucian,rú,
+v1p271,p.耑,p.Prospector (guy who searches for gold),,
+965,瑞,Auspicious,ruì,
+966,端,Upright,duān,
+967,曲,Bent (it's a primitive),qū,
+968,斗,Big Dipper (Ursa Major) as primitive: measuring cup,dǒu,
+969,料,Material (n),liào,胜负难料 (shèng fù nán liào) outcome hard to predict -- 饮料 (yǐnliào) Drink -- 资料 (zīliào) Data -- 出人意料 (chū rén yì liào) Unexpected
+970,科,Academic Discipline,kē,
+v1p273,p.,p.Salad,,
+971,昔,Times past,xī,
+972,借,Borrow,jiè,
+973,错,Mistaken,cuò,"差错 (chā cuò) error, mistake -- 走错 (zǒu cuò) Go the wrong way"
+974,散,Scattered,sǎn,分散 (fēn sàn) Dispersed
+975,撒,Scatter,sǎ,撒娇 (sā jiāo) Act spoiled/pretend to be cute
+976,廿,Twenty,niàn,
+v1p274,p.,p.Caverns,,
+977,席,Mat,xí,
+978,度,Degrees (graduation of measurement),dù,程度 (chéng dù) Degree
+979,渡,Ferry (n. / v.),dù,
+980,半,Half,bàn,
+981,伴,Partner,bàn,
+982,胖,Fat (adj.),pàng,
+983,判,Judge (v.),pàn,审判 (shěn pàn) Trial
+v1p275,p.,p.Quarter,,
+984,眷,"Dependents (people who depend on you, family members)",juàn,
+985,拳,Boxing,quán,拳击 (quán jī) Boxing -- 大展拳脚 (dà zhǎn quán jiǎo) showcase one's abilities; put skills into full play
+986,片,Slice (n.),piàn,
+987,版,Printing plate,bǎn,
+988,之,Of (primitive??? Cobra?,zhī,等闲之辈 (děng xián zhī bèi) ordinary people -- 吹灰之力 (chuī huī zhī lì) Effortless -- 杀身之祸 (shā shēn zhī huò) Fatal disaster -- 无稽之谈 (wújī zhī tán) Nonsense -- 一步之遥 (yī bù zhī yáo) A step away
+989,乏,Weary,fá,
+990,眨,Blink,zhǎ,眨眼间 (zhǎ yǎn jiān) In the blink of an eye
+991,不,No (primitive: a NO symbol),bù,"不如 (bù rú) Not as good as -- 不准 (bù zhǔn) Not allowed -- 冷不防 (lěng bù fáng) Suddenly/unexpectedly -- 来不及 (lái bù jí) Too late/no time -- 毫不知情 (háo bù zhī qíng) Completely unaware -- 不依不饶 (bù yī bù ráo) Relentless -- 意想不到 (yì xiǎng bù dào) Unexpected -- 不敢置信 (bù gǎn zhì xìn) Unbelievable -- 不堪设想 (bù kān shè xiǎng) Unimaginable -- 技不如人 (jì bù rú rén) Inferior skills -- 不眠不休 (bù mián bù xiū) Sleepless -- 死不瞑目 (sǐ bù míng mù) Die with regret -- 截然不同 (jiérán bùtóng) Completely different -- 大言不惭 (dàyán bù cán) Boast shamelessly -- 不愧 (bù kuì) deserve to be called -- 不知死活 (bù zhī sǐ huó) Reckless -- 不知悔改 (bù zhī huǐ gǎi) Unrepentant -- 不敌 (bù dí) Unable to match -- 怪不得 (guài bù dé) No wonder -- 不屑 (bù xiè) Disdain -- 饶不了 (ráo bù liǎo) won't forgive -- 不对劲 (bú duì jìn) something's wrong; strange; off -- 不住 (bù zhù) can’t help (doing something) -- 长痛不如短痛 (cháng tòng bù rú duǎn tòng) a short pain is better than a long one -- 要不是 (yàobùshì) if it weren’t for, but for"
+992,否,Negate,fǒu,
+993,坏,Bad,huài,损坏 (sǔn huài) Damage
+994,环,Ring,huán,环境 (huán jìng) Environment -- 耳环 (ěr huán) Earring
+995,杯,Cup,bēi,
+996,还,Give back,huán,还原 (huányuán) return to the original condition or shape -- 还手 (huánshǒu) Fight back
+997,怀,"Cherish (keep in mind, hold it dear)",huái,怀孕 (huái yùn) Pregnant
+998,矢,Dart,shǐ,
+999,族,Tribe,zú,种族 (zhǒng zú) Race
+1000,知,Know,zhī,毫不知情 (háo bù zhī qíng) Completely unaware -- 不知死活 (bù zhī sǐ huó) Reckless -- 不知悔改 (bù zhī huǐ gǎi) Unrepentant
+1001,智,Wisdom,zhì,明智 (míng zhì) Wise
+1002,矛,Spear (n.) (primitive),máo,矛盾 (máo dùn) Conflict
+1003,柔,Gentle,róu,温柔 (wēnróu) gentle; tender
+1004,揉,Knead (massage or squeeze with the hands),róu,
+1005,予,Bestow (primitive: Cerimonial Spear),yǔ,
+1006,序,Preface (n.),xù,
+1007,预,Beforehand,yù,预定 (yù dìng) Reserve/Predetermine
+1008,野,Wild,yě,野蛮 (yě mán) Barbaric -- 野心勃勃 (yě xīn bó bó) Ambitious
+1009,班,Class,bān,班主任 (bānzhǔrèn) head teacher
+v1p279,p.,p.Fencing foil,,
+1010,临,Be about to,lín,濒临 (bīn lín) On the verge
+1011,坚,Firm (adj.),jiān,坚持 (jiānchí) Persist
+1012,贤,Worthy (person),xián,贤妻良母 (xián qī liáng mǔ) Virtuous wife and good mother
+1013,弓,Bow (n.) (weapon),gōng,
+1014,引,"Draw (water rom a well, or attention or opinions out of people)",yǐn,吸引 (xī yǐn) Attract -- 引发 (yǐn fā) Trigger -- 引导 (yǐn dǎo) Guide
+1015,弥,Fill (v.),mí,
+1016,强,Strong,qiáng,"强烈 (qiáng liè) intense, strong -- 顽强 (wán qiáng) Tenacious/tough -- 强悍 (qiáng hàn) Strong and tough -- 勉强 (miǎn qiǎng) Reluctant/get ahead of oneself"
+1017,弱,Weak,ruò,软弱 (ruǎn ruò) Weak
+1018,单,List (n.),dān,单纯 (dān chún) Simple
+1019,弹,Bullet,dàn,导弹 (dǎodàn) missile -- 动弹 (dòng tán) Move
+v1p281,p.弗,p.Dollar sign,,
+1020,费,Expense,fèi,费劲 (fèi jìn) strenuous/requiring effort
+1021,佛,Buddha,fó,
+1022,弟,Younger brother,dì,
+1023,第,No.,dì,
+v1p282,p.丂,p.Snare,,
+1024,巧,Adroit (clever or skillful),qiǎo,
+1025,号,Appellation,hào,信号 (xìn hào) Signal
+1026,身,Somebody,shēn,"身份 (shēn fèn) identity, status -- 粉身碎骨 (fěn shēn suì gǔ) Shattered to pieces -- 杀身之祸 (shā shēn zhī huò) Fatal disaster -- 化身 (huà shēn) incarnation; embodiment (of an idea/character)"
+1027,射,Shoot (v),shè,
+1028,谢,Thank,xiè,
+1029,老,"Old man (the upper part becomes ""santa claus"" as a primitive)",lǎo,老大 (lǎo dà) Boss/Leader/Head
+V1p284-1,p.,p.Slingshot,,
+1030,考,Take an exam,kǎo,考验 (kǎo yàn) Test
+1031,烤,Roast (v.),kǎo,
+V1p284-2,p.,p.Pointed tail,,
+1032,与,Offer (v),yǔ,
+1033,写,Write,xiě,写真集 (xiě zhēn jí) photo album
+1034,泻,Diarrhea,xiè,
+1035,孝,Filial piety,xiào,
+1036,教,Teach,jiāo,指教 (zhǐjiào) Advise -- 教训 (jiào xùn) give a lesson，moral -- 调教 (tiáo jiào) Train -- 救世主 (jiù shì zhǔ) savior; Messiah (宗教语境) -- 宗教 (zōngjiào) religion
+1037,者,Someone - as a primitive: puppet-on-a-string,zhě,学者 (xué zhě) Scholar
+1038,著,Author (v.) - in the sense of writing books,zhù,
+1039,猪,Pig,zhū,
+v1p285,p.,p.Maestro (music director with tuxedo),,
+1040,追,Chase (v),zhuī,追踪 (zhuī zōng) Track
+1041,官,Bureaucrat,guān,
+1042,管,"Pipe (conduit, tubing)",guǎn,保管 (bǎo guǎn) Safekeeping
+1043,父,Father,fù,
+1044,交,Mingle,jiāo,交流 (jiāo liú) Communicate -- 交锋 (jiāo fēng) Confrontation
+1045,效,Effect (n.),xiào,有效 (yǒuxiào) effective
+1046,较,Relatively,jiào,较量 (jiào liàng) to compete; to measure strength against
+1047,校,School,xiào,校长 (xiàozhǎng) Principal
+1048,足,"Lower leg (when on the left: ""wooden leg"")",zú,足够 (zú gòu) Enough
+1049,跑,Run,pǎo,
+1050,跳,Jump (v.),tiào,跳跃 (tiào yuè) Jump -- 跳蚤 (tiào zao) flea
+1051,路,Path,lù,绕路 (rào lù) Detour
+1052,露,Dew,lù,"暴露 (bào lù) to expose, to reveal -- 表露 (biǎo lù) reveal; show"
+1053,骨,Skeleton,gǔ,粉身碎骨 (fěn shēn suì gǔ) Shattered to pieces -- 筋骨 (jīn gǔ) Muscle and bone (strength)
+1054,滑,Slippery,huá,
+v1p288,p.⻖,p.Pinnacle,,
+1055,阿,Apollo,ā,
+1056,啊,Aah!,ā,
+1057,随,As you wish,suí,
+1058,阳,"Yang (the sunny, light part of the dao)",yáng,
+1059,阴,Yin (the dark part of the dao),yīn,阴谋 (yīn móu) Conspiracy -- 阴间 (yīn jiān) Underworld
+1060,荫,Shady,yìn,
+1061,防,Ward off    (prevent someone or something from harming or affecting one),fáng,冷不防 (lěng bù fáng) Suddenly/unexpectedly -- 防御力 (fáng yù lì) Defense -- 提防 (dī fang) be cautious of; beware of -- 防护罩 (fáng hù zhào) protective shield
+1062,附,Attach,fù,
+1063,际,Occasion,jì,实际上 (shí jì shàng) Actually
+1064,阶,Stairs,jiē,
+1065,院,"Inst. (abbreviation for Institution, used as a suffix for certain buildings and organizations)",yuàn,住院 (zhùyuàn) Hospitalization -- 美容院 (měi róng yuàn) Beauty salon
+1066,阵,Battle formation,zhèn,上阵 (shàngzhèn) Go into battle
+1067,队,Team,duì,插队 (chā duì) Cut in line -- 团队 (tuán duì) Team
+1068,坠,Crash (v.),zhuì,
+1069,降,Descend,jiàng,投降 (tóu xiáng) Surrender -- 降低 (jiàng dī) lower/reduce
+1070,穴,Hole,xué,
+1071,究,Research (v) (study carefully),jiū,究竟 (jiū jìng) on earth -- 研究 (yán jiū) Research -- 终究 (zhōng jiū) Eventually
+1072,突,Abruptly,tū,
+1073,空,Empty,kōng,空壳 (kōng ké) Empty shell -- 空有 (kōng yǒu) Have in vain
+1074,控,Control (v.),kòng,遥控器 (yáo kòng qì) remote control
+v1p290,p.,p.Paper punch (Büro Locher),,
+1075,深,Deep (meaning),shēn,深渊 (shēn yuān) Abyss
+1076,探,Spy (n.),tàn,
+1077,丘,Hill,qiū,
+1078,兵,Troops,bīng,兵来将挡 (bīng lái jiàng dǎng) meet force with force; respond appropriately to changes
+v1p292,p.,p.Thread,,
+1079,丝,Silk,sī,
+1080,织,Weave (v.) (knit),zhī,
+1081,线,Line,xiàn,光线 (guāng xiàn) light ray
+1082,维,"to Maintain (but also: to tie up, preserve)",wéi,思维 (sīwéi) Thinking -- 维持 (wéi chí) Maintain
+1083,统,Overall / Continuum - an ordered system of interrelated things,tǒng,系统 (xì tǒng) System -- 统治 (tǒng zhì) Rule -- 血统 (xuè tǒng) Bloodline
+1084,给,Give,gěi,"给点颜色看看 (gěi diǎn yán sè kàn) ""teach someone a lesson""; show one's power"
+1085,结,Tie (v.),jié,"终结 (zhōng jié) End -- 结局 (jiéjú) ending, conclusion"
+1086,终,End (n.),zhōng,终究 (zhōng jiū) Eventually -- 终结 (zhōng jié) End
+1087,级,Rank (n.),jí,
+1088,纪,"Epoch, Age",jì,纪念 (jì niàn) commemorate
+1089,红,Red,hóng,
+1090,约,Make an appointment,yuē,"约定 (yuē dìng) Agreement -- 约会 (yuē huì) Date, appointment -- 隐约 (yǐn yuē) vague; indistinct; faint"
+1091,细,"Fine (adj.) thin, exquisite, delicate",xì,细看 (xì kàn) Examine carefully -- 细胞 (xì bāo) Cell -- 仔细 (zǐ xì) careful; meticulous -- 细菌 (xìjūn) bacteria
+1092,纵,Vertical,zòng,操纵 (cāo zòng) manipulate; control
+1093,绿,Green,lǜ,
+V1p294-1,p.,p.Spool,,
+1094,经,"Scripture, sutra",jīng,"经理 (jīng lǐ) Manager -- 神经 (shén jīng) Neuron -- 经历 (jīnglì) experience, to go through -- 神经病 (shénjīngbìng) crazy person (colloquial)"
+1095,轻,Lightweight,qīng,轻敌 (qīng dí) Underestimate the enemy -- 轻而易举 (qīng ér yì jǔ) Easy -- 掉以轻心 (diào yǐ qīng xīn) underestimate carelessly
+1096,续,Continue (or resume),xù,"持续 (chíxù) to continue, to last"
+1097,继,Carry on,jì,继承 (jì chéng) Inherit
+1098,药,Medicine,yào,炸药 (zhà yào) explosive; dynamite
+V1p294-2,p.幺,p.Cocoon,,
+v1p295,p.糸,p.Floss,,
+1099,系,Lineage,xì,系 (Jì) Tie/fasten -- 银河系 (yín hé xì) Milky Way Galaxy -- 系统 (xì tǒng) System
+1100,紧,Tight,jǐn,"无关紧要 (wú guān jǐn yào) irrelevant, insignificant -- 紧迫 (jǐn pò) Urgent -- 紧张 (jǐn zhāng) Nervous"
+v1p296,p.,p.Stamp,,
+1101,却,Withdraw,què,
+1102,脚,Foot,jiǎo,指手划脚 (zhǐ shǒu huà jiǎo) Gesticulate/to criticize -- 大展拳脚 (dà zhǎn quán jiǎo) showcase one's abilities; put skills into full play
+1103,服,Apparel (clothes in general),fú,征服 (zhēng fú) Conquer -- 克服 (kè fú) Overcome -- 道服 (dào fú) Martial Arts Uniform -- 说服 (shuō fú) persuade
+1104,报,Newspaper,bào,播报 (bō bào) Broadcast -- 报仇 (bào chóu) revenge; to take revenge
+1105,命,Fate,mìng,使命 (shǐ mìng) Mission/duty -- 拼命 (pīn mìng) Desperately
+V1p297-1,p.,p.Letter opener,,
+1106,贸,Trade (n.),mào,
+1107,留,Stay (v.),liú,
+1108,溜,Slide (v.),liū,溜 (liū) Sneak away
+1109,聊,Chat (v.),liáo,闲聊 (xián liáo) Chat
+1110,柳,Willow,liǔ,
+V1p297-2,p.,"p.Chop (in the sense of the engraved piece of wood or stone used in the Orient to certify document, generally using red ink. Pay attention to the difference to ""stamp"", the line on the top left is longer.",,
+1111,节,Holiday,jié,
+1112,卫,"Defend (active, military, like a sentinel)",wèi,卫生间 (wèishēngjiān) Bathroom
+1113,令,Orders,lìng,传令 (chuánlìng) Pass Orders
+1114,冷,Cold,lěng,冷不防 (lěng bù fáng) Suddenly/unexpectedly
+1115,零,Zero,líng,零件 (líng jiàn) spare parts/components
+1116,领,Collar,lǐng,心领 (xīn lǐng) appreciate sb.'s kindness -- 本领 (běnlǐng) Skill -- 领域 (lǐng yù) Field
+v1p298,p.甬,p.Chop-rack,,
+1117,通,Communicate,tōng,
+1118,勇,Courageous,yǒng,有勇无谋 (yǒu yǒng wú móu) Brave but not smart -- 勇士 (yǒng shì) Warrior/Brave person
+V1p299-1,p.巳,p.Fingerprint,,
+1119,仓,Storehouse,cāng,
+1120,枪,Gun,qiāng,
+1121,创,"Initiate (v) (a creative process, for example)",chuàng,
+1122,犯,Criminal,fàn,
+1123,危,Danger,wēi,
+1124,脆,Fragile,cuì,干脆 (gān cuì) Simply/directly
+Vap299-2,p.,p.Staples,,
+1125,印,Print (n./v.),yìn,印象 (yìn xiàng) Impression -- 封印 (fēng yìn) seal (magical)
+v1p300,p.酉,p.Whiskey bottle,,
+1126,酒,Liquor,jiǔ,酒店 (jiǔdiàn) hotel
+1127,配,Distribute,pèi,配 (pèi) Match/deserve
+1128,酋,Chieftain (chief of a tribe),qiú,
+1129,尊,Venerate,zūn,
+1130,遵,"Abide by (to accept and act according to a law, an agreement, etc.)",zūn,
+1131,豆,Beans,dòu,
+1132,短,Short,duǎn,缩短 (suō duǎn) shorten; reduce in length -- 长痛不如短痛 (cháng tòng bù rú duǎn tòng) a short pain is better than a long one
+1133,厨,Kitchen,chú,厨师 (chú shī) Chef
+V1p301-1,p.壴,p.Drum,,
+1134,鼓,Drum (n.),gǔ,鼓掌 (gǔ zhǎng) Applaud
+1135,喜,Joyful (personal happiness),xǐ,惊喜 (jīngxǐ) pleasant surprise
+V1p301-2,p.皿,p.Dish,,
+1136,血,Blood,xuè,血统 (xuè tǒng) Bloodline
+1137,盖,Lid,gài,
+1138,温,Temperature,wēn,温柔 (wēnróu) gentle; tender
+1139,监,"Supervise (just checking everything is ok, running smoothly)",jiān,监视 (jiān shì) Monitor
+1140,篮,Basket,lán,
+1141,蓝,Blue,lán,
+v1p302,p.艮,p.Silver,,
+1142,银,Silver,yín,银河系 (yín hé xì) Milky Way Galaxy
+1143,跟,Heel,gēn,
+1144,很,Very,hěn,
+1145,根,Root,gēn,
+1146,即,Immediately,jí,"即便 (jí biàn) even if, even though -- 立即 (lì jí) immediately; at once"
+1147,退,Retreat (physical),tuì,撤退 (chè tuì) Retreat
+1148,腿,Leg,tuǐ,飞毛腿 (fēi máo tuǐ) Fast runner
+1149,限,Limit (n./v.),xiàn,
+1150,眼,Eyelet (Öse),yǎn,"刺眼 (cì yǎn) dazzling, glaring -- 眨眼间 (zhǎ yǎn jiān) In the blink of an eye -- 顺眼 (shùn yǎn) Pleasing to the eye -- 眼光 (yǎn guāng) Vision, insight"
+1151,良,High-quality,liáng,贤妻良母 (xián qī liáng mǔ) Virtuous wife and good mother -- 善良 (shàn liáng) Kindness
+1152,浪,Breakers (large and powerful waves),làng,
+1153,娘,Mom (my dear mom),niáng,
+1154,食,Food,shí,挑食 (tiāoshí) Picky Eating -- 饵食 (ěr shí) bait; lure food
+1155,饭,Meal,fàn,饭量 (fàn liàng) Appetite -- 电饭煲 (diàn fàn bāo) Rice cooker
+1156,餐,Dine,cān,
+1157,馆,Bldg.,guǎn,
+v1p304,p.旡,p.waitress,,
+1158,既,Since (now that...),jì,
+1159,概,Approximate,gài,
+1160,平,"Even (flat, level)",píng,
+1161,评,Eveluate,píng,
+1162,坪,Level ground,píng,
+1163,乎,Ooh! (Wild water lily),hū,似乎 (sì hū) it seems -- 几乎 (jī hū) Almost
+1164,呼,Shout (v.),hū,
+v1p307,p.乂,p.Sheaf (a bundle of grain stalks),,
+1165,希,Hope (v.),xī,
+1166,稀,Scarce,xī,稀奇 (xī qí) Rare
+1167,杀,Kill,shā,杀身之祸 (shā shēn zhī huò) Fatal disaster -- 杀光 (shā guāng) Kill all -- 屠杀 (tú shā) Massacre -- 滥杀无辜 (làn shā wú gū) Kill innocent people indiscriminately -- 厮杀 (sī shā) Fight fiercely
+1168,风,Wind (p. Windstorm),fēng,"出风头 (chū fēngtóu) Show Off -- 风俗 (fēngsú) custom, tradition"
+1169,讽,Mock,fěng,
+1170,冈,Ridge of a hill,gāng,
+1171,刚,Just now,gāng,
+1172,网,Web (also: internet),wǎng,
+V1p308-1,p.凵,p.Pit,,
+1173,画,Drawing,huà,动画 (dòng huà) animation
+1174,凶,Cruel,xiōng,凶残 (xiōng cán) Ferocious
+1175,胸,Bosom,xiōng,
+V1p308-2,p.,p.Fagin (Heisenberg),,
+1176,脑,Brain,nǎo,
+1177,恼,Annoyed,nǎo,
+1178,离,Leave (v.),lí,距离 (jù lí) Distance
+1179,禽,Fowl (birds),qín,
+1180,义,Righteousness (p. bouquet),yì,正义 (zhèng yì) justice; righteousness
+1181,议,Deliberate (v.) Exchange views on something,yì,"建议 (jiànyì) suggestion, to suggest"
+1182,蚁,Ant,yǐ,
+1183,辛,Peppery (p. Chili Pepper),xīn,
+1184,辩,"Dispute (debate, argue)",biàn,
+1185,辟,"Repudiate (refute, deny)",pì,
+1186,壁,Partition (n.) (like a wall),bì,
+1187,避,Evade,bì,
+1188,亲,Relatives,qīn,
+1189,新,New,xīn,重新 (chóngxīn) Redo/renew -- 新闻速递 (xīn wén sù dì) News Bulletin
+1190,薪,Fuel,xīn,薪水 (xīnshuǐ) salary
+1191,幸,Good fortune,xìng,幸好 (xìng hǎo) Fortunately -- 幸存 (xìng cún) Survive -- 侥幸 (jiǎo xìng) By luck
+v1p310,p.,p.Cornucopia,,
+1192,叫,Call (v.),jiào,
+1193,收,Receive,shōu,收拾 (shōu shi) deal with / tidy up
+1194,亥,Sign of the Hog,hài,
+1195,核,Nucleus,hé,
+1196,孩,Tot (innocent child),hái,
+1197,刻,Carve,kè,刻苦 (kè kǔ) Hardworking/assiduous -- 刻意 (kè yì) Deliberately
+1198,该,Should,gāi,
+1199,术,Art,shù,魔术 (mó shù) Magic
+1200,述,Narrate,shù,
+v1p312,p.,p.Wire mesh,,
+1201,襄,Aid (v.) as primitive: a primitive android,xiāng,
+1202,壤,Territory (also fertile soil or cultivated land),rǎng,
+v1p313,p.,p. (Cyber) Hamster cage,,
+1203,寒,"Frigid (very cold, not sexual)",hán,
+1204,赛,Competition,sài,
+v1p314,p.,p.Grow up,,
+1205,毒,Poison (n.),dú,病毒性 (bìng dú xìng) Viral
+1206,麦,Wheat,mài,
+1207,素,Vegetarian diet,sù,
+1208,青,Blue or green (p. Alien Mold),qīng,
+1209,精,Refined (perfected),jīng,精密 (jīngmì) Precision -- 十分精彩 (shí fēn jīng cǎi) Very exciting -- 精华 (jīng huá) Essence
+1210,请,Invite,qǐng,申请 (shēn qǐng) Apply -- 邀请 (yāoqǐng) to invite
+1211,情,Feelings (affection),qíng,情绪 (qíng xù) Emotion -- 毫不知情 (háo bù zhī qíng) Completely unaware
+1212,睛,Eyeball,jīng,
+1213,清,Pure,qīng,清洁工 (qīng jié gōng) Cleaner -- 清高 (qīng gāo) Noble and aloof
+1214,静,Quiet (no noise or disturbance),jìng,静止 (jìng zhǐ) Still/Motionless
+1215,责,Responsibility,zé,责骂 (zé mà) Scold -- 责任心 (zé rèn xīn) Sense of responsibility -- 责怪 (zéguài) to blame
+1216,绩,"Accomplishments (individual performances with measurable results, students and worker)",jì,
+1217,表,Surface (n.),biǎo,"表露 (biǎo lù) reveal; show -- 列表 (lièbiǎo) list -- 表示 (biǎoshì) to express, to indicate"
+1218,生,Life (p. Cell ? mmm),shēng,卫生间 (wèishēngjiān) Bathroom -- 娇生惯养 (jiāo shēng guàn yǎng) Pampered/Spoiled -- 产生 (chǎnshēng) Generate
+1219,星,Star,xīng,
+1220,姓,Surname,xìng,
+1221,性,Sex (gender and sexuality?,xìng,"病毒性 (bìng dú xìng) Viral -- 本性 (běn xìng) nature; inherent character -- 个性 (gèxìng) personality -- 性格 (xìnggé) personality, character"
+1222,胜,Victory,shèng,胜负难料 (shèng fù nán liào) outcome hard to predict -- 取胜 (qǔ shèng) Win
+1223,丰,Plentiful (abundant) (p. bushes),fēng,丰富 (fēng fù) Rich/enrich
+1224,害,Harm (Damage) (n.),hài,害羞 (hàixiū) shy
+1225,割,Cut off (with a specific purpose of method),gē,
+1226,慧,"Intelligent (ability to understand, analyze and comprehend)",huì,
+1227,韦,Tanned hide (colored leather) as P: briar patch (Dornendickicht),wéi,
+1228,围,Surround,wéi,
+1229,伟,Great (person),wěi,
+v1p317,p.,p.Bonsai,,
+1230,春,Springtime,chūn,
+1231,泰,Tranquil (serenity),tài,
+v1p318,p.,p.Cornstalk (Maisstängel),,
+1232,奉,"Proffer (v.) to offer respectfully, in a ritualistic, religious way",fèng,奉陪 (fèng péi) Accompany
+1233,棒,"Cudgel (n.) (it's a mediEvel weapon, like a bat with an iron head)",bàng,
+1234,击,to beat powerfully (v.),jī,击碎 (jī suì) Shatter -- 拳击 (quán jī) Boxing
+1235,陆,Land (instead of water),lù,着陆 (zhuó lù) Land
+1236,专,Specialty (professional expertise),zhuān,
+1237,传,"Spread (v.) to transmit, to pass on, to convey",chuán,传令 (chuánlìng) Pass Orders -- 传授 (chuán shòu) Impart -- 传染 (chuán rǎn) Infect/Contagious -- 传说 (chuán shuō) legend/folklore
+1238,转,Rotate,zhuàn,转转 (zhuànzhuan) to go for a walk -- 转告 (zhuǎn gào) Pass on (a message) -- 转播 (zhuǎn bō) Relay broadcast
+V1p319-1,p.堇,Violet (it's actually its meaning),,
+1239,勤,Diligent,qín,
+1240,谨,"Careful, meticulous, attentive, taking things seriously and being detail-oriented and precise.",jǐn,
+V1p319-2,p.,p.Silage (durch Gärung konserviertes hochwertiges Grünfutter),,
+1241,垂,"to droop, to hang down (like barnches, curtains, hair)",chuí,
+1242,锤,Hammer (n.),chuí,
+1243,睡,to sleep,shuì,
+1244,今,Now (p. clock),jīn,
+1245,含,to harbor (v.) (things like grudges and resentment),hán,含有 (hán yǒu) Contain
+1246,念,Miss (v.) to yearn for,niàn,纪念 (jì niàn) commemorate
+1247,东,East (p. rickshaw),dōng,
+1248,栋,"Building (actually the structural pillar used in construction, and measure word)",dòng,
+1249,冻,Freeze (v.),dòng,
+1250,陈,Exhibit (v.) (to present smth often in a formal way),chén,
+1251,练,Practice (v.),liàn,训练 (xùn liàn) Training
+1252,拣,Opt for (choose in a relatively casual or informal way),jiǎn,
+1253,西,West,xī,
+1254,要,Want,yào,"无关紧要 (wú guān jǐn yào) irrelevant, insignificant -- 必要 (bì yào) Necessary -- 要求 (yāoqiú) Request -- 要不是 (yàobùshì) if it weren’t for, but for"
+1255,腰,Waist,yāo,
+1256,票,Ticket,piào,
+1257,漂,Drift (v.),piào,
+1258,贾,Merchant (don't confuse with salesman),gǔ,
+1259,南,South,nán,
+1260,门,Gate,mén,
+1261,们,(plural),men,
+1262,闲,Leisure,xián,等闲之辈 (děng xián zhī bèi) ordinary people -- 闲聊 (xián liáo) Chat -- 闲扯 (xián chě) Chitchat
+1263,问,Ask,wèn,
+1264,间,Interval,jiàn,卫生间 (wèishēngjiān) Bathroom -- 眨眼间 (zhǎ yǎn jiān) In the blink of an eye -- 瞬间 (shùn jiān) Moment -- 阴间 (yīn jiān) Underworld
+1265,简,Simple,jiǎn,
+1266,闻,to hear (but also to smell),wén,新闻速递 (xīn wén sù dì) News Bulletin
+1267,非,Non- (p. jail cell),fēi,非你莫属 (fēi nǐ mò shǔ) It must be you -- 除非 (chúfēi) unless
+1268,排,Row,pái,
+1269,罪,Guilt,zuì,
+1270,靠,Lean on (to rely on someone),kào,可靠 (kě kào) reliable
+v1p325,p.,p.Key,,
+1271,侯,Marquis,hóu,
+1272,候,Wait (v.) in the sense of after...时...,hòu,
+v1p326,p.夬,p.Guillotine,,
+1273,决,Decide,jué,一决高下 (yì jué gāo xià) Decide (on) who is superior
+1274,快,Fast (adj.),kuài,痛快 (tòng kuài) delighted; straightforward and direct
+1275,块,Lump,kuài,
+1276,筷,Chopsticks,kuài,
+1277,干,Dry (adj.) (p. Clothesline),gān,干脆 (gān cuì) Simply/directly -- 乳臭未干 (rǔ xiù wèi gān) Wet behind the ears
+1278,岸,Shore,àn,
+1279,旱,"Drought, dry spell",hàn,
+1280,赶,Hurry,gǎn,
+1281,于,Yu (p. clothing conveyor - Bekleidungsförderer),yú,甘于 (gān yú) Willing to/Content with -- 同归于尽 (tóng guī yú jìn) Mutual destruction
+1282,宇,Eaves (the edge of the roof that overhangs the exterior siding),yǔ,
+1283,余,Excess (p. scale with spinning indicator),yú,
+1284,除,Eliminate,chú,解除 (jiě chú) remove; lift -- 除非 (chúfēi) unless
+1285,途,Route,tú,前途 (qián tú) Future
+1286,束,Bundle up (p. a bundle),shù,装束 (zhuāng shù) Attire
+1287,速,Quick,sù,迅速 (xùn sù) Rapid -- 新闻速递 (xīn wén sù dì) News Bulletin
+1288,辣,Spicy Hot,là,
+1289,整,"Entire (whole, complete) - to bully",zhěng,整齐 (zhěngqí) tidy; neat
+1290,重,Heavy,zhòng,重新 (chóngxīn) Redo/renew -- 重力 (zhònglì) Gravity
+1291,懂,Understand,dǒng,
+V1p330-1,p.,p.Sickness,,
+1292,病,Illness,bìng,病毒性 (bìng dú xìng) Viral -- 神经病 (shénjīngbìng) crazy person (colloquial)
+1293,痛,Ache (v.) localised sharp pain,tòng,痛恨 (tònghèn) Despise -- 痛快 (tòng kuài) delighted; straightforward and direct -- 长痛不如短痛 (cháng tòng bù rú duǎn tòng) a short pain is better than a long one
+1294,疯,Insane,fēng,
+V1p330-2,p.匚,"p.Box (not a cool one, just a paper box! don't mix up, it's just a primitive)",,
+1295,区,Region,qū,
+1296,枢,Hub,shū,
+1297,欧,Europe,ōu,
+1298,医,Physician,yī,
+V1p331-1,p.卬,p.Stamp collection,,
+1299,仰,Look up to,yǎng,
+1300,迎,Greet,yíng,
+V1p331-2,p.,p.Teepee (american indan tent),,
+1301,登,Ascend,dēng,登场 (dēng chǎng) to appear on stage; make an entrance
+1302,发,Send out (p. Courier Dog),fā,激发 (jī fā) Inspire/Stimulate -- 引发 (yǐn fā) Trigger -- 焕发 (huàn fā) Radiate -- 发育 (fā yù) Develop -- 假发 (jiǎ fǎ) Wig -- 发抖 (fā dǒu) Tremble -- 染头发 (rǎn tóu fà) Dye hair -- 发音 (fāyīn) pronunciation
+1303,废,Discard,fèi,废物 (fèi wù) waste; trash; good-for-nothing (person)
+v1p333,p.,p.Rooster tail,,
+1304,形,Shape (n.),xíng,形势 (xíngshì) Situation -- 遁形 (dùn xíng) become invisible; vanish without a trace
+1305,影,Shadow,yǐng,"影响 (yǐngxiǎng) to influence, impact"
+1306,彩,Hue,cǎi,十分精彩 (shí fēn jīng cǎi) Very exciting
+1307,须,Have to (to do list),xū,
+1308,参,Participate (p. brawl),cān,
+1309,惨,Wretched,cǎn,
+1310,修,Repair (v.),xiū,
+v1p334,p.㐱,p.Cocktail,,
+1311,珍,"Rare (not common, precious, etc.)",zhēn,
+1312,产,Products (p. bungee-jumper,chǎn,产生 (chǎnshēng) Generate
+1313,彦,Erudite,yàn,
+1314,颜,Countenance (Antlitz),yán,"给点颜色看看 (gěi diǎn yán sè kàn) ""teach someone a lesson""; show one's power"
+1315,文,Literature (highlander),wén,
+1316,蚊,Mosquito,wén,
+1317,这,This,zhè,
+1318,齐,Identical,qí,聚齐 (jù qí) to bring something together from different places，assemble -- 整齐 (zhěngqí) tidy; neat
+1319,济,to relieve (bring relief to someone in need),jì,
+v1p335,p.,p.Sparkler,,
+1320,率,"Rate (n.) - as in ""tax rate""",shuài,
+1321,摔,Tumble (v.) (p. to take a fall),shuāi,
+1322,央,Center,yāng,
+1323,英,England,yīng,英雄 (yīng xióng) hero
+v1p336,p.奂,p.Victorian lady,,
+1324,唤,Call out,huàn,召唤 (zhào huàn) summon/conjure
+1325,换,Exchange (v.),huàn,换句话说 (huàn jù huà shuō) in other words
+1326,巴,Crust (p. crust or mosaic),bā,摇尾巴 (yáo wěi ba) wagging tail
+1327,把,Grasp (v.),bǎ,把握 (bǎ wò) Grasp
+1328,爸,Papa,bà,
+1329,吧,Bar (n.),bā,
+1330,色,Color,sè,"给点颜色看看 (gěi diǎn yán sè kàn) ""teach someone a lesson""; show one's power"
+1331,绝,Discontinue,jué,"艰苦卓绝 (jiān kǔ zhuó jué) extremely hard and bitter/arduous -- 绝招 (jué zhāo) Special skill -- 绝望 (jué wàng) Despair -- 绝对 (juéduì) absolutely, definitely -- 拒绝 (jùjué) to refuse, reject"
+1332,艳,Gorgeous,yàn,
+1333,甘,"Sweet (p. wicker basket, the small kind you take on a picnic)",gān,甘心 (gān xīn) Willingly -- 甘于 (gān yú) Willing to/Content with
+1334,某,Such and such (adj) (irgend- ...),mǒu,某个 (mǒu gè) A Certain
+1335,其,His-hers-its-theirs (p. clothes hamper),qí,尤其 (yóu qí) Especially
+1336,期,Period of time,qī,期待 (qī dài) Expect/look forward
+1337,基,Base (n.),jī,基本 (jīběn) basically -- 基地 (jīdì) Base
+1338,甚,Tremendously,shèn,甚至 (shèn zhì) Even -- 欺人太甚 (qī rén tài shèn) Bully excessively
+1339,斯,Sphinx,sī,
+v1p339,p.,p.Purse,,
+1340,贵,Expensive,guì,
+1341,遗,to bequeath (leave (property) to a person or other beneficiary by a will),yí,遗憾 (yí hàn) Regret
+1342,舞,Dance (n./v.),wǔ,
+1343,且,Moreover,qiě,
+1344,姐,Older sister,jiě,
+1345,组,Group (n.),zǔ,
+1346,祖,Ancestor,zǔ,
+1347,助,Assist (v.),zhù,协助 (xié zhù) assist
+v1p341,p.並,p.Side by side,,
+1348,普,Universal,pǔ,
+1349,业,Profession,yè,
+1350,显,Obvious,xiǎn,"明显 (míngxiǎn) obvious, clear"
+1351,亚,Asia,yà,亚军 (yà jūn) Runner-up
+1352,恶,Evil (n./v.),è,邪恶 (xié è) Evil -- 恶劣 (è liè) bad; vile
+1353,严,Strict,yán,
+1354,共,Together,gòng,"共同 (gòngtóng) common, shared"
+1355,供,Supply (n. / v.) (of goods),gōng,
+1356,巷,Lane,xiàng,
+1357,港,Port (Harbour),gǎng,
+1358,井,Well (n.),jǐng,
+1359,讲,Lecture (v.),jiǎng,"讲理 (jiǎnglǐ) reasonable, to be reasonable"
+1360,进,Advance (v.),jìn,先进 (xiān jìn) Advanced -- 进攻 (jìn gōng) Attack
+1361,用,Utilize (p. rack),yòng,利用 (lìyòng) Utilize -- 占用 (zhàn yòng) Occupy
+1362,角,Angle (p. office safe),jiǎo,主角 (zhǔ jué) Main character
+1363,确,Reliable,què,的确 (díquè) Indeed
+1364,解,Untie,jiě,解剖 (jiěpōu) Dissection -- 解除 (jiě chú) remove; lift -- 解释 (jiěshì) to explain
+1365,嘴,Orifice,zuǐ,闭嘴 (bì zuǐ) Shut up
+1366,再,Once more,zài,
+v1p344,p.冊,p.Tome,,
+1367,扁,Flat (p. book cover),biǎn,看扁 (kàn biǎn) look down upon
+1368,篇,Piece of writing,piān,
+1369,编,Compile,biān,编造 (biān zào) fabricate; make up (a story/lie)
+1370,典,Canon,diǎn,
+1371,氏,Family name,shì,摄氏 (shè shì) Celsius
+1372,纸,Paper,zhǐ,
+1373,昏,Dusk,hūn,昏迷 (hūn mí) unconscious/coma
+1374,婚,Marriage,hūn,
+v1p346,p.氐,p.Calling card,,
+1375,低,Low,dī,低估 (dī gū) Underestimate -- 降低 (jiàng dī) lower/reduce
+1376,底,Bottom,dǐ,
+1377,民,People,mín,
+1378,眠,Slumber (n.) (sleep - der Schlaf),mián,冬眠 (dōng mián) Hibernate -- 不眠不休 (bù mián bù xiū) Sleepless
+1379,甫,Fu (p. dog tag),fǔ,
+1380,辅,Supplement (v.),fǔ,
+v1p347,p.尃,p.Gummed label,,
+1381,博,Knowledgeable (PhD),bó,
+1382,搏,Wrestle,bó,脉搏 (mài bó) Pulse
+v1p348,p. 阝,p.City walls,,
+1383,都,Metropolis,dū,
+1384,部,Department,bù,俱乐部 (jù lè bù) Club
+1385,郎,Young man,láng,
+1386,帮,Help (v.),bāng,
+1387,乡,Countryside,xiāng,
+v1p349,p.,p.Staple gun,,
+1388,段,Section (n.),duàn,
+1389,锻,Forge (v.),duàn,
+V1p349-2,p.,p.Clothes hanger,,
+1390,幻,Unreal,huàn,
+1391,司,Take charge of,sī,
+1392,词,Word,cí,
+1393,书,Book,shū,
+1394,舟,Boat,zhōu,
+v1p350,p.,p.Belch (burp),,
+1395,船,Ship (n.),chuán,
+1396,般,Sort (n.),bān,
+1397,盘,Tray,pán,
+1398,搬,Relocate,bān,
+1399,瓜,Melon,guā,
+1400,孤,Orphan,gū,孤独 (gū dú) Lonely
+1401,益,Benefit (n.),yì,受益匪浅 (shòu yì fěi qiǎn) Benefited greatly
+v1p353,p.,p.Braces,,
+1402,假,Vacation,jià,"假扮 (jiǎ bàn) to disguise, to impersonate -- 假如 (jiǎ rú) If -- 假发 (jiǎ fǎ) Wig -- 假装 (jiǎ zhuāng) Pretend"
+1403,暇,Spare time,xiá,
+1404,气,Air,qì,"氧气 (yǎng qì) Oxygen -- 氧气罩 (yǎng qì zhào) Oxygen mask -- 口气 (kǒu qì) Tone -- 锐气 (ruì qì) sharpness -- 脾气 (pí qì) Temper -- 泄气 (xiè qì) Discouraged -- 稚气 (zhì qì) Childish -- 土气 (tǔ qì) Unfashionable, rustic"
+1405,汽,Vapor,qì,
+1406,面,Face-to-face,miàn,下面 (xià miàn) Below -- 面试 (miàn shì) Interview
+1407,革,Leather,gé,
+1408,鞋,Shoes,xié,
+1409,勒,Tighten,lēi,
+v1p353,p.,p.Civil war,,
+1410,馨,Fragrant,xīn,
+1411,声,Voice,shēng,
+1412,承,Undertake,chéng,"继承 (jì chéng) Inherit -- 承认 (chéngrèn) to admit, to acknowledge"
+1413,蒸,Steam (v.),zhēng,
+1414,牙,Tooth,yá,
+1415,穿,Pass through,chuān,穿透 (chuāntòu) Penetrate
+1416,呀,Wow!,ya,
+v1p355,p.釆,p.Droppings,,
+1417,释,Explain,shì,解释 (jiěshì) to explain
+1418,番,"Try (n) (attempt, taking the time and effort to do something) (p. Fertilizer)",fān,
+1419,翻,Turn over,fān,
+1420,播,Broadcast (v.),bō,转播 (zhuǎn bō) Relay broadcast -- 播报 (bō bào) Broadcast -- 插播 (chā bō) Interrupt broadcast
+1421,毛,Fur,máo,飞毛腿 (fēi máo tuǐ) Fast runner -- 汗毛 (hàn máo) body hair; fine hair on skin
+1422,尾,Tail,wěi,摇尾巴 (yáo wěi ba) wagging tail
+1423,笔,Pen,bǐ,
+v1p356,p.乇,p.Fur ball,,
+1424,托,Entrust,tuō,拜托 (bài tuō) Please -- 托你的福 (tuō nǐ de fú) thanks to you (polite)
+1425,宅,Dwelling (place to live in),zhái,住宅 (zhù zhái) residence
+v1p357,p.,p.Barrette,,
+1426,展,Unfold,zhǎn,展现 (zhǎn xiàn) Display -- 展示 (zhǎn shì) Display -- 大展拳脚 (dà zhǎn quán jiǎo) showcase one's abilities; put skills into full play
+1427,丧,Funeral,sàng,丧失 (sàng shī) Lose
+1428,长,Long,cháng,校长 (xiàozhǎng) Principal -- 擅长 (shàn cháng) Be good at -- 长痛不如短痛 (cháng tòng bù rú duǎn tòng) a short pain is better than a long one
+1429,张,Stretch (v.),zhāng,紧张 (jǐn zhāng) Nervous -- 嚣张 (xiāo zhāng) arrogant; aggressive; domineering
+1430,涨,Swell (v.),zhàng,
+V1p359-1,p.倠,p.Birdman,,
+1431,雁,Wild goose,yàn,
+V1p359-2,p.,p.Owl,,
+1432,应,Ought to,yīng,"应对 (yìngduì) to cope, to deal with -- 应聘 (yìng pìn) Apply for a job -- 反应 (fǎn yìng) Reaction/Feedback -- 答应 (dā yìng) Promise"
+1433,兴,Excitement,xìng,对……感兴趣 (duì... gǎn xìngqù) to be interested in...
+1434,举,Lift up,jǔ,轻而易举 (qīng ér yì jǔ) Easy -- 一举一动 (yī jǔ yī dòng) Every move -- 举行 (jǔ xíng) Hold (an event)
+V1p359-3,p.佥,p.Hootenanny,,
+1435,检,Examine,jiǎn,
+1436,脸,Face (n.),liǎn,
+1437,险,Perilous (situations or circumstances that involve potential dangers or uncertainties),xiǎn,
+1438,鸟,Bird,niǎo,
+1439,鸡,Chicken,jī,
+1440,鹰,Hawk,yīng,
+1441,鸭,Duck (n.),yā,
+1442,岛,Island,dǎo,岛屿 (dǎoyǔ) Island
+V1p361-1,p.禺,p.Talking cricket,,
+1443,遇,Encounter (v.),yù,
+V1p361-2,p.缶,p.Tin can,,
+1444,缺,Deficient,quē,
+v1361-3,p.,p.Can opener,,
+1445,遥,"Remote （diastant, far)",yáo,一步之遥 (yī bù zhī yáo) A step away -- 遥控器 (yáo kòng qì) remote control
+1446,摇,Shake (v.),yáo,摇尾巴 (yáo wěi ba) wagging tail
+1447,兔,Rabbit,tù,兔崽子 (tù zǎi zi) Brat
+1448,逸,Flee,yì,安逸 (ān yì) Comfortable
+1449,免,Avoid,miǎn,未免 (wèi miǎn) Somewhat
+1450,晚,Nightfall,wǎn,
+1451,象,Elephant,xiàng,印象 (yìn xiàng) Impression
+1452,像,Likeness,xiàng,图像 (tú xiàng) image/picture
+1453,马,Horse,mǎ,放马过来 (fàng mǎ guò lái) Bring it on -- 马虎 (mǎ hu) Careless
+1454,妈,Mama,mā,婆婆妈妈 (pó po mā mā) overly fussy; long-winded (describing someone nitpicky or indecisive)
+1455,吗,Yes or no (question) ma?,ma,
+1456,骂,Scold (v.),mà,责骂 (zé mà) Scold
+1457,验,Check (v.),yàn,实验 (shíyàn) Experiment -- 考验 (kǎo yàn) Test
+1458,骑,Ride (v.),qí,
+1459,虎,Tiger,hǔ,马虎 (mǎ hu) Careless
+1460,虑,Ponder,lǜ,
+1461,虚,FALSE,xū,
+1462,鹿,Deer,lù,
+1463,熊,Bear (n.),xióng,
+1464,能,Ability,néng,才能 (cáinéng) talent -- 无能为力 (wú néng wéi lì) Powerless -- 潜能 (qián néng) Potential
+1465,寅,Sign of the Tiger,yín,
+1466,演,Perform,yǎn,
+1467,辰,Sign of the Dragon,chén,
+1468,晨,Morning,chén,
+1469,关,Shut,guān,"无关紧要 (wú guān jǐn yào) irrelevant, insignificant -- 关心 (guānxīn) care about"
+1470,送,Deliver,sòng,
+1471,联,"Unite (ally, join)",lián,联络 (lián luò) Contact
+1472,鬼,Ghost,guǐ,鬼魂 (guǐ hún) Ghost -- 搞鬼 (gǎo guǐ) play tricks; scheme secretly -- 胆小鬼 (dǎn xiǎo guǐ) coward
+1473,魔,Demon,mó,魔术 (mó shù) Magic
+1474,龙,Dragon,lóng,
+1475,袭,Raid (v.),xí,偷袭 (tōu xí) Sneak attack
+v1p368,p.,p.Razor wire,,
+1476,那,That,nà,刹那 (chà nà) instant; brief moment
+1477,哪,Which?,nǎ,
+1478,两,Dos (p: yoke),liǎng,
+1479,俩,Duo,liǎ,
+1480,满,Full,mǎn,
+1481,县,County (district),xiàn,
+1482,悬,"Suspend (in the sense of ""hang"" not ""interrupt"")",xuán,悬崖 (xuányá) Cliff
+v1p369,p.囱,p.GPS,,
+1483,窗,Window,chuāng,
+1484,电,Electricity,diàn,电饭煲 (diàn fàn bāo) Rice cooker -- 电梯 (diàn tī) elevator; lift
+v1p370,p.奄,p.Hang glider (like a gigantic kite),,
+1485,掩,Conceal,yǎn,
+1486,丑,Clown,chǒu,"丑话 (chǒuhuà) unpleasant words, harsh truth"
+1487,扭,Twist (v.),niǔ,
+1488,黄,Yellow,huáng,
+1489,横,Horizontal,héng,
+1490,赤,Crimson,chì,
+1491,亦,Likewise (Billionaire),yì,
+1492,弯,Curved,wān,
+1493,湾,Bay,wān,
+1494,恋,Be enamored of,liàn,
+1495,变,Change (v.),biàn,变态 (biàntài) pervert
+1496,卑,Lowly,bēi,卑鄙 (bēi bǐ) Despicable -- 自卑 (zìbēi) low self-esteem; feel inferior
+1497,牌,"Brand (n.) (trademark of a manifactured product, not hot iron on cow)",pái,
+1498,套,Cover (n.) （case),tào,圈套 (quān tào) trap; snare; scheme
+1499,曰,"Sayeth (refers to things famous people sayeth - is used fo the verb ""to say"" in classical texts)",yuē,
+1500,属,Belong to,shǔ,非你莫属 (fēi nǐ mò shǔ) It must be you
+1501,叭,trumpet (n.),bā,
+1502,咕,mutter,gū,
+1503,胆,gall bladder,dǎn,胆子大 (dǎnzi dà) Brave/courageous -- 胆小鬼 (dǎn xiǎo guǐ) coward -- 胆小 (dǎnxiǎo) timid
+1504,咱,we (inclusive),zán,
+1505,肿,swollen,zhǒng,
+1506,串,string together (p. shish kebab),chuàn,
+1507,吓,terrify,xià,
+1508,罩,overspread,zhào,氧气罩 (yǎng qì zhào) Oxygen mask -- 笼罩 (lǒng zhào) shroud -- 防护罩 (fáng hù zhào) protective shield
+1509,兽,beast,shòu,猛兽 (měng shòu) Beast
+1510,嚣,hubbub (a chaotic din caused by a crowd of people),xiāo,嚣张 (xiāo zhāng) arrogant; aggressive; domineering
+1511,矗,stand straight,chù,
+1512,颠,invert,diān,
+1513,巩,strengthen,gǒng,
+1514,叨,talkative,dāo,
+1515,刮,scrape (v.),guā,
+1516,盯,stare at,dīng,
+1517,呵,rebuke (v.),hē,
+1518,姑,father's sister,gū,
+1519,婴,baby,yīng,
+1520,姆,nanny,mǔ,
+1521,兢,cautious,jīng,
+1522,奋,exert oneself (to make an effort to do something),fèn,
+1523,夹,press from both sides,jiā,
+1524,颊,cheek,jiá,
+1525,厕,toilet,cè,
+1526,硕,big (literary),shuò,
+1527,砌,lay brick,qì,
+1528,哨,whistle (n.),shào,
+1529,晃,"to sway, to dazzle",huàng,
+1530,泪,tears,lèi,
+1531,泄,discharge (v.),xiè,泄气 (xiè qì) Discouraged
+1532,泊,moor (v.) (To cast anchor),bó,
+1533,沾,soak,zhān,沾到 (zhān dào) get stained; come into contact with
+1534,渺,insignificant,miǎo,渺茫 (miǎo máng) Uncertain/Slim
+1535,汰,get rid of,tài,
+1536,咏,to chant,yǒng,
+1537,腺,gland,xiàn,
+1538,鲁,Lu (surname),lǔ,
+1539,坦,level (adj.) smooth,tǎn,
+1540,坝,dam,bà,
+1541,涯,bank (n.) water margin,yá,
+1542,娃,newborn,wá,
+1543,肘,elbow,zhǒu,
+1544,碍,obstruct,ài,障碍 (zhàng ài) Obstacle -- 妨碍 (fáng'ài) Obstruct
+1545,夺,take by force,duó,
+1546,灼,scorch (burn the surface of (something) with flame or heat),zhuó,
+1547,炒,stir fry (v.),chǎo,
+1548,灶,cooking stove,zào,
+1549,哩,mile,lǐ,
+1550,厘,smidgen (a small amount of something),lí,
+1551,鲤,carp,lǐ,
+1552,嘿,hey!,hēi,
+1553,熏,to treat with smoke,xūn,
+1554,丹,cinnabar red,dān,
+1555,炯,shining,jiǒng,
+1556,晌,part of the day,shǎng,
+1557,淌,trickle (v.),tǎng,
+1558,宁,calm (adj.),níng,宁愿 (nìng yuàn) Would rather -- 宁可 (nìng kě) Preferably/Would rather
+1559,寡,widowed,guǎ,
+1560,喧,boisterous,xuān,
+1561,棚,"shed (n.) (a simple roofed structure used for garden storage, to shelter animals, or as a workshop)",péng,
+1562,柏,cypress,bǎi,
+1563,朴,plain (adj.) - plain and simple,pǔ,
+1564,朵,flouds (counter for flowers and clouds),duǒ,
+1565,杠,a thick stick,gàng,
+1566,椅,chair,yǐ,
+1567,樱,cherry,yīng,
+1568,梢,treetops,shāo,
+1569,杜,to prevent,dù,
+1570,杰,outstanding,jié,
+1571,桐,paulownia,tóng,
+1572,宋,Song (surname),sòng,
+1573,桂,"cassia-bark tree (used as a spice, cinnamon like)",guì,
+1574,淋,drench (wet thoroughly; soak.),lín,
+1575,焚,burn (v.),fén,
+1576,厢,side room,xiāng,
+1577,昧,obscure (adj / verb),mèi,
+1578,朱,vermilion,zhū,
+1579,株,tree trunk,zhū,
+1580,萌,bud (v.) (to form a new bud),méng,
+1581,苟,careless,gǒu,
+1582,苛,"exacting (erfordern, making great demands on on's skill, attention or other resources)",kē,
+1583,萝,edible root,luó,
+1584,膜,membrane,mó,
+1585,暮,sunset,mù,朝三暮四 (zhāo sān mù sì) Fickle
+1586,寞,solitary,mò,"寂寞 (jìmò) lonely, loneliness"
+1587,猫,cat,māo,
+1588,狭,narrow (adj.),xiá,
+1589,狸,raccoon dog,lí,
+1590,犹,just like,yóu,
+1591,燃,ignite,rán,
+1592,咒,curse (v.),zhòu,咒语 (zhòu yǔ) incantation/spell
+1593,嗅,sniff (v.),xiù,
+1594,牢,jail,láo,牢骚 (láo sāo) complaint/grumble
+1595,牡,"dude (male of deer, horse and cow)",mǔ,
+1596,宪,constitution (Verfassung),xiàn,
+1597,赞,succor (v.) to give assistance or aid,zàn,赞扬 (zàn yáng) praise
+1598,伞,umbrella,sǎn,
+1599,舍,abode (a place of residence),shè,舍弃 (shě qì) Abandon
+1600,啥,"wha? (colloquial abbreviations, often used in internet communications, for the ordinary compound meaning ""what?"")",shá,
+1601,洽,in agreement,qià,
+1602,旺,thriving,wàng,
+1603,碧,green jade,bì,
+1604,琐,trivial,suǒ,
+1605,汪,tearful,wāng,
+1606,枉,crooked,wǎng,
+1607,珠,pearl,zhū,
+1608,噩,shocking,è,
+1609,栓,plug (n.),shuān,
+1610,柱,pillar,zhù,
+1611,钥,key,yào,钥匙 (Yàoshi.) Key.
+1612,钻,drill (n./v.),zuān,
+1613,钞,paper money,chāo,
+1614,锁,lock (n./v.),suǒ,
+1615,销,put up for sale,xiāo,
+1616,锣,gong,luó,
+1617,迫,"to compel (to force, to press)",pò,紧迫 (jǐn pò) Urgent
+1618,迁,resituate,qiān,
+1619,逼,press (v.) (hounding someone or forcing them to do something),bī,逼真 (bī zhēn) Lifelike/Realistic
+1620,辽,far away,liáo,
+1621,逻,make the rounds (like police patrol),luó,
+1622,逞,"flaunt (v.) to show off capabilities, talent",chěng,得逞 (dé chěng) Succeed (in a negative sense)
+1623,轨,rails,guǐ,
+1624,轧,flatten,yà,
+1625,辐,"spokes (Speiche, raggio)",fú,
+1626,链,chain (n.),liàn,
+1627,煎,sauté (v.) fried in pan,jiān,
+1628,喻,figure of speech,yù,
+1629,榆,elm (tree),yú,
+1630,胳,upper limb,gē,胳膊 (gē bo) Arm
+1631,厦,skyscraper,shà,
+1632,牵,"lead along (like an animal, like a horse, or someone by the hand)",qiān,
+1633,浑,muddled,hún,
+1634,晕,dizzy,yūn,
+1635,炕,brick-heated bed,kàng,
+1636,膏,ointment,gāo,
+1637,淳,honest,chún,
+1638,亨,go smoothly,hēng,
+1639,哼,hum (v.),hēng,
+1640,鲸,whale,jīng,
+1641,壳,shell (n.),ké,空壳 (kōng ké) Empty shell
+1642,洁,spotless,jié,清洁工 (qīng jié gōng) Cleaner
+1643,枚,"small objects (measure word for coins, paper clips, cuff links and the like)",méi,
+1644,牧,herd (v.),mù,
+1645,玫,rose,méi,
+1646,敦,"candid (honest, sincere)",dūn,
+1647,墩,mound,dūn,
+v2p43,p.詹,"p.snitch (meaning: verbose, talk too much)",zhan 1,
+1648,瞻,look upward,zhān,
+1649,谓,meaning,wèi,
+1650,询,inquire,xún,
+1651,讥,to deride,jī,
+1652,罚,penalize,fá,惩罚 (chéngfá) Punish
+1653,订,place an order,dìng,
+1654,谅,forgive,liàng,原谅 (yuán liàng) Forgive -- 体谅 (tǐliàng) Understand
+V2p44-1,p.若,p.disneyland,,
+1655,诺,promise (n.),nuò,
+V2p44-2,p.卂,p.crochet needles,,
+1656,讯,interrogate,xùn,
+v2p45,p.枼,p.family tree,,
+1657,谍,espionage,dié,
+1658,碟,saucer,dié,
+1659,贰,II,èr,
+1660,腻,sick and tired of,nì,
+1661,嘎,"caw (n.) the harsh cry of a rook, crow, or similar bird",gā,
+1662,域,domain (area of control),yù,领域 (lǐng yù) Field
+1663,栽,sow (v.) disseminate seeds,zāi,
+1664,戚,kin,qī,
+1665,蔑,despise,miè,
+1666,喊,yell (v.),hǎn,
+1667,溅,splatter (v.),jiàn,
+1668,浇,to sprinkle,jiāo,
+1669,涩,astringent,sè,
+1670,址,address (n.),zhǐ,
+1671,赴,"go to (somewhere, with a destination in mind)",fù,
+1672,趟,trip (counter word),tàng,
+1673,堤,dike,dī,
+1674,津,"Tianjin (chinese city, this is the abbreviation)",jīn,
+1675,键,keyboard keys,jiàn,启动键 (qǐdòngjiàn) Start button
+1676,婿,son-in-law,xù,
+1677,袜,socks,wà,
+1678,衰,decline (v.),shuāi,
+1679,衷,innermost feelings,zhōng,
+1680,猿,ape,yuán,
+1681,吊,dangle,diào,
+1682,币,currency,bì,
+1683,帕,handkerchief,pà,
+1684,帖,note (n.) written memo left for someone,tiě,
+1685,帆,sail (n.),fān,
+1686,幅,"width of cloth (measure word: ""panel of... a painting"" for example.）",fú,
+1687,锦,brocade,jǐn,
+1688,沛,copious,pèi,
+1689,柿,persimmon,shì,
+1690,棘,thorn bushes,jí,
+1691,蕾,flower bud,lěi,
+1692,尝,taste (v.),cháng,
+1693,坛,altar,tán,
+1694,枣,jujube (red date - datteln),zǎo,
+1695,吞,gulp down (to swallow),tūn,
+1696,妖,bewitching,yāo,
+1697,沃,fertile,wò,
+1698,袄,short Chinese-style coat,ǎo,
+1699,轿,sedan chair,jiào,
+1700,垃,garbage,lā,
+1701,啼,weep aloud,tí,
+1702,蒂,fruit stem,dì,
+1703,顷,100 Chinese acres,qǐng,
+1704,匙,spoon (n.),chí,钥匙 (Yàoshi.) Key.
+1705,乖,well-behaved,guāi,乖 (guāi) well-behaved
+1706,乘,hitch a ride,chéng,
+1707,剩,leftover (adj.),shèng,所剩无几 (suǒ shèng wú jǐ) Very little left
+1708,毕,complete (v.),bì,
+1709,棍,club (n.) in the sense of the piece of wood to beat someone,gùn,
+1710,谐,in accord (in harmony),xié,
+1711,柴,firewood,chái,
+1712,沦,sink (v.),lún,
+1713,敏,quick-witted,mǐn,
+1714,霉,mildew (n.) like mold in moist or decaying organic matter,méi,倒霉 (dǎo méi) Unlucky
+1715,迄,so far,qì,
+1716,砍,chop (v.),kǎn,
+1717,坎,"hump (n.) pit or hole, but also difficulties or obstacles",kǎn,
+1718,炊,cook (v.),chuī,
+1719,钦,think highly of,qīn,钦佩 (qīn pèi) Admire
+1720,剖,cut open,pōu,解剖 (jiěpōu) Dissection
+1721,菩,bodhisattva,pú,
+1722,黯,tenebrous,àn,
+1723,赢,win (v.),yíng,
+1724,芒,mango,máng,
+1725,荒,wasteland,huāng,
+1726,谎,lie (n.),huǎng,
+1727,茫,boundless,máng,渺茫 (miǎo máng) Uncertain/Slim
+1728,坊,workshop (place where certain types of work or production are carried out),fáng,
+1729,芳,aromatic,fāng,
+1730,访,"to call on (to visit someone, often for a specific purpose, or to ask or invite someone to do something, particularly in a public or formal context)",fǎng,
+1731,淤,silt (fine sediment),yū,
+1732,熬,to stew (v.),áo,熬夜 (áoyè) to stay up late
+v2p60,p.旁,p.magellan (before: sidekick?),,
+1733,膀,upper arm,bǎng,
+1734,磅,pound (n.) (weight),bàng,
+1735,榜,"roster (roll call, list or register)",bǎng,
+1736,锐,sharp,ruì,锐气 (ruì qì) sharpness
+1737,虹,rainbow,hóng,
+1738,蝠,bat (n.) (animal),fú,
+1739,浊,turbid,zhuó,
+1740,蝗,locust,huáng,
+1741,蛙,frog,wā,
+1742,烛,candle,zhú,
+1743,茧,cocoon,jiǎn,
+1744,蚕,silkworm,cán,
+1745,胞,placenta,bāo,同胞 (tóngbāo) Compatriots -- 细胞 (xì bāo) Cell
+1746,炮,cannon,pào,
+1747,袍,robe (n.),páo,
+1748,雹,hail (n.),báo,
+1749,豪,unrestrained,háo,自豪 (zìháo) Proud
+v2p64,p.豖,p.hog-tied,,
+1750,啄,peck (v.),zhuó,
+1751,琢,chisel (v.),zhuó,
+1752,遂,satisfy,suì,
+v2p64,p.家,p.flophouse,,
+1753,嫁,to marry,jià,
+1754,肠,intestines,cháng,盲肠 (mángcháng) Appendix
+1755,杨,poplar,yáng,
+1756,烫,"to scald (sieden, scottare)",tàng,
+1757,荡,"licentious, dissolute (Ausschweifend)",dàng,
+1758,姜,ginger (n.),jiāng,
+1759,详,detailed,xiáng,
+1760,羡,envy (v.),xiàn,
+1761,栏,"railing (fence, barrier)",lán,
+1762,拦,"impede (to block, to stop)",lán,
+1763,唯,"solely (only, merely)",wéi,唯一 (wéi yī) Only
+1764,雀,sparrow,què,
+1765,堆,pile (n./v.),duī,
+1766,雕,sculpture,diāo,
+1767,截,"lop off (remove, cut off)",jié,截至 (jié zhì) Up to -- 截然不同 (jiérán bùtóng) Completely different
+1768,霍,all at once,huò,
+1769,雌,feminine,cí,
+1770,焦,apprehensive,jiāo,
+1771,瞧,lay eyes on,qiáo,
+1772,礁,reef,jiāo,
+1773,蕉,banana,jiāo,
+1774,翘,"turn upward (like hair, eyelashes, puppy dog tails)",qiào,
+1775,塌,"fall down (rooftops, hairdos)",tā,
+1776,翰,writing brush,hàn,
+,p.翟,p.headdress,,
+1777,耀,show off (v.),yào,
+1778,戳,jab (v.) - poking or jabbing something with a pointed object,chuō,
+v2p69,p.因,p.dog kennel (dog house),,
+1779,咽,throat,yān,
+1780,姻,in-law (adj.),yīn,
+1781,墙,wall,qiáng,
+1782,旷,expansive (both spaces and personalities),kuàng,
+1783,矿,mine (n.),kuàng,
+1784,庆,celebrate,qìng,
+1785,嘛,(pause marker) used in a sentence to bring attention to what will follow,ma,
+1786,磨,grind (v.) to sharpen,mó,磨蹭 (mó cèng) Dawdle
+1787,脏,dirty,zàng,
+1788,赃,stolen goods,zāng,
+1789,桩,"stake (n.) a piece of wood or metal driven into the ground, which serves as a support, marker, or part of a foundation structure",zhuāng,
+1790,忠,loyal,zhōng,忠告 (zhōnggào) Advice
+1791,恕,pardon (v.) (give forgivness),shù,
+1792,惑,be bewildered,huò,"迷惑 (mí huò) to confuse, to perplex"
+1793,愈,more and more,yù,痊愈 (quányù) Recover
+1794,惠,favor (n.),huì,
+1795,忌,"to shun (to avoid something, especially due to superstition, taboos, or because it's considered inauspicious or harmful)",jì,
+1796,患,troubles,huàn,
+1797,惹,provoke,rě,
+1798,恒,permanent,héng,
+1799,悟,realize (to come to awareness),wù,
+1800,悼,to mourn,dào,
+1801,惧,be frightened (like next to a bomb),jù,惧怕 (jù pà) Fear
+1802,慎,prudent,shèn,
+1803,惰,indolent (a state of being unwilling to work or use energy),duò,
+1804,恢,immense,huī,恢复 (huī fù) Recover
+1805,惶,fearful,huáng,
+1806,忆,recall (v.),yì,
+1807,悄,noiseless,qiǎo,
+1808,恍,all of a sudden,huǎng,
+1809,恰,just right,qià,
+1810,愉,overjoyed,yú,
+1811,怔,terror stricken,zhèng,
+1812,怖,be scared of,bù,恐怖 (kǒngbù) Terror/scary/horrible
+1813,慌,nervous,huāng,恐慌 (kǒng huāng) Panic
+1814,愣,dumbfounded (so shocked that you cannot speak),shǎ,
+1815,悦,delighted,yuè,
+1816,憎,"to loathe (to hate, to detest)",zēng,憎恨 (zēng hèn) Hate
+1817,惟,thinking (like a turkey),wéi,
+1818,悔,be sorry about,huǐ,不知悔改 (bù zhī huǐ gǎi) Unrepentant
+1819,慕,"to admire (also to long for, deep affection)",mù,
+1820,添,"to augment (something is being added to increase quantity, enhance quality, or expand on something that already exists)",tiān,添麻烦 (tiān máfan) Add Trouble
+1821,媳,daughter-in-law,xí,
+1822,熄,put out (light and fires),xī,
+1823,泌,to secrete,mì,
+1824,瑟,Chinese harp,sè,
+1825,蜜,honey,mì,
+v2p75,p.我,p.miser (an egocentric),,
+1826,蛾,moth,é,
+1827,扒,pick pockets (v.),pá,
+1828,扣,button (n./v.),kòu,
+1829,拍,racquet,pāi,
+1830,啪,clapping sound,pā,
+1831,扑,pounce on (throwing oneself at something),pū,相扑 (xiàng pū) Sumo
+1832,拘,detain (to arrest),jū,
+1833,损,damage (v.),sǔn,损坏 (sǔn huài) Damage
+1834,拓,pioneer (v.),tuò,
+1835,扛,carry over the shoulder,káng,
+1836,扎,prick (v.) like a needle piercing the skin,zhā,
+1837,拇,thumb,mǔ,
+1838,捎,bring to - if you're visiting someone and you bring something they asked for,shāo,
+1839,抄,copy (v.) by hand,chāo,
+1840,垫,pad (n./v.) placing something underneath another object or providing a layer of separation,diàn,
+1841,挚,"earnest (attitudes that are deeply sincere, earnest, and coming from the heart)",zhì,
+1842,捏,pinch (v.),niē,捏 (niē) Pinch
+1843,拧,tweak (v.) physical action of twisting or wringing,niē,
+1844,抹,"smear on - wiping, spreading, or erasing",mǒ,
+1845,摸,grope (feel or search by touch),mō,摸索 (mō suǒ) Explore
+1846,描,to describe,miáo,
+1847,挑,"to foment, to provoke, to instigate",tiǎo,挑食 (tiāoshí) Picky Eating -- 挑战 (tiǎo zhàn) challenge; to challenge -- 挑衅 (tiǎo xìn) provocation
+1848,扰,harass,rǎo,打扰 (dǎ rǎo) Disturb
+1849,搞,engage in (an activity),gǎo,搞鬼 (gǎo guǐ) play tricks; scheme secretly
+1850,拴,"tether (a rope or chain used to tie, especially an animal, to a post or other fixed place)",shuān,
+1851,拾,tidy up (picking up objects from the ground),shí,收拾 (shōu shi) deal with / tidy up
+1852,搭,"put up (put together, assemble, construct)",dā,
+1853,掠,pillage (v.),lüè,
+1854,拭,wipe away,shì,
+1855,挠,"chafe (to rub a part of the body, to itch)",náo,阻挠 (zǔ náo) obstruct; hinder
+1856,扯,yank (v.) pull with a jerk,chě,闲扯 (xián chě) Chitchat
+1857,撞,"bump into (physically, like a car accident)",zhuàng,"撞到 (zhuàngdào) to bump into, to hit"
+1858,摘,handpick,zhāi,摘 (zhāi) Pick
+1859,拖,drag (v.),tuō,拖延 (tuō yán) delay
+1860,扬,publicize (spreading news),yáng,赞扬 (zàn yáng) praise
+1861,搓,massage (v.),cuō,
+1862,捆,lash together (securing or fastening multiple items together),kǔn,
+1863,扩,enlarge,kuò,
+1864,撼,joggle (v.) To Shake or Move Powerfully,hàn,
+1865,挟,coerce,xié,
+v2p79,p.亶,p.Mr. Hyde,,
+1866,擅,act without authority,shàn,擅长 (shàn cháng) Be good at
+1867,颤,tremble,chàn,颤抖 (chàn dǒu) Tremble/shaking -- 震颤 (zhèn chàn) tremble/vibrate
+1868,戒,take precautions against,jiè,
+1869,械,weapon,xiè,机械 (jī xiè) Machinery/Mechanical
+1870,诫,warn,jiè,
+1871,莽,rude,mǎng,
+V2p80-1,p.卉,p.haystack,,
+1872,奔,dash (v.),bēn,狂奔 (kuáng bēn) Run wildly -- 直奔 (zhí bèn) Direct to
+V2p80-2,p.贲,"p.local-yokel chowder, it's a kind of soup, made with haystack and clams.",,
+1873,喷,spurt (v.),pēn,打喷嚏 (dǎ pēntì) Sneeze
+1874,愤,indignation,fèn,
+1875,材,stuff (n.),cái,
+1876,荐,recommend,jiàn,
+1877,孕,pregnant,yùn,怀孕 (huái yùn) Pregnant
+1878,扔,throw away,rēng,
+1879,携,take along - carrying something with oneself or bringing someone along,xié,
+1880,圾,trash (n.),jī,
+1881,梗,"stalk (n.) the main structural part of a plant that supports leaves, flowers, or fruits",gěng,
+1882,叹,sigh (v.),tàn,
+1883,叉,fork (n.),chā,
+1884,权,authority,quán,权利 (quán lì) Right
+1885,寇,outlaw (n.),kòu,
+1886,敲,knock (v.),qiāo,
+1887,轰,rumble (n./v.),hōng,
+1888,滩,beach (n.),tān,
+1889,毅,resolute,yì,
+1890,肢,limb,zhī,
+1891,妓,prostitute,jì,
+1892,歧,fork in the road,qí,
+1893,翅,"fins (Flossen, pinne)",chì,
+1894,淑,graceful,shū,
+1895,椒,spice plant,jiāo,
+1896,盾,shield (n.),dùn,矛盾 (máo dùn) Conflict
+1897,贩,peddler,fàn,
+1898,扳,tug (v.),bān,
+1899,烁,luminous,shuò,
+1900,觅,try to find,mì,
+1901,妥,appropriate,tuǒ,
+v2p83,p.豸,p.leopard,,
+1902,豹,leopard,bào,
+1903,貌,"mien (Miene, appearance)",mào,
+1904,睬,notice (v.),cǎi,
+1905,允,consent (v.),yǔn,
+1906,宏,magnificent,hóng,
+1907,垒,baseball base,lěi,垒球 (lěiqiú) Softball
+1908,胎,fetus,tāi,
+1909,怠,negligent,dài,
+1910,怡,cheerful,yí,
+1911,冶,smelt (v.),yě,
+1912,抬,elevate (to lift),tái,
+1913,罢,cease,bà,罢休 (bà xiū) Give up
+1914,摆,put in order,bǎi,
+1915,丢,mislay (temporarily losing or misplacing something),diū,丢人 (diū rén) Disgraceful、embarrassing
+1916,致,"bring about (to cause, to lead to)",zhì,一致 (yī zhì) unanimous/consistent
+1917,弃,to forsake (abandon),qì,"舍弃 (shě qì) Abandon -- 抛弃 (pāoqì) to abandon, to forsake"
+1918,撤,remove,chè,撤退 (chè tuì) Retreat
+1919,硫,sulfur,liú,
+1920,琉,glaze (n.) (smooth and shiny coating),liú,
+1921,疏,sparse (as in sparsely populated or scattered),shū,
+1922,蔬,veggies,shū,
+1923,勾,cross out (check out of a list),gōu,
+1924,沟,ditch (n.),gōu,
+1925,钩,hook (n. / v.),gōu,
+1926,崩,crumble (v.),bēng,
+1927,岩,rock (n.),yán,岩石 (yán shí) Rock
+1928,峭,"precipitous (steep, like a cliff)",qiào,
+1929,崎,"rugged (uneven, rough)",qí,
+1930,崖,cliff,yá,悬崖 (xuányá) Cliff
+1931,灿,"brilliant (bright, splendid, glorious)",càn,
+1932,炭,charcoal,tàn,
+1933,碳,carbon,tàn,
+1934,岂,"(rhetorical question) like ""how"" ""how can it be"" or ""could it be""",qǐ,
+1935,凯,triumphant,kǎi,
+1936,峡,gorge (n.) (canyon or narrow mountain pass),xiá,
+1937,崔,Cui (surname),cuī,
+1938,摧,wreck (v.),cuī,
+v2p88,p.,p.mountain goat,,
+1939,逆,go against,nì,
+1940,溯,go upstream,sù,
+1941,塑,plastic (n.),sù,
+1942,盼,await hopefully,pàn,
+1943,颁,"promulgate (a law, for example)",bān,
+1944,芬,essence,fēn,
+1945,扮,play the part of,bàn,"假扮 (jiǎ bàn) to disguise, to impersonate"
+1946,岔,diverge,chà,
+1947,颂,to extol (to praise enthusiastically),sòng,
+1948,讼,"litigate (to sue, to bring a lawsuit)",sòng,
+1949,滚,trundle (v.) (to move or cause to move slowly and heavily),gǔn,
+1950,翁,elderly man,wēng,大富翁 (dà fù wēng) Tycoon/rich man
+1951,嗡,buzzing (n.),wēng,
+1952,裕,abundant,yù,
+1953,榕,"banyan tree, a type of large, evergreen tree that is commonly found in tropical and subtropical regions",róng,
+1954,熔,"to fuse (v.) (to smelt, to weld)",róng,
+1955,裳,"raiment (flowing, elegant clothing or garments in general)",shang,
+1956,掌,palm of the hand,zhǎng,鼓掌 (gǔ zhǎng) Applaud -- 掌握 (zhǎng wò) Master
+1957,撑,"to prop up (often used in contexts where something is being physically or figuratively held up or supported, either by a structure or by effort)",chēng,撑 (chēng) Support/Hold up
+1958,膛,chest,táng,
+1959,颇,"quite (rather, considerably)",pō,
+1960,坡,slope (n.),pō,
+1961,披,drape over the shoulder,pī,
+1962,菠,spinach,bō,
+1963,歼,annihilate,jiān,
+1964,殖,breed (v.),zhí,
+1965,殊,dissimilar,shū,
+1966,残,incomplete,cán,凶残 (xiōng cán) Ferocious
+1967,咧,grin (v.),liě,
+1968,裂,crack (v.),liè,
+1969,毙,die a violent death,bì,
+1970,耿,"dedicated (loyal, vigilant)",gěng,
+1971,辑,to edit (compiling and refining written content),jí,
+1972,耻,shame (n.),chǐ,无耻 (wú chǐ) Shameless
+1973,摄,take a photo,shè,摄氏 (shè shì) Celsius
+1974,聪,"smart (clever, fast witted)",cōng,
+1975,娶,take a wife,qǔ,
+1976,蔓,creeping vine,wàn,
+1977,肤,skin (n.),fū,
+1978,扶,lend a hand,fú,
+1979,潜,to submerge (to dive),qián,潜艇 (qiántǐng) Submarine -- 潜能 (qián néng) Potential -- 潜在 (qián zài) Potential
+1980,卧,"for sleeping (to lie down, to rest)",wò,
+v2p93,p.爿,p.bunk beds,,
+1981,藏,hide (v.),cáng,蕴藏 (yùn cáng) Contain
+1982,熙,splendid,xī,
+1983,勋,merit (n.),xūn,
+1984,劣,inferior,liè,恶劣 (è liè) bad; vile
+1985,募,recruit (v.),mù,
+1986,劝,advise,quàn,
+1987,劫,plunder (v.),jié,
+1988,抛,"toss (v.) (discard, toss away)",pāo,"抛弃 (pāoqì) to abandon, to forsake"
+1989,胁,threaten,xié,
+1990,怒,anger (n.),nù,怒 (nù) Anger -- 激怒 (jī nù) Infuriate
+1991,茄,eggplant,qié,
+1992,彻,thorough,chè,
+1993,征,solicit,zhēng,征服 (zhēng fú) Conquer
+1994,惩,"to chasten (discipline, punish, or correct someone, typically in order to improve their behavior or moral character)",chéng,惩罚 (chéngfá) Punish
+1995,徒,follower (n),tú,
+1996,徊,undecided,huái,
+1997,役,"service (n.) (labor, or military duty)",yì,
+1998,循,comply with,xún,
+1999,彼,the other (It is often used as a third-person pronoun or to refer to something distant or far away),bǐ,彼此彼此 (bǐ cǐ bǐ cǐ) Same to you
+2000,衍,"to develop (to extend, to spread, or to evolve)",yǎn,繁衍 (fán yǎn) Reproduce/Propagate
+2001,衡,weight (n.),héng,
+2002,衔,"title (person's official rank, title, or position)",xián,
+2003,秃,bald,tū,"光秃秃 (guāng tū tū) bare, bald"
+2004,颓,"decrepit (decayed, deteriorated, or in decline)",tuí,
+2005,秒,seconds,miǎo,
+2006,稍,a little (adv.),shāo,稍等 (shāo děng) Wait a moment -- 稍加 (shāo jiā) Slightly
+2007,稣,rise again (come back to life),sū,
+2008,稿,draft (n.),gǎo,
+2009,稠,dense,chóu,
+2010,颖,clever,yǐng,
+2011,稼,crops,jià,
+2012,税,tax,shuì,
+2013,稚,immature,zhì,幼稚 (yòu zhì) Childish -- 稚气 (zhì qì) Childish
+2014,菌,fungus,jùn,细菌 (xìjūn) bacteria
+2015,穗,ear of grain (the grain-bearing tip part of the stem of a cereal plant),suì,
+2016,秘,confidential,mì,隐秘 (yǐn mì) Secret/Hidden
+2017,私,private (adj.),sī,"私下 (sīxià) privately, in private"
+2018,秩,order (n.),zhì,
+2019,锹,shovel (n.),qiāo,
+2020,梨,pear,lí,
+2021,犁,plow (n.),lí,
+2022,萎,"to wilt (to wither, to lack energy, vitality, spirit)",wěi,
+V2p99-1,p.黍,p. Rumpelbrella,,
+2023,黏,sticky,nián,
+2024,黎,"host (n.) (group of people, common people)",lí,
+V1p99-2,p.桼,p.baron von rumpelbrella,,
+2025,膝,knees,xī,
+2026,漆,wall paint,qī,漆黑 (qī hēi) pitch-dark; complete darkness
+2027,锈,rust (n./v.),xiù,
+2028,眯,squint (v.),mī,
+2029,糊,"batter (mixture of flour and liquid with other ingredients, such as leavening agents, shortening, sugar, salt, eggs, and various flavourings, used to make baked goods and other food products)",hù,模糊 (móhu) unclear; vague
+2030,粘,glue (v.),zhān,粘 (zhān / nián) Stick / Sticky
+2031,奥,"of great depth (complex, difficult to understand, or has hidden meanings)",ào,
+2032,澳,"deep inlet (a bay, a cove, or a harbor)",ào,
+2033,懊,remorseful,ào,
+2034,菊,chrysanthemum,jú,
+2035,渊,abyss,yuān,深渊 (shēn yuān) Abyss
+v2p101,p.,p.decapitation,,
+2036,粱,fine millet (high-quality grains),liáng,
+2037,梁,roof beam,liáng,
+2038,糙,rough (to the touch),cāo,
+2039,粒,grain,lì,
+2040,糕,cake,gāo,
+v2p102,p.敝,p.shredder,,
+2041,蔽,shelter (n.),bì,
+2042,憋,to suppress (emotions),biē,
+2043,撇,to cast aside (to discard),piē,
+2044,弊,fraud,bì,
+2045,莱,"lambsquarters (White goosefoot, it's a plant)",lái,
+2046,搂,cuddle,lǒu,
+2047,筑,construct,zhù,
+2048,箩,bamboo basket,luó,
+2049,笨,stupid,bèn,
+2050,筒,tube,tǒng,
+2051,箭,arrow,jiàn,
+2052,筛,"sift (to filter, or to screen)",shāi,
+2053,筋,tendon,jīn,筋疲力尽 (jīn pí lì jìn) Exhausted -- 筋骨 (jīn gǔ) Muscle and bone (strength)
+2054,伍,v (5 for official documents),wǔ,
+2055,仇,animosity,chóu,复仇 (fù chóu) Revenge -- 报仇 (bào chóu) revenge; to take revenge
+2056,倡,"start (v.) (the act of initiating, promoting, or advocating for a cause, idea, or action)",chàng,
+2057,伯,father's older brother,bó,
+2058,仲,mid-,zhòng,
+2059,仆,servant,pú,仆人 (pú rén) servant
+2060,估,estimate (v.),gū,估计 (gū jì) estimate -- 低估 (dī gū) Underestimate
+2061,侦,detect,zhēn,"侦察 (zhēnchá) Reconnaissance, scout"
+2062,俱,altogether (adv.) (acting collectively or completely),jù,俱乐部 (jù lè bù) Club
+2063,佑,bless,yòu,
+2064,佐,assistant,zuǒ,
+2065,侧,lateral (adj.),cè,
+2066,亿,one hundred million,yì,
+2067,仔,meticulous,zǐ,仔细 (zǐ xì) careful; meticulous
+2068,倚,count on,yǐ,
+2069,俏,comely (being in demand or popular),qiào,
+2070,佳,"superb (excellent, good, or beautiful)",jiā,
+2071,侍,serve,shì,
+2072,伙,mate (n.),huǒ,
+2073,倘,if,tǎng,
+2074,宿,stay overnight,sù,
+2075,伏,"bend over (lying low, submitting)",fú,制伏 (zhì fú) Subdue
+2076,袱,wrapping cloth,fú,
+2077,偷,steal (v.),tōu,"偷窥 (tōu kuī) peep, spy -- 偷袭 (tōu xí) Sneak attack"
+2078,偿,repay,cháng,"补偿 (bǔcháng) to compensate, make up for"
+2079,伐,fell,fá,
+2080,佩,wear at the waist,pèi,钦佩 (qīn pèi) Admire
+2081,侨,live abroad,qiáo,
+2082,倾,incline (v.),qīng,倾尽 (qīngjìn) Pour out
+2083,伦,human relationships,lún,
+2084,侮,insult (v.),wǔ,
+2085,倍,times,bèi,
+2086,仿,mimic (v.),fǎng,
+2087,傲,haughty,ào,骄傲 (jiāo ào) Proud -- 骄傲自大 (jiāo ào zì dà) arrogant; conceited
+2088,僧,Buddhist monk,sēng,
+2089,囚,prisoner,qiú,
+2090,悠,without haste,yōu,
+2091,侄,nephew,zhí,
+2092,仙,immortal (n.),xiān,
+2093,傍,close to,bàng,
+2094,催,"prod (v.) to urge, to press, or to prompt someone to do something",cuī,
+2095,俗,"custom (tradition), common, vulgar",sú,"风俗 (fēngsú) custom, tradition"
+2096,侠,chivalrous person,xiá,
+2097,俄,Russia,é,
+2098,聚,assemble,jù,聚齐 (jù qí) to bring something together from different places，assemble -- 聚会 (jù huì) Gathering
+2099,符,symbol,fú,
+2100,贷,loan (n.),dài,
+2101,荷,Holland,hé,
+2102,杖,cane,zhàng,
+2103,仗,battle (n.),zhàng,
+2104,丛,"thicket (cluster, collection of things)",cóng,
+2105,耸,shrug (v.) one's shoulders,sǒng,
+2106,挫,"to frustrate, a setback",cuò,
+2107,诬,to charge falsely (to fabricate lies about someone),wū,
+2108,葛,"kudzu (a type of climbing vine or herb often used in Chinese medicine, textiles, and food)",gé,
+2109,褐,brown,hè,
+2110,竭,"to use up, to exhaust or to give one's all",jié,
+2111,歇,take a rest,xiē,
+2112,揭,"to reveal, to uncover, to expose",jiē,
+2113,淫,promiscuous,yín,
+2114,凭,proof (evidence),píng,凭 (píng) Rely on
+2115,挺,erect (adj.),tǐng,
+2116,赎,to redeem (both to buy back and to make amends),shú,
+2117,瓦,tile,wǎ,
+2118,瓷,porcelain,cí,
+2119,拟,"to simulate (like making a model, a simulation, a draft of something)",nǐ,
+2120,瓶,bottle (n.),píng,
+2121,宫,palace,gōng,
+2122,铝,aluminum,lǚ,
+2123,萤,firefly,yíng,
+2124,莹,"lustrous (bright, luminous, or crystal-clear)",yíng,
+2125,蒙,Mongolia,Měng,
+2126,朦,dim (adj.) something hazy or obscured,méng,
+2127,捞,scoop up,lāo,
+2128,旋,whirl (v.),xuàn,
+2129,吻,kiss (v.),wěn,
+2130,匆,hurriedly,cōng,
+2131,葱,onion,cōng,
+2132,锡,tin,xī,
+2133,惕,watchful,tì,警惕 (jǐng tì) Vigilant/Alert
+2134,卢,Louvre,lú,
+2135,屉,drawer,tì,
+2136,屑,bits (small fragments),xiè,不屑 (bù xiè) Disdain
+2137,尿,urine,niào,尿布 (niàobù) diaper
+2138,犀,rhinoceros,xī,
+2139,迟,tardy (being late),chí,
+2140,刷,brush (n./v.),shuā,
+2141,漏,leak (v.),lòu,漏洞百出 (lòudòng bǎichū) Full of loopholes
+2142,屁,fart (n.),pì,
+2143,屈,"knuckle under (involves the idea of bending, whether physically or in a figurative sense, like submitting to pressure or enduring something unfair)",qū,
+2144,掘,excavate,jué,
+2145,履,footwear,lǚ,
+2146,屎,excrement,shǐ,
+2147,屡,"time and again (frequently, repeatedly)",lǚ,
+2148,屏,folding screen,píng,屏住 (bǐng zhù) Hold (one's breath)
+2149,眉,eyebrows,méi,
+2150,媚,flatter (v.),mèi,
+2151,昼,daylight (opposto di 夜),zhòu,
+2152,启,enlighten,qǐ,启动键 (qǐdòngjiàn) Start button
+2153,肩,shoulder (n.),jiān,肩负 (jiān fù) Shoulder (a responsibility)
+2154,妒,jealous of,dù,
+2155,炉,stove,lú,
+2156,芦,"reed or rush, a type of plant commonly found in wetlands, riverbanks, or lakes",lú,
+2157,扇,fan (n.) (to make wind),shàn,
+2158,奈,can't help but (having no other choice),nài,
+2159,款,funds,kuǎn,
+2160,凛,chilly,lǐn,
+2161,祟,evil spirit,suì,
+2162,祝,to wish (someone) well,zhù,
+2163,祥,propitious,xiáng,
+v2p117,p.尉,p.cardinal richelieu,,
+2164,蔚,luxuriant (flourishing growth),wèi,
+2165,慰,console (v.),wèi,
+2166,蒜,garlic,suàn,
+2167,棕,palm tree,zōng,
+2168,宙,universe,zhòu,
+2169,轴,axle (the central shaft around which the wheels of a vehicle rotate),zhóu,
+2170,袖,sleeve,xiù,袖手旁观 (xiù shǒu páng guān) Sit by and watch
+2171,庙,temple,miào,
+2172,笛,flute,dí,
+2173,届,"fall due (a term, or an occurrence of an event or meeting)",jiè,
+2174,呻,groan,shēn,
+2175,坤,female,kūn,
+2176,审,"painstaking (careful examination, investigation, or judgment)",shěn,审判 (shěn pàn) Trial
+2177,婶,auntie,shěn,
+2178,畅,"smooth (unimpeded, free-flowing)",chàng,
+2179,巢,nest (n.),cháo,
+2180,棵,"flora (measure word for plants, particularly trees, shrubs, or large plants)",kē,
+2181,裸,naked,luǒ,
+2182,裹,envelop (package),guǒ,
+2183,析,"analyze (to break down, to analyze in detail)",xī,
+2184,晰,distinct (easily seen or understood),xī,
+2185,芹,celery (the vegetable),qín,
+2186,祈,"supplicate (to pray, to wish, or to ask for blessings)",qí,
+2187,欣,"elated (joy, delight, or happiness)",xīn,"欣赏 (xīnshǎng) Appreciate, enjoy"
+2188,掀,"uncover (action of lifting or uncovering something, often in a forceful or sudden manner)",xiān,
+2189,惭,"conscience stricken (with feelings of regret, guilt, or shame)",cán,大言不惭 (dàyán bù cán) Boast shamelessly
+2190,崭,"towering (remarkably high) also ""brand new""",zhǎn,
+2191,浙,"Zhejiang province (Zhejiang is one of China's most prosperous provinces, with a strong private sector.)",zhè,
+2192,誓,"vow (n./v.) (to swear, to take an oath)",shì,
+2193,拆,"to take apart (to dismantle, to tear down)",chāi,
+2194,炸,blow up,zhà,炸药 (zhà yào) explosive; dynamite
+2195,诈,"swindle (to deceive, to cheat, or to trick)",zhà,
+2196,归,"to come back (home, or to an owner)",guī,同归于尽 (tóng guī yú jìn) Mutual destruction
+v2p121,p.刍,p.hairnet,,
+2197,皱,wrinkles,zhòu,
+2198,煞,goblin (evil creature),shà,
+2199,趋,"hasten (in a certain direction, so also tendency, trend, etc.)",qū,
+2200,雏,chick (young bird),chú,
+V2p122-1,p.,p.dunce (a person who is slow at learning),,
+2201,浸,immerse,jìn,
+2202,寝,get some shuteye,qǐn,
+2203,侵,to invade,qīn,
+V2p122-2,彑,"p.whisk broom (a small, handheld broom with short, stiff bristles)",,
+2204,缘,reason (n.) fateful connection,yuán,
+2205,稳,"stable (adj.) (steady, firm)",wěn,
+2206,挡,to fend off (to stop the wind),dǎng,阻挡 (zǔ dǎng) Block -- 兵来将挡 (bīng lái jiàng dǎng) meet force with force; respond appropriately to changes
+2207,剥,to peel off,bāo,
+2208,秉,to wield (to hold),bǐng,
+2209,妻,wife,qī,贤妻良母 (xián qī liáng mǔ) Virtuous wife and good mother
+2210,凄,miserable,qī,
+2211,捷,nimble (quick and light in movement or action),jié,
+2212,肃,solemn,sù,
+2213,啸,howl (v.),xiào,
+2214,萧,desolate,xiāo,
+2215,兼,double (adj.),jiān,
+2216,赚,earn,zhuàn,赚钱 (zhuàn qián) Make money
+2217,嫌,dislike (v.),xián,
+2218,谦,"unassuming (modest, humble)",qiān,
+2219,歉,apology,qiàn,
+2220,廉,inexpensive,lián,
+2221,镰,sickle,lián,
+2222,睁,unshut (v.) action of opening the eyes,zhēng,
+2223,挣,struggle (v.) (exerting effort to overcome something),zhēng,
+2224,筝,Chinese zither,zhēng,
+2225,塘,pool (n.) (reservoirs or fish ponds),táng,
+2226,隶,bondservant (a person bound to service without wages),lì,
+2227,逮,"arrest (v.) (to catch, to seize)",dài,
+2228,慷,generous,kāng,
+2229,糠,"chaff - bran or husk, which is the outer layer of grains like rice or wheat that is removed during processing, but also ""chaff"", used metaphorically to describe something of little value or worth",kāng,
+2230,笋,"bamboo shoot (the young, edible shoots of bamboo plants)",sǔn,
+2231,耍,"to mess around (casually engaging in playful or skillful activities, or behaving in a playful, carefree, or even mischievous way)",shuǎ,
+2232,耐,-proof,nài,
+2233,喘,"to wheeze (someone struggling to breathe, usually after physical exertion)",chuǎn,喘息 (chuǎn xī) Breathe/breathing spell
+2234,揣,"to conjecture (v.) (to guess, to speculate)",chuǎi,
+v2p127,p.曹,p.cadet,,
+2235,槽,trough (n.) a long shallow container for the drinking water or feed of domestic animals,cáo,
+2236,遭,"meet with (usually negative chance encounter, like mit misfortune or disaster)",zāo,
+2237,糟,messed up (situations or things that have gone wrong),zāo,
+2238,抖,"to quiver (v.) (to shiver, to tremble or shake with a slight rapid motion)",dǒu,颤抖 (chàn dǒu) Tremble/shaking -- 发抖 (fā dǒu) Tremble
+2239,惜,rue (v.) (to regret the loss of something cherished),xī,
+2240,措,"to arrange (to take measures, to handle a situation)",cuò,"措施 (cuòshī) measure, step (for dealing with something)"
+2241,腊,dried meat,là,
+2242,蜡,wax (n.),là,
+2243,猎,hunt (v.),liè,
+2244,燕,swallow (n.) (bird: Schwalbe),yàn,
+2245,遮,"screen (v.) (to cover, to block, or to shield)",zhē,
+2246,畔,"littoral (n.) (edge, border, or side of something, especially in the context of natural landscapes like fields, rivers, or lakes.)",pàn,
+2247,拌,blend (v.) (like mixing ingredients in cooking),bàn,
+2248,叛,to betray (to rebel or to defect),pàn,
+2249,券,voucher,quàn,
+2250,藤,rattan (vimini),téng,
+2251,鼎,old cooking pot,dǐng,
+2252,芝,sesame,zhī,
+2253,贬,devalue,biǎn,
+2254,泛,nonspecific (to generally refer to),fàn,
+2255,歪,"askew (crooked, tilted)",wāi,
+2256,矫,rectify,jiǎo,
+2257,矮,short of stature,ǎi,
+v2p131,p.矣,p.crossbow (used for exlamation: yǐ) ,,
+2258,唉,"sigh-ay-ay (exclamation used to express emotions such as sighing, regret, frustration, or resignation)",āi,
+2259,埃,fine dust,āi,
+2260,挨,suffer (to suffer a beating),ái,
+2261,簇,cluster (n.),cù,
+2262,茅,"thatch (n.) or ""reed grass,"" referring to tall, coarse grasses used in traditional thatched roofs",máo,
+2263,橘,tangerine (orange),jú,
+2264,舒,"to relax, to feel comfortable",shū,
+2265,览,view (v.) primitive: magnifying glass,lǎn,
+2266,揽,take on (task or responsibility),lǎn,
+2267,肾,kidneys,shèn,
+2268,竖,perpendicular,shù,
+2269,弘,"noble (implies the expansion or promotion of grand or important ideas, values, or traditions, which often align with noble qualities such as virtue, wisdom, or moral greatness.)",hóng,
+2270,夷,barbarian,yí,
+2271,姨,maternal aunt (mother's sister),yí,
+v2p133,p.畺,p.family feud,,
+2272,疆,dividing line (often used in the context of geographical boundaries),jiāng,
+2273,僵,stiff (adj.),jiāng,
+2274,粥,porridge,zhōu,
+2275,蝉,cicada,chán,蝉 (chán) Cicada
+2276,禅,meditation (zen?),chán,
+2277,沸,bring to a boil,fèi,
+2278,拂,caress (v.),fú,
+2279,剃,shave (v.),tì,
+2280,递,hand over,dì,新闻速递 (xīn wén sù dì) News Bulletin
+2281,梯,ladder,tī,电梯 (diàn tī) elevator; lift
+2282,涕,snot,tì,
+2283,朽,decayed,xiǔ,
+2284,聘,employ (v.),pìn,应聘 (yìng pìn) Apply for a job
+2285,姊,elder sister,zǐ,
+2286,亏,loss (p: double snare - to catch two preys at once),kuī,多亏 (duōkuī) Thanks to
+2287,污,filthy,wū,同流合污 (tóng liú hé wū) to collude with evil
+2288,夸,brag,kuā,
+2289,垮,collapse (v.),kuǎ,
+2290,挎,carry on the arm,kuà,
+2291,鳄,crocodile,è,
+2292,愕,stunned,è,
+2293,躺,lie down,tǎng,
+2294,躲,dodge (v.),duǒ,
+2295,躬,stoop (v.) (to bend one's body),gōng,鞠躬 (jūgōng) to bow
+2296,嗜,hanker (to have a strong desire or craving for something),shì,
+2297,姥,maternal grandmother,lǎo,
+2298,拷,"to flog (""To interrogate by torture"" or ""to subject to harsh questioning."")",kǎo,
+2299,屿,islet (small island),yǔ,岛屿 (dǎoyǔ) Island
+2300,暑,summer heat,shǔ,
+2301,睹,behold,dǔ,
+2302,署,"add your John Hancock (is an idiomatic way of saying ""sign your name"")",shǔ,
+2303,薯,yam (sweet potato),shǔ,
+2304,赌,gamble (v.),dǔ,
+2305,奢,extravagant,shē,
+2306,堵,stop up (verstopfen),dǔ,
+2307,煮,to boil (v.) (to cook by boiling),zhǔ,
+2308,诸,"various (all, numerous)",zhū,
+2309,储,"put in storage (the action of storing or keeping something, especially in the context of resources or finances)",chǔ,
+2310,屠,slaughter,tú,屠杀 (tú shā) Massacre
+2311,棺,coffin,guān,
+2312,爹,"dad (informal, daddy)",diē,
+2313,斧,axe,fǔ,
+2314,咬,bite (v.),yǎo,
+2315,胶,"gum (like glues, pastes, or resins)",jiāo,胶囊 (jiāonáng) Capsule
+2316,狡,"sly (deceptive, clever in a dishonest way, or skillful in avoiding traps and challenges)",jiǎo,狡猾 (jiǎo huá) Cunning
+2317,捉,catch (v.) (like in hide-and-seek),zhuō,
+2318,促,to urge (v.) (to promote),cù,急促 (jí cù) Rapid
+2319,趴,"prostrate oneself (""to lie flat,"" ""to lie on one’s stomach,"" or ""to crouch."")",pā,
+2320,踏,"to trample (the action of putting one's foot down on a surface, often with a sense of firmness or purpose, but ofter repeatedly, like marching)",tà,
+2321,践,"tread on (putting something into practice or implementing it, as well as literally stepping on something)",jiàn,
+2322,跃,leap (v.),yuè,跳跃 (tiào yuè) Jump
+2323,蹄,"hoof (the hard, tough foot of certain animals, like horses, cows, and other hoofed animals)",tí,
+2324,踩,"step on (pretty much identical to trample... but more ""once"" and on a specific object)",cǎi,
+2325,蹦,"hop (v.) (often associated with fun, playfulness, or excitement)",bèng,
+2326,跌,"slump (v.) (a rapid or significant drop, often associated with a decrease in value or level)",diē,
+2327,踢,kick (v.),tī,
+2328,踪,"tracks (from feet, of creatures)",zōng,追踪 (zhuī zōng) Track
+2329,跨,to straddle (v.) or action of moving over something with a wide step,kuà,
+v2p140,p.喿,p.wood pulp,,
+2330,躁,"impetuous (also impatient, impulsive)",zào,
+2331,噪,chirping,zào,
+2332,澡,bath,zǎo,
+2333,藻,algae,zǎo,
+2334,燥,parched,zào,
+2335,操,"exercise (n.) (training, but also to operate or to handle)",cāo,操纵 (cāo zòng) manipulate; control
+2336,猾,cunning,huá,狡猾 (jiǎo huá) Cunning
+2337,髓,marrow,suǐ,
+2338,陌,"unfamiliar footpath (originally footpath or field division, nowadays means unfamiliar, strange",mò,
+2339,隙,"rift (n.) (gap, crack, crevice)",xì,
+2340,陡,steep,dǒu,
+2341,陪,"accompany, to keep someone company",péi,奉陪 (fèng péi) Accompany
+2342,障,barrier,zhàng,障碍 (zhàng ài) Obstacle -- 故障 (gù zhàng) Malfunction
+2343,隧,tunnel (n.),suì,
+2344,陋,"undesirable (something that is of poor quality, plain, or lacking refinement. It can also refer to narrow-mindedness or a lack of sophistication.)",lòu,
+2345,隐,hidden,yǐn,隐瞒 (yǐn mán) Conceal -- 隐秘 (yǐn mì) Secret/Hidden -- 隐约 (yǐn yuē) vague; indistinct; faint
+2346,陕,"Shaanxi province, known for historical sites like the Terracotta Army",shǎn,
+V2p143-1,p.夌,p.minuteclods ,,
+2347,陵,mausoleum,líng,
+2348,棱,edge (n.),léng,
+2349,菱,"water caltrop (a type of aquatic plant with edible seeds, also known as Trapa natans)",líng,
+2350,凌,bully (v.),líng,凌厉 (líng lì) swift and fierce
+V2p143-2,p.鬲,p.cauldron,,
+2351,融,melt,róng,
+2352,隔,separate (v.),gé,
+2353,窃,to pilfer (steal small items or amounts in a secretive way),qiè,
+2354,挖,dig (v.),wā,
+2355,帘,drapes,lián,
+2356,窥,peep (v.),kuī,"偷窥 (tōu kuī) peep, spy -- 窥视 (kuī shì) Peep"
+2357,穷,poor,qióng,
+2358,窄,strait (adj.) (not wide),zhǎi,
+2359,榨,"extract (v.) (to squeeze, to press)",zhà,
+2360,窟,den,kū,窟窿 (kū long) Hole
+2361,窘,poverty-stricken,jiǒng,
+2362,窜,to scurry (move hurriedly with short quick steps),cuàn,
+2363,腔,body cavity,qiāng,
+v2p145,p.呙,p.esophagus,,
+2364,窝,"hollow (n.) often used to describe a nest or den where animals live, such as a mouse's burrow",wō,
+2365,涡,whirlpool,wō,
+2366,锅,pot,guō,
+2367,祸,misfortune,huò,杀身之祸 (shā shēn zhī huò) Fatal disaster
+2368,蜗,snail,wō,
+2369,宾,visitor,bīn,
+2370,滨,water's edge,bīn,
+2371,绷,stretch taut,bēng,
+2372,纤,fiber (things that are thin or delicate),xiān,
+2373,绰,"ample (something that is spacious, ample, or abundant)",chuò,
+2374,绍,acquaint (to get to know sameone),shào,介绍 (jiè shào) Introduce
+2375,纱,yarn (Garn),shā,
+2376,络,"web (being connected or interwoven, like a network or a web)",luò,联络 (lián luò) Contact
+2377,绸,"silk fabric (a smooth, elegant silk material that is often used for clothing or decorations)",chóu,
+2378,绒,"down (n.) (the soft, fluffy feathers found on young birds, especially ducks and geese)",róng,
+2379,绕,go around,rào,绕路 (rào lù) Detour
+2380,绽,"split at the seams (""To burst,"" ""to split open,"" or ""to blossom."")",zhàn,破绽 (pò zhàn) Flaw
+2381,绵,continuous,mián,
+2382,缔,conclude (of agreements or treaties),dì,
+2383,纺,"spin (v.) ""to weave,"" or ""to spin thread.""",fǎng,
+2384,缠,wind around,chán,难缠 (nán chán) Difficult to deal with/Annoying
+2385,绘,"paint (v.) (the act of creating visual art, such as drawing or painting)",huì,
+2386,纷,disorderly,fēn,
+2387,绣,"embroidery (art of decorating material, primarily textile fabric, by means of a needle and thread (and sometimes fine wire))",xiù,
+2388,缕,"in detail (refers to something thin, long, and delicate, like a strand of thread, a wisp of smoke, or a fine line)",lǚ,
+2389,缩,shrink (v.),suō,缩小 (suōxiǎo) shrink -- 缩短 (suō duǎn) shorten; reduce in length
+2390,纳,"let in (to receive, to admit)",nà,
+2391,综,to sum up,zōng,
+2392,绅,gentry (gentelmen and ladies),shēn,
+2393,绪,"inception (beginning, starting point, or the initial thread that sets something in motion)",xù,情绪 (qíng xù) Emotion
+2394,绞,to wring (to entangle),jiǎo,
+v2p149,p.爰,p.migrating ducks,,
+2395,缓,"unhurried (slowing down, softening, or making something less intense)",huǎn,
+2396,暖,warm (adj.),nuǎn,
+2397,援,provide assistance,yuán,
+V2p150-1,p.肙,p.canker sore,,
+2398,绢,"tough silk (a fine, soft type of silk cloth traditionally used in China for painting, calligraphy, or as a high-quality fabric)",juàn,
+2399,捐,"contribute (giving or donating money, goods, or resources, often for charitable purposes)",juān,
+V2p150-2,p.敫,p.homing pigeon,,
+2400,缴,to shell out (paying a fee or submitting money),jiǎo,
+2401,邀,request the presence of,yāo,邀请 (yāoqǐng) to invite
+2402,缆,cable (n.),lǎn,
+2403,哟,Oh!,yō,
+2404,颈,neck (n.),jǐng,
+2405,茎,plant stem,jīng,
+2406,径,trail (n.) (also shortcut),jìng,田径 (tián jìng) Track and field
+2407,劲,powerful,jìng,差劲 (chà jìn) Poor/badly -- 费劲 (fèi jìn) strenuous/requiring effort -- 不对劲 (bú duì jìn) something's wrong; strange; off
+2408,幼,young,yòu,自幼 (zìyòu) Since Childhood -- 幼稚 (yòu zhì) Childish
+2409,溪,creek,qī,
+2410,幽,secluded,yōu,幽默感 (yōu mò gǎn) Sense of humor
+2411,玄,mysterious,xuán,
+2412,弦,bowstring (or string of musical instruments),xián,
+2413,畜,livestock,chù,
+2414,蓄,save up,xù,
+v2p152,p.兹,p.Mona Lisa,,
+2415,磁,magnetism,cí,
+2416,滋,nourish,zī,
+2417,慈,kindhearted,cí,心慈手软 (xīn cí shǒu ruǎn) Soft-hearted
+2418,累,tired,lèi,积累 (jī lěi) Accumulate
+2419,螺,spiral shell,luó,
+2420,紫,purple,zǐ,
+2421,繁,"numerous, complex",fán,繁衍 (fán yǎn) Reproduce/Propagate
+2422,絮,"long-winded (excessive, flowing on without restraint)",xù,
+v2p153,p.,p.chapel,,
+2423,索,large rope,suǒ,摸索 (mō suǒ) Explore -- 索然无味 (suǒ rán wú wèi) Tasteless
+v2p154,p.孛,p.sunday school,,
+2424,脖,head-hinge,bó,
+2425,勃,"vibrant (something that bursts forth, increases in intensity, or flourishes suddenly)",bó,野心勃勃 (yě xīn bó bó) Ambitious
+2426,卸,"to unload (to remove, to take off)",xiè,
+2427,御,"withstand (to defend, to resist)",yù,防御力 (fáng yù lì) Defense
+2428,卵,"nest eggs (""egg"" in the biological sense, such as an animal or insect egg)",luǎn,
+v2p155,p.孚,"p.fledglings (a young bird that has just fledged) - (孚 (fú) carries meanings related to ""trust,"" ""confidence,"" and ""sincerity."")",,
+2429,孵,hatch (v.),fū,孵出来 (fū chū lái) Hatch
+2430,乳,breast,rǔ,乳臭未干 (rǔ xiù wèi gān) Wet behind the ears
+2431,浮,float (v.),fú,
+2432,俘,captive,fú,
+2433,榴,pomengranate,liú,
+2434,爷,grandfather,yé,少爷 (shào ye) young master; son of wealthy family
+2435,疑,to doubt (v.) (p. furled brow),yí,无疑 (wúyí) no doubt -- 可疑 (kě yí) suspicious
+2436,凝,"to congeal (""to condense,"" ""to solidify,"" or ""to concentrate."")",níng,
+2437,玲,"exquisite (Jade tinkling: It refers to the sound of jade or other precious stones when they softly collide, often associated with elegance and purity.)",líng,
+2438,铃,small bell (like a doorbell or bicycle bell),líng,
+2439,怜,to pity (v.),lián,可怜 (kělián) Pitiful
+2440,岭,mountain range (or mountain ridge),lǐng,
+2441,伶,actor,líng,
+2442,涌,"to gush (v.) (""to surge"" or ""to well up,"" and it often refers to the forceful, sudden movement of water or emotions)",yǒng,泉涌 (quányǒng) Spring out
+2443,桶,bucket,tǒng,
+2444,诵,read aloud,sòng,
+2445,范,"model (pattern or example, not scale airplane kit)",fàn,
+2446,扼,to clutch (v.),è,
+2447,卷,exam paper,juàn,
+2448,倦,"worn out (""tired,"" ""weary,"" or ""fatigued."")",juàn,
+2449,圈,circle (n.) (geometry and people),quān,圆圈 (yuán quān) Circle -- 兜圈子 (dōu quān zi) Go in circles -- 圈套 (quān tào) trap; snare; scheme -- 光圈 (guāng quān) aperture (photography)
+v2p158,p.夗,p.nameplate,,
+2450,怨,resentment (blaming someone for perceived wrongs or injustices),yuàn,
+2451,宛,"winding (a twisting, round, movement or course) (p: mailbox)",wǎn,
+2452,腕,wrist,wàn,
+2453,婉,tactful,wǎn,
+2454,碗,bowl,wǎn,
+2455,苍,ash-colored,cāng,
+2456,抢,rob,qiǎng,
+2457,诡,deceitful,guǐ,诡计 (guǐ jì) trick/scheme
+2458,跪,kneel,guì,
+v2p159,p.,p.zipper,,
+2459,舆,popular (association with public opinion or sentiment),yú,
+2460,酌,pour wine,zhuó,
+2461,酬,reward (n./v.),chóu,
+2462,酷,brutal,kù,
+2463,醇,"mellow wine (rich, smooth, and full-bodied aroma)",chún,
+2464,醋,vinegar,cù,
+v2p160,p.,p.chocolate turtle,,
+2465,酱,thick sauce,jiàng,
+2466,奖,award (n.),jiǎng,奖金 (jiǎng jīn) Prize
+2467,浆,thick liquid,jiāng,
+2468,桨,oar (or paddle),jiǎng,
+2469,蒋,Jiang,jiǎng,
+v2p161,p.卒,p.foot soldiers,,
+2470,醉,drunk,zuì,
+2471,碎,shattered,suì,击碎 (jī suì) Shatter -- 粉身碎骨 (fěn shēn suì gǔ) Shattered to pieces -- 粉碎 (fěn suì) Smash
+2472,翠,emerald green,cuì,
+2473,粹,unmixed (pure),cuì,
+v2p162,p.夋,p.streetwalker,,
+2474,酸,sour,suān,
+2475,梭,"shuttle (n.) - the weaving tool, but also used metaphorically",suō,
+2476,峻,lofty (of imposing height),jùn,
+2477,俊,handsome,jùn,
+2478,奠,found (v.) (in the sense of establishing an institution),diàn,
+2479,蹲,squat (v.),dūn,
+2480,逗,tease (v.),dòu,逗 (dòu) to tease
+2481,橱,closet,chú,
+2482,嘻,giggling,xī,
+2483,嘉,"commend (refers to approval, commendation, or praise)",jiā,
+2484,盟,alliance,méng,
+2485,孟,Mencius,mèng,
+2486,猛,fierce,měng,猛兽 (měng shòu) Beast
+2487,盐,salt (n.),yán,
+2488,盔,helmet,kuī,
+2489,盒,small box,hé,
+2490,盛,flourishing,shèng,
+2491,盏,small cup,zhǎn,
+2492,盗,master thief,dào,海盗 (hǎidào) Pirate
+2493,磕,collide with,kē,
+2494,盈,to replete (in the sense of being completely filled),yíng,
+2495,盆,basin,pén,
+2496,蕴,amass,yùn,蕴藏 (yùn cáng) Contain
+v2p164,p.,p.bullfighter,,
+2497,鉴,"to probe (v.) (to examine, to reflect upon, to appraise...)",jiàn,
+2498,滥,indiscriminate,làn,滥杀无辜 (làn shā wú gū) Kill innocent people indiscriminately
+V2p165-1,p.尢,p.frankenbowser,,
+2499,尴,abashed,gān,
+2500,尬,embarrassed,gà,
+V2p165-2,p.冘,p.frankenbowser rex,,
+2501,沈,Shen (family name),Shěn,
+2502,枕,pillow,zhěn,
+2503,耽,indulge in,dān,耽误 (dān wu) to delay; to hold up (often due to negligence)
+2504,衅,quarrel (n.),xìn,挑衅 (tiǎo xìn) provocation
+2505,垦,reclaim (preparing and cultivating previously uncultivated land for farming),kěn,
+2506,狠,ruthless,hěn,"狠狠 (hěn hěn) vigorously, fiercely"
+2507,恳,wholeheartedly (deep sincerity or genuine intent),kěn,
+2508,艰,"arduous (difficult, hard)",jiān,"艰苦卓绝 (jiān kǔ zhuó jué) extremely hard and bitter/arduous -- 艰苦 (jiān kǔ) Hardship -- 艰难 (jiānnán) difficult, hard"
+2509,爵,upper crust (aristocracy),jué,
+2510,嚼,chew (v.),jiáo,
+2511,卿,minister (n.) (govt official),qīng,
+2512,恨,hate (v.),hèn,憎恨 (zēng hèn) Hate -- 痛恨 (tònghèn) Despise
+2513,朗,lucent,lǎng,"开朗 (kāi lǎng) cheerful, optimistic"
+2514,狼,wolf,láng,
+2515,粮,provisions (food supply),liáng,狗粮 (gǒu liáng) dog food
+2516,酿,brew (v.),niàng,
+2517,饥,starving,jī,"饥饿 (jī'è) hunger, hungry"
+2518,饶,to spare (v.) to forgive,ráo,不依不饶 (bù yī bù ráo) Relentless -- 饶不了 (ráo bù liǎo) won't forgive
+2519,饰,ornaments,shì,
+2520,饮,beverage,yǐn,饮料 (yǐnliào) Drink
+2521,蚀,"eat away (erode, corrode)",shí,
+2522,饱,sated (Full; satiated (from eating)),bǎo,
+2523,馒,bread,mán,
+2524,饼,cookie,bǐng,
+2525,饺,dumpling,jiǎo,
+2526,饿,hungry,è,"饥饿 (jī'è) hunger, hungry"
+2527,溉,irrigate,gài,
+2528,慨,incensed (resolute or heroic attitude in the face of adversity),kǎi,
+2529,苹,apple,píng,
+2530,萍,duckweed (a type of floating aquatic plant),píng,
+2531,秤,scale (n.),chèng,
+2532,淆,"to confuse, to mix up",xiáo,
+2533,艾,Chinese mugwort (one of the herbs used in the heat therapy known as moxibustion - use this as radical),ài,
+2534,哎,good grief!,āi,
+2535,赵,Zhao (surname),zhào,
+2536,攀,climb (v.),pān,
+2537,刹,brake (v.),shā,刹那 (chà nà) instant; brief moment
+2538,枫,maple,fēng,
+2539,钢,steel,gāng,
+2540,岗,hillock (small hill),gǎng,
+2541,纲,guidelines,gāng,
+2542,屯,stockpile (v.) (p: earthworm),tún,
+2543,吨,ton (unit of weight),dūn,吨 (dūn) Ton
+2544,顿,pause (n./v.),dùn,
+2545,纯,unadulterated,chún,纯正 (chún zhèng) Pure/ Genuine -- 单纯 (dān chún) Simple
+2546,齿,teeth,chǐ,
+2547,龄,length of service,líng,年龄 (nián líng) Age
+2548,汹,turbulent (literal or metaphorical),xiōng,
+2549,篱,fence,lí,
+2550,仪,rite (n.),yí,
+2551,辜,crime,gū,滥杀无辜 (làn shā wú gū) Kill innocent people indiscriminately
+2552,辞,phraseology (choice of words),cí,
+2553,宰,butcher (v.),zǎi,宰 (zǎi) Slaughter
+2554,辨,differentiate,biàn,
+2555,辫,braid (n.) - Refers to hair that is woven or interlaced into strands,biàn,
+2556,臂,arm (n.),bì,
+2557,劈,"split (v.) chop, hack, slash",pǐ,
+2558,譬,analogy,pì,
+2559,僻,out-of-the-way,pì,
+2560,纠,entangle,jiū,
+2561,咳,cough (v.),ké,
+2562,嚷,"cry out (shout, yell)",rǎng,
+2563,镶,"inlay (v.) (embedding, or setting something into another material)",xiāng,
+2564,塞,stronghold,sài,
+2565,寨,stockade,zhài,
+2566,晴,sunny,qíng,
+2567,猜,guess (v.),cāi,猜想 (cāi xiǎng) Speculate
+2568,靖,pacify,jìng,
+2569,债,debt (also moral or emotional debt),zhài,
+2570,牲,domestic animal,shēng,
+2571,隆,impressive,lóng,
+2572,腥,fishy smell,xīng,
+2573,猩,orangutan,xīng,猩猩 (xīngxing) gorilla
+2574,醒,awaken,xǐng,苏醒 (sū xǐng) regain consciousness
+2575,寿,longevity,shòu,
+2576,畴,farmland,chóu,
+2577,涛,large waves,tāo,
+2578,铸,cast (v.) (the process of melting metal and pouring it into a mold to create a specific shape or form),zhù,
+2579,祷,pray,dǎo,祷告 (dǎo gào) pray (v.) / prayer (n.)
+2580,筹,make arrangements,chóu,筹码 (chóu mǎ) Chip/Stake
+2581,契,contract (n.) agreement,qì,
+2582,拜,"adore (to worship, to pay respects)",bài,拜托 (bài tuō) Please
+v2p175,p.夆,p.briar (don't confuse with briar patch 韦),,
+2583,锋,cutting edge (literal and metaphorical),fēng,交锋 (jiāo fēng) Confrontation -- 锋利 (fēng lì) Sharp
+2584,逢,to chance upon (to meet or come across something by chance),féng,千载难逢 (qiān zǎi nán féng) Once in a lifetime
+2585,缝,to sew,féng,
+2586,蓬,"disheveled (lush, unkempt, or fluffy, like disheveled hair)",péng,
+2587,篷,awning or tent,péng,
+2588,蜂,bee,fēng,
+2589,峰,peak (n.) also metaphorically,fēng,
+2590,瞎,visionless,xiā,
+2591,辖,"administer (to govern, to steer)",xiá,
+2592,豁,breach (n.) (also metaphorical opening),huō,
+2593,韩,Korea,hán,
+2594,违,disobey,wéi,
+2595,纬,latitude,wěi,
+2596,奏,"play an instrument, make a formal proposal",zòu,
+2597,凑,gather together,còu,凑合 (còu he) Make do/mediocre
+2598,秦,Qin,qín,
+2599,蠢,foolish,chǔn,蠢 (chǔn) Stupid -- 蠢货 (chǔn huò) Fool -- 愚蠢 (yú chǔn) stupid
+V2p178,p.,p.scarecrow,,
+2600,泽,swamp (n.),zé,
+2601,译,translate,yì,
+2602,择,select (v.) implying a deliberate and thoughtful decision-making process,zé,选择 (xuǎn zé) Choose
+2603,捧,to hold up with both hands,pěng,
+2604,砖,brick,zhuān,
+2605,唾,saliva,tuò,
+2606,吟,recite,yín,
+2607,贪,greedy,tān,贪心 (tān xīn) Greedy
+2608,琴,stringed instrument,qín,
+2609,炼,refine,liàn,
+2610,晒,bask (to sunbathe or bask in the sun),shài,
+2611,洒,spill (v.),sǎ,
+2612,栖,"perch (v.) (birds or other animals settling or resting in a place, typically in trees or other high locations)",qī,
+2613,栗,chestnut,lì,
+2614,牺,sacrifice (v.),xī,
+2615,潭,deep pool,tán,
+2616,覆,"overturn (objects, but also to cover a topic)",fù,
+2617,飘,flutter (v.) (movement of something light or airy being carried gently by the wind),piāo,
+2618,献,to donate,xiàn,
+2619,阔,broad,kuò,广阔 (guǎng kuò) Vast
+2620,润,to moisten,rùn,
+2621,阁,"cabinet (in the context of government, but coming from architecture)",gé,
+2622,搁,to put aside,gē,
+2623,闹,to stir up trouble,nào,"胡闹 (hú nào) Fool around, act recklessly"
+2624,阅,"to peruse (to read, to peruse texts, documents, etc.)",yuè,
+2625,闷,"stuffy, suffocating - bored, depressed ",mēn,闷 (mèn) Bored
+2626,闭,close (v.),bì,闭嘴 (bì zuǐ) Shut up
+2627,闪,to flash (v.) (light),shǎn,闪 (shǎn) Flash
+2628,阀,valve,fá,
+2629,闸,floodgate,zhá,
+2630,阐,explicate,chǎn,
+2631,涧,"ravine (narrow valley or gorge between mountains, often with a small stream running through it)",jiàn,
+2632,菲,humble (adj.),fēi,
+2633,辈,lifetime,bèi,等闲之辈 (děng xián zhī bèi) ordinary people -- 一辈子 (yī bèi zi) all one's life
+2634,悲,sad,bēi,悲伤 (bēi shāng) Sad -- 悲观 (bēi guān) Pessimistic
+2635,徘,irresolute,pái,
+2636,喉,"gullet (the oesophagus, Speiseröhre)",hóu,
+2637,猴,monkey,hóu,
+2638,肝,liver,gān,
+2639,刊,"publication (of a magazine, for example)",kān,
+2640,奸,"adultery (cunning, deceitful, or morally corrupt behavior)",jiān,
+2641,汗,sweat (n.),hàn,汗毛 (hàn máo) body hair; fine hair on skin
+2642,杆,"shaft, rod, pole",gǎn,
+2643,轩,(elegant) veranda,xuān,
+2644,罕,rarely,hǎn,
+2645,竿,pole,gān,
+2646,悍,bold (brave),hàn,强悍 (qiáng hàn) Strong and tough
+2647,吁,plead,yù,
+2648,涂,smear (v.),tú,"涂 (tú) paint, smear"
+2649,叙,recount (v.) (to narrate),xù,
+2650,徐,slowly,xú,
+2651,斜,slanting (positioned or directed in a sloping or oblique direction),xié,
+2652,喇,"flared horn (sounds, exclamations, and specific cultural or religious contexts)",lǎ,
+2653,嗽,"hack (v.) like in a ""hacking cough"", nothing to do with hackfleisch or computer hacking",sòu,
+2654,赖,rely on,lài,
+2655,懒,lazy,lǎn,懒 (lǎn) Lazy
+2656,嫩,tender (adj.),nèn,
+2657,董,director,dǒng,
+2658,疗,cure (v.),liáo,
+2659,痰,phlegm (mucus),tán,
+2660,症,disease (I'd say: symptom),zhèng,
+2661,疼,hurt (v.),téng,
+2662,痒,itch (v.),yǎng,
+2663,瘫,paralysis,tān,
+2664,疫,epidemic,yì,
+2665,癌,cancer,ái,
+2666,疲,fatigued,pí,筋疲力尽 (jīn pí lì jìn) Exhausted
+2667,痴,idiotic,chī,白痴 (báichī) idiot
+2668,瘤,tumor,liú,
+2669,疮,sore (n.),chuāng,
+2670,疾,rapid,jí,
+2671,瘾,addiction,yǐn,过瘾 (guòyǐn) Satisfy a craving
+2672,痕,"trace (n.) (mark, scar)",hén,
+2673,汇,"converge (the coming together of things—rivers, people, ideas, or data)",huì,
+2674,框,rectangular frame,kuàng,
+2675,筐,rectangular basket,kuāng,
+2676,砸,smash (v.),zá,
+2677,匠,artisan,jiàng,
+2678,匪,bandit,fěi,受益匪浅 (shòu yì fěi qiǎn) Benefited greatly
+2679,匿,keep out of sight,nì,
+2680,兜,pocket,dōu,兜圈子 (dōu quān zi) Go in circles
+2681,巨,gigantic (p. giant),jù,
+2682,柜,cupboard,guì,
+2683,渠,canal,qú,
+2684,拒,refuse (v.),jù,"拒绝 (jùjué) to refuse, reject"
+2685,矩,square (n.) (measuring tool),jǔ,
+2686,距,distance,jù,距离 (jù lí) Distance
+2687,殴,hit (v.),ōu,
+2688,呕,vomit (v.),ǒu,
+2689,躯,human body,qū,
+2690,昂,hold one's head high,áng,
+2691,抑,curb (v.) (to suppress / restrain / hold back),yì,
+2692,葵,large-flowered plants (like sunflowers),kuí,
+V2p190-1,p.登,p.stepladder,,
+2693,瞪,glare (v.) (to stare),dèng,
+2694,凳,bench,dèng,
+2695,澄,transparent (to clarify / clear up / settle),chéng,
+V2p190-2,p.尞,p.pup tent,,
+2696,僚,coworker,liáo,
+2697,拨,to allocate,bō,
+2698,泼,to splash (v.),pō,
+V2p190-3,p.犮,p.seeing-eye chihuahua,,
+2699,拔,pull out,bá,选拔 (xuǎn bá) selection -- 拔 (bá) pull out/extract
+2700,杉,fir tree,shān,
+2701,彬,well-mannered,bīn,
+2702,衫,shirt,shān,
+2703,彰,manifest (adj.) (clear to see),zhāng,
+2704,膨,puffy (swollen),péng,
+2705,渗,"to seep, ""to leak,"" or ""to infiltrate""",shèn,
+2706,诊,diagnose,zhěn,
+2707,趁,take advantage of,chèn,趁机 (chènjī) Take the opportunity
+v2p193,p.翏,p.kiddie cocktail,,
+2708,寥,"deserted (emptiness, loneliness, or desolation)",liáo,
+2709,谬,wrong (adj.),miù,
+2710,铲,small shovel,chǎn,
+2711,萨,Samoa (Ale: Pizza),sà,
+2712,刘,Liu,liú,
+2713,坟,tomb,fén,
+2714,纹,design (n.) (in the sense of pattern),wén,
+2715,斋,"abstain from food (fasting, also religious)",zhāi,
+2716,斑,"speck (a tiny spot or small particle, especially on a surface)",bān,
+2717,剂,pharmaceutical (n.),jì,
+2718,挤,squeeze (v.),jǐ,
+2719,脊,backbone,jǐ,
+2720,函,letter (Brief),hán,
+2721,涵,"culvert (a tunnel carrying a stream or open drain under a road or railway) because ""to contain"" or ""to allow flow through""",hán,
+2722,映,"reflect (light, image, colors)",yìng,
+2723,殃,calamity,yāng,
+2724,秧,youngling,yāng,
+2725,焕,glowing,huàn,焕发 (huàn fā) Radiate
+2726,肥,plump,féi,
+2727,爬,crawl (v.),pá,
+2728,疤,scar (n.),bā,
+2729,甜,sugary,tián,
+2730,嵌,"set (v.) (It often describes an object being inserted tightly into another, like a gem in a ring, tiles in a wall, or code in programming.)",qiàn,
+2731,钳,pliers (tongs),qián,
+2732,媒,matchmaker,méi,
+2733,煤,coal,méi,
+2734,谋,"to scheme (v.) (to plan, to strategize)",móu,阴谋 (yīn móu) Conspiracy -- 有勇无谋 (yǒu yǒng wú móu) Brave but not smart
+2735,棋,chess,qí,
+2736,欺,to dupe (intentionally misleading or tricking someone for personal gain or to their disadvantage),qī,欺人太甚 (qī rén tài shèn) Bully excessively -- 欺负 (qīfu) to bully
+2737,旗,flag (n.) or banner,qí,
+2738,嘶,hoarse,sī,
+2739,撕,rip (v.),sī,
+v2p197,p.甚,p.hercules,,
+2740,堪,to tolerate,kān,不堪设想 (bù kān shè xiǎng) Unimaginable
+2741,勘,to survey (v.),kān,
+2742,遣,to dispatch (v.) (send someone on a mission or task),qiǎn,消遣 (xiāo qiǎn) Amusement/pastime
+2743,谴,"to censure (v.) (also to condemn, in a moral and official sense)",qiǎn,
+2744,囊,sack (n.),náng,胶囊 (jiāonáng) Capsule
+2745,溃,"burst (v.) (to collapse, to break down)",kuì,
+2746,宜,fitting (adj.),yí,占便宜 (zhàn piányi) Take Advantage -- 适宜 (shì yí) Suitable
+2747,谊,friendship,yì,
+2748,租,"rent (n./v.) (both mieten, vermieten, and also rental, rented item and money paid)",zū,
+2749,粗,coarse (both physical and abstract things like manners or work quality),cū,粗暴 (cūbào) rough; rude
+2750,阻,block (v.),zǔ,阻止 (zǔ zhǐ) Prevent -- 阻挡 (zǔ dǎng) Block -- 阻挠 (zǔ náo) obstruct; hinder
+2751,桑,mulberry tree,sāng,
+2752,嗓,voicebox (where are the vocal cords),sǎng,
+2753,叠,to heap (v.) to pile up,dié,
+2754,锄,hoe (n./v.),chú,
+2755,碰,bump (v.),pèng,
+2756,谱,musical score (music sheet),pǔ,
+2757,壶,kettle,hú,
+2758,凿,bore a hole,záo,
+2759,湿,wet,shī,湿透 (shītòu) drenched
+2760,哑,mute (adj.),yǎ,
+2761,晋,"to promote (at work, in competitions)",jìn,
+2762,哄,fool (v.),hǒng,
+2763,洪,"to deluge - to overflow with water, inundate, flood",hóng,
+2764,烘,warm by a fire,hōng,
+2765,戴,have on,dài,
+2766,翼,wings,yì,
+2767,恭,respectful,gōng,
+2768,拱,arch (n./v.),gǒng,
+2769,撰,"to compose, to author",zhuàn,
+2770,粪,dung,fèn,
+2771,殿,ceremonial hall,diàn,神殿 (shén diàn) Temple
+2772,暴,violent,bào,"暴露 (bào lù) to expose, to reveal -- 火暴 (huǒ bào) Fiery -- 粗暴 (cūbào) rough; rude"
+2773,瀑,waterfall,pù,
+2774,爆,explode,bào,
+2775,拥,hug (v.),yōng,拥有 (yōng yǒu) Own
+2776,佣,put to work,yōng,
+2777,甩,to fling (v.) to throw or swing something with force,shuǎi,甩 (shuǎi) throw
+2778,庸,mediocre,yōng,
+2779,触,to touch (v.),chù,触及 (chù jí) Touch
+2780,蟹,crab (n.),xiè,
+2781,懈,lax (or to slack off),xiè,
+2782,册,Vol.,cè,名册 (míng cè) Roster
+2783,删,"to delete (editing text, removing content, or erasing data)",shān,
+2784,栅,palisade,zhà,
+2785,珊,coral,shān,
+2786,遍,everywhere,biàn,
+2787,偏,"partial (inclined, biased)",piān,"偏偏 (piān piān) unfortunately, just"
+2788,抵,resist,dǐ,抵抗 (dǐ kàng) resist/oppose
+2789,氓,hoodlum (a violent criminal or troublemaker; a hooligan or gangster.),máng,
+2790,哺,breastfeed,bǔ,
+2791,浦,"river mouth, estuary",pǔ,
+2792,蒲,Cattail / Bulrush (a type of plant),pú,
+2793,薄,"slight (adj.) (not much of... not thick, not strong, not deep, not substantial...)",bó,
+2794,铺,shop (n.),pù,
+2795,捕,"to capture (to catch, to seize)",bǔ,
+2796,敷,"to apply (like face masks, medicine, etc.)",fū,
+2797,膊,"shoulder to wrist (upper arm, shoulder area)",bó,胳膊 (gē bo) Arm
+2798,傅,mentor,fù,
+2799,缚,bind fast,fù,
+2800,簿,"register (n.) accounting book, ledger",bù,
+2801,郁,depressed,yù,
+2802,郭,outer walls,guō,
+2803,廓,limitless,kuò,
+2804,邓,Deng,dèng,
+2805,鄙,despicable,bǐ,卑鄙 (bēi bǐ) Despicable
+2806,耶,Jerusalem,Yē,
+2807,邮,post (v.),yóu,
+2808,邦,nation,bāng,
+2809,绑,to truss (to tie the arms and legs of someone together tightly and roughly with rope to prevent them from moving or escaping),bǎng,
+2810,郊,outskirts,jiāo,
+2811,邻,neighbor,lín,
+2812,廊,hallway,láng,
+2813,缎,satin,duàn,
+2814,刁,"wily (sly, crafty” — smart but manipulative)",diāo,
+2815,叼,hold in the mouth,diāo,叼 (diāo) Hold in the mouth
+2816,钙,calcium,gài,
+2817,殷,"ardent (feelings, color)",yīn,
+2818,伺,"attend to (like a servant, or to wait upon)",sì,
+2819,饲,to rear (v.) (to breed and raise (an animal) for use or market),sì,
+2820,舶,"liner (a large luxurious passenger ship - in this case large ships, especially those used for ocean voyages or foreign trade) ",bó,
+2821,舰,warship,jiàn,
+2822,航,navigate,háng,
+2823,舵,rudder (the part of a ship or boat that steers and guides its direction),duò,
+2824,舱,ship's cabin,cāng,
+2825,艇,light boat,tǐng,潜艇 (qiántǐng) Submarine
+2826,沿,"along (prep. like in ""along the beach"")",yán,沿着 (yán zhe) Along
+2827,铅,lead (n.),qiān,
+2828,狐,fox,hú,
+2829,瓣,petal,bàn,
+2830,溢,"brim over (overflowing, also with emotions)",yì,
+2831,隘,"pass (n.) (narrowness, tight spaces, or even narrow-minded thinking)",ài,
+2832,霞,red sky,xiá,
+2833,氨,ammonia,ān,
+2834,氧,oxygen,yǎng,氧气 (yǎng qì) Oxygen -- 氧气罩 (yǎng qì zhào) Oxygen mask
+2835,氛,atmosphere,fēn,
+2836,氢,hydrogen,qīng,
+2837,氯,chlorine,lǜ,
+2838,霸,tyrant,bà,
+2839,靴,boots,xuē,
+2840,鞭,whip (n./v.),biān,
+2841,鞠,bow respectfully,jū,鞠躬 (jūgōng) to bow
+2842,芽,"sprout (n.) (symbolizing new life, beginnings, and potential)",yá,
+2843,讶,surprised,yà,
+2844,雅,polished,yǎ,
+2845,邪,wicked,xié,邪恶 (xié è) Evil
+2846,悉,be informed,xī,熟悉 (shú xī) Familiar
+2847,毯,blanket (n.),tǎn,
+2848,毫,milli-,háo,毫不知情 (háo bù zhī qíng) Completely unaware -- 毫无 (háo wú) Not at all
+v2p213,p.耒,p.christmas tree,,
+2849,耗,"consume (energy, resources, time)",hào,消耗 (xiāo hào) Consume/Expend
+2850,耕,"to till the land (v.) (“to plow,” “to cultivate,”)",gēng,
+2851,籍,"records (where you're from, which books you belong to, or your official status in society)",jí,
+2852,藉,in disorder,jí,
+2853,畏,"be afraid of (a deep, restrained, often respectful kind of fear, like fearing authority, consequences, or the heavens)",wèi,
+2854,喂,Hello...,wèi,
+2855,胀,bloated,zhàng,
+2856,帐,tent,zhàng,
+2857,誉,reputation,yù,
+2858,剑,saber,jiàn,剑 (jiàn) sword
+2859,敛,"restrain, hold in",liǎn,
+2860,捡,pick up (v.),jiǎn,
+2861,俭,"thrifty, frugal (showing a careful use of money, especially by avoiding waste)",jiǎn,
+2862,签,sign (v.) to make a signature,qiān,
+2863,鹏,roc (mythical giant bird),péng,
+2864,鸣,twitter (v.) (sound of a bird),míng,
+2865,鸿,swan,hóng,
+2866,莺,"oriole (a small, beautiful songbird known for its sweet voice) - Trupiale - un tipo di passero",yīng,
+2867,鸽,pigeon,gē,放鸽子 (fàng gēzi) to stand someone up
+2868,鹤,crane,hè,
+2869,鹊,magpie,què,
+2870,鸥,gull,ōu,
+2871,鹅,goose,é,
+2872,鸦,raven,yā,
+2873,乌,crow,wū,
+2874,呜,"zoom-zoom (sound of an automobile racing past) - onomatopoeic character — it mimics the sound of crying, wailing, or moaning, and it often conveys a feeling of sadness, sorrow, or lamentation.",wū,
+2875,捣,pound with a pestle,dǎo,捣乱 (dǎo luàn) Disrupt
+2876,寓,residence,yù,
+2877,愚,pea-brained,yú,愚蠢 (yú chǔn) stupid
+2878,偶,by chance,ǒu,木偶 (mù ǒu) Puppet -- 偶尔 (ǒu’ěr) occasionally
+2879,缸,"vat (large, open container, used for holding liquids or fermenting things)",gāng,
+2880,窑,"kiln (oven, or furnace, especially one used for firing pottery, bricks, or ceramics)",yáo,
+V2p218-1,p.雚,p.stork,,
+2881,罐,jar,guàn,
+2882,灌,pour into,guàn,
+V2p218-2,p.匋,p.canteen,,
+2883,陶,pottery,táo,
+2884,淘,wash in a container,táo,
+2885,掏,to draw out (to take out),tāo,
+2886,谣,rumor (false story),yáo,
+2887,冤,"injustice (to be wrongly blamed, treated unfairly)",yuān,
+2888,挽,tow (v.) - actually in modern chinese: To link arms / hold someone’s arm,wǎn,无可挽回 (wú kě wǎn huí) Irretrievable
+2889,勉,"to strive, to make an effort despite difficulty",miǎn,勉强 (miǎn qiǎng) Reluctant/get ahead of oneself
+2890,馋,gluttonous (who loves to eat or is tempted by food),chán,
+2891,橡,"rubber tree (used for Oak tree or for rubber, not the actual rubber tree)",xiàng,
+2892,豫,pleased,yù,
+2893,码,numeral,mǎ,最起码 (zuì qǐ mǎ) at the very least -- 筹码 (chóu mǎ) Chip/Stake -- 起码 (qǐ mǎ) Minimum -- 密码 (mìmǎ) password
+2894,驯,tame (adj./v.),xùn,
+2895,玛,Matteo,mǎ,
+2896,驻,"to be stationed (used in military, diplomatic, and organizational contexts, indicating the presence of people or forces in a specific location)",zhù,
+2897,骄,"arrogant (pride or arroagance, both positive or negative)",jiāo,骄傲 (jiāo ào) Proud -- 骄傲自大 (jiāo ào zì dà) arrogant; conceited
+2898,驰,gallop (v.),chí,
+2899,蚂,leech-hopper,mà,
+2900,驶,"maneuver (v.) (used with cars, ships, or other vehicles, and refers to controlled, purposeful movement, usually with a driver or operator)",shǐ,驾驶 (jiàshǐ) Drive
+2901,骚,"disturb, tease",sāo,牢骚 (láo sāo) complaint/grumble
+2902,驾,drive (v.) to operate (a vehicle or carriage),jià,驾驶 (jiàshǐ) Drive
+2903,驴,donkey,lǘ,
+2904,腾,take flight,téng,
+2905,骡,mule (mule of donkey and horse),luó,
+2906,骤,"to trot (v.) but used for suddenness, rapid change",zhòu,
+2907,闯,to rush in (v.),chuǎng,
+2908,驱,"to drive away, to urge forward, to expel",qū,
+2909,驳,"to refute (to contradict, to rebut)",bó,
+2910,骗,cheat (v.),piàn,
+2911,唬,to bluff (v.),hǔ,唬人 (hǔ rén) bluff/intimidate
+2912,虏,take captive,lǔ,
+2913,虐,despotic,nüè,
+2914,滤,to filter (v.),lǜ,
+V2p223-1,p.舛,p.sunglasses (evening monocle),,
+2915,瞬,instant,shùn,瞬间 (shùn jiān) Moment
+V2p223-2,p.粦,p.jack-o'-lantern,,
+2916,麟,Chinese unicorn,lín,
+2917,磷,phosphorous,lín,
+2918,唇,lips,chún,
+2919,辱,disgrace (n./v.),rǔ,
+2920,震,quake (v.) (to shake violently — physically or emotionally),zhèn,地震 (dì zhèn) earthquake -- 震颤 (zhèn chàn) tremble/vibrate
+2921,振,vibrate,zhèn,
+2922,郑,Zheng,zhèng,
+2923,掷,to hurl (physical act of throwing something with force or intention),zhì,投掷 (tóuzhì) Throw
+2924,魄,vigor,pò,
+2925,槐,scholar tree,huái,
+2926,魅,"to enchant (captivating, mysterious, and attractive)",mèi,
+2927,瑰,"marvelous (It’s most often used to describe things that are beautiful, valuable, exotic, or unusual)",guī,
+2928,魂,soul,hún,鬼魂 (guǐ hún) Ghost -- 灵魂 (línghún) soul
+2929,愧,ashamed,kuì,不愧 (bù kuì) deserve to be called
+2930,魁,"leader (or someone who stands at the top — often in terms of achievement, strength, or status)",kuí,魁梧 (kuíwú) Sturdy
+2931,胧,"hazy, dim, or misty, often describing moonlight, shadows, or dreamy states in a poetic or literary context",lóng,
+2932,垄,raised path between fields,lǒng,
+2933,宠,to dote on (giving special attention or love to someone or something),chǒng,
+2934,庞,huge,páng,
+2935,拢,draw near,lǒng,
+2936,聋,deaf,lóng,
+2937,笼,cage (n.),lóng,笼罩 (lǒng zhào) shroud
+2938,挪,transfer (v.),nuó,
+2939,辆,vehicles,liàng,
+2940,瞒,to dissemble (to conceal or disguise one's true feelings or beliefs),mán,隐瞒 (yǐn mán) Conceal
+2941,龟,tortoise,guī,
+v2p228,p.黾,p.electrical outlet,,
+2942,蝇,flies (insect),yíng,
+2943,绳,rope (n.),shéng,
+2944,淹,"to inundate, to flood",yān,
+2945,俺,"we (exclusive) only we, not you",ǎn,
+2946,钮,push button (n.) (a button to be pushed),niǔ,按钮 (ànniǔ) Button
+2947,羞,shy,xiū,害羞 (hàixiū) shy
+2948,纽,New York,niǔ,
+2949,赫,"illustrious (a sense of brightness, power, or prominence)",hè,
+2950,奕,"radiating vitality - used in generational names of royal or noble families, it can be associated with radiance or splendor",yì,
+2951,迹,"indication (often used to refer to evidence left behind, such as footprints, movement, or even figurative traces like someone's past actions or influence)",jì,奇迹 (qí jì) Miracle
+2952,蛮,"barbaric (both in the sense of ""non-han"" ""non-civilized"", but also a rafforzative ",mán,野蛮 (yě mán) Barbaric
+2953,啤,beer,pí,
+2954,脾,spleen (Milz),pí,脾气 (pí qì) Temper
+2955,碑,stele (stone tablet),bēi,
+2956,嘱,"admonish (often used when someone seriously tells or reminds another person to do something important, especially in contexts like parting words, final instructions, or careful reminders)",zhǔ,
+2957,肆,IV,sì,
+v2p228,p.臼,p.mortar,,
+2958,插,insert (v.),chā,插队 (chā duì) Cut in line -- 插手 (chā shǒu) Intervene -- 插播 (chā bō) Interrupt broadcast
+2959,毁,ruin (v.),huǐ,毁灭 (huǐ miè) Destroy
+2960,鼠,mouse,shǔ,
+2961,舅,mother's brother,jiù,
+v2p229,p.舀,p.scoop (tool to scoop ice cream),,
+2962,滔,"surging (Vast, surging, endless flow, conveys a sense of unstoppable force)",tāo,
+2963,稻,unhulled rice,dào,
+2964,蹈,"to tread, to step on, or to follow (a path)",dǎo,
+V2p230-1,p.叟,p.cake mixer,,
+2965,嫂,elder brother's wife,sǎo,
+2966,搜,"search (v.) to hunt for, to investigate",sōu,搜寻 (sōu xún) Search -- 搜 (sōu) Search
+2967,瘦,"emaciated (“thin,” “slim,” or “skinny”)",shòu,
+2968,艘,vessels (measure word),sōu,艘 (sōu) Measure word for ships
+V2p230-2,p.臽,p.pothole (Schlagloch - buco nell'asfalto) or in the ground I'd say,,
+2969,焰,flame (n.),yàn,
+2970,馅,filling (n.),xiàn,
+2971,陷,get stuck,xiàn,陷阱 (xiàn jǐng) trap; snare
+v2p231,p.叕,p.stitching,,
+2972,爽,frank (adj.) bold and direct personality,shuǎng,
+2973,缀,embellish,zhuì,
+v2p232,p.囟,"p.farmer's almanac (yearly publication that provides long-range weather forecasts, planting calendars, astronomical data, and traditional advice for farming and daily life.)",,
+2974,傻,thick-headed,shǎ,
+2975,蝴,butterfly (front end),hú,
+2976,蝶,butterfly (back end),dié,
+2977,蜘,spider (front end),zhī,
+2978,蛛,spider (back end),zhū,
+2979,骆,camel (front end),luò,
+2980,驼,camel (back end),tuó,
+2981,蜻,dragonfly (front end),qīng,
+2982,蜓,dragonfly (back end),tíng,
+2983,凤,male phoenix,fèng,
+2984,凰,female phoenix,huáng,
+2985,玻,glass (front side),bō,
+2986,璃,glass (back side),lí,
+2987,橄,olive (A),gǎn,
+2988,榄,olive (B),lǎn,
+2989,芙,hibiscus (A),fú,
+2990,蓉,hibiscus (B),róng,
+2991,咖,coffee (first drop),kā,
+2992,啡,coffee (last drop),fēi,
+2993,葡,grapes (A),pú,
+2994,萄,grapes (B),táo,
+2995,蘑,mushroom (cap),mó,
+2996,菇,mushroom (stem),gū,
+2997,吩,in- (of instruct),fēn,
+2998,咐,-struct (of instruct),fù,
+2999,乒,ping (of ping-pong),pīng,
+3000,乓,pong (of ping-pong),pāng,
+3001,曹,Cao,cáo,
+3002,潘,Pan,pān,
+3003,谭,Tan,tán,
+3004,姚,Yao-2,yáo,
+3005,薛,Xue,xuē,
+3006,彭,Peng,péng,
+3007,冯,Feng,Féng,
+3008,魏,Wei,wèi,
+3009,岳,Yue,yuè,
+3010,莉,jasmine,lì,
+3011,湘,Hunan Province,xiāng,
+3012,甸,outlying areas,diàn,
+3013,沧,dark blue,cāng,
+3014,穆,reverent,mù,
+3015,娜,na,nuó,
+3016,琼,fine jade,qióng,
+3017,琳,gem,lín,
+3018,钧,30 catties,jūn,
+,char,,pron,"补充 (bǔ chōng) Supplement、Recharge -- 主角 (zhǔ jué) Main character -- 本性 (běn xìng) nature; inherent character -- 化身 (huà shēn) incarnation; embodiment (of an idea/character) -- 性格 (xìnggé) personality, character"
+,Hanzi,Keyword,,
+V1p330-1,p.,p.Sickness,,
+V1p331-2,p.,p.Teepee (american indan tent),,
