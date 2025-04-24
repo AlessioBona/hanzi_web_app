@@ -130,6 +130,10 @@
             <span id="result-character"></span>
         </div>
         <div class="result-item">
+            <span class="result-label">Pinyin:</span>
+            <span id="result-pinyin"></span>
+        </div>
+        <div class="result-item">
             <span class="result-label">Keyword:</span>
             <span id="result-keyword"></span>
         </div>
@@ -171,7 +175,7 @@
                     return response.text();
                 })
                 .then(csvData => {
-                    // Parse CSV data with the improved parser
+                    // Parse CSV data with our improved parser
                     characterDatabase = parseCSVProperly(csvData);
                     
                     // Enable search
@@ -211,6 +215,7 @@
                     // Character found
                     document.getElementById('result-id').textContent = result.id;
                     document.getElementById('result-character').textContent = result.character;
+                    document.getElementById('result-pinyin').textContent = result.pinyin || 'N/A'; // Display pinyin or N/A if not available
                     document.getElementById('result-keyword').textContent = result.keyword;
                     document.getElementById('result-description').textContent = result.description;
                     
